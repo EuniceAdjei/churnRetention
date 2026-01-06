@@ -41,10 +41,4 @@ with tab2:
         predictions = model.predict(batch_df)
         batch_df["Prediction"] = ["Churn" if p == 1 else "Stay" for p in predictions]
         st.write(batch_df)
- git init
-git add .
-git commit -m "Initial commit of churn dashboard"
-git branch -M main
-git remote add origin https://github.com/EuniceAdjei/churnRetention.git
-git push -u origin main
-   
+ 
