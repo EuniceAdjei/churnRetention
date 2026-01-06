@@ -16,8 +16,7 @@ with tab1:
     st.header("Single Customer Prediction")
     age = st.number_input("Age", min_value=18, max_value=100, value=30)
     gender = st.selectbox("Gender", ["Male", "Female"])
-    monthly_charges = st.number_input("Monthly Charges" \
-    "", min_value=0, value=50)
+    monthly_charges = st.number_input("Monthly Charges", min_value=0, value=50)
     pricing_issue = st.selectbox("Churn Reason: Pricing", ["Yes", "No"])
 
     if st.button("Predict Single Customer"):
@@ -41,4 +40,3 @@ with tab2:
         predictions = model.predict(batch_df)
         batch_df["Prediction"] = ["Churn" if p == 1 else "Stay" for p in predictions]
         st.write(batch_df)
- 
