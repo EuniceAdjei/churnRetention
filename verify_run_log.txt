@@ -1,0 +1,32 @@
+=== verify_imports run at 2025-12-29T14:48:55.506519Z ===
+python executable: C:\Users\barry\AppData\Local\Programs\Python\Python312\python.exe
+
+Import results:
+- numpy: (True, '2.3.5')
+- pandas: (True, '2.3.3')
+- os: (True, 'stdlib')
+- statsmodels: (True, '0.14.6')
+- scikit-learn: (True, '1.8.0')
+- plotly: (True, '6.5.0', False, True, 'init failed: `iplot` can only run inside an IPython Notebook.')
+
+=== end run 2025-12-29T14:49:03.513590 ===
+
+=== verify_imports run at 2025-12-29T14:53:59.659769Z ===
+python executable: C:\Users\barry\AppData\Local\Programs\Python\Python312\python.exe
+
+Import results:
+- numpy: (True, '2.3.5')
+- pandas: (True, '2.3.3')
+- os: (True, 'stdlib')
+- statsmodels: (True, '0.14.6')
+- scikit-learn: (True, '1.8.0')
+- plotly: (True, '6.5.0', False, True, 'init failed: `iplot` can only run inside an IPython Notebook.')
+
+=== end run 2025-12-29T14:54:35.139527 ===
+
+=== IPython check at 2025-12-29T15:12:10.979480Z ===
+IPython import error:
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+ModuleNotFoundError: No module named 'IPython'
+

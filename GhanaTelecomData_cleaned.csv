@@ -1,0 +1,1787 @@
+Education,EmploymentStatus,TelecomCompany,ReasonForChoosing,DurationWithCompany,PlanType,Churn,ChurnReason_NetworkCoverage,ChurnReason_CustomerService,ChurnReason_Pricing,MonthlyCharges_Numeric,Gender_Numeric,AgeGroup_Numeric
+Primary School,Retired,AirtelTigo,Coverage,1-2 years,Both,0,0,0,0,4,3,2
+High school graduate,Employed part-time,Vodafone,Customer Service,6-12 months,Postpaid,1,1,1,1, ,1,5
+High school graduate,Employed full-time,MTN,Coverage,3-4 years,Both,1,0,0,1,4,2,4
+Postgraduate,Self-employed,MTN,Pricing,3-4 years,Postpaid,1,1,1,0,7,3,2
+Primary School,Employed full-time,Glo,Customer Service,Less than 6 months,Both,0,0,1,0,7,3,2
+High school graduate,Employed full-time,Vodafone,Pricing,3-4 years,Both,0,1,1,0, ,4,4
+High school graduate,Self-employed,AirtelTigo,Pricing,6-12 months,Postpaid,0,0,0,1,4,3,1
+Prefer not to say,Employed part-time,MTN,Customer Service,5 or more years,Prepaid,1,1,1,0,1,1,5
+Primary School,Employed full-time,AirtelTigo,Customer Service,3-4 years,Both,1,0,1,1,5,3,1
+No Education,Student,MTN,Pricing,3-4 years,Postpaid,0,0,1,1,5,4,2
+Primary School,Retired,Glo,Customer Service,Less than 6 months,Both,1,0,0,1, ,4,5
+Primary School,Self-employed,MTN,Prefer not to say,Less than 6 months,Both,1,0,1,0,5,3,1
+No Education,Self-employed,MTN,Customer Service,6-12 months,Postpaid,0,0,0,1,1,2,1
+Postgraduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Both,1,0,1,1,7,3,1
+No Education,Self-employed,MTN,Pricing,1-2 years,Postpaid,1,0,0,0,1,1,2
+Primary School,Self-employed,Vodafone,Prefer not to say,6-12 months,Both,1,1,1,1,5,4,4
+High school graduate,Employed part-time,Vodafone,Customer Service,6-12 months,Prepaid,1,1,1,1,6,1,5
+Undergraduate,Employed full-time,AirtelTigo,Prefer not to say,1-2 years,Both,1,1,0,0,5,1,3
+Primary School,Retired,AirtelTigo,Prefer not to say,5 or more years,Prepaid,0,1,0,0, ,4,4
+Primary School,Student,MTN,Customer Service,3-4 years,Postpaid,0,0,0,1,5,1,1
+Postgraduate,Unemployed,Vodafone,Prefer not to say,1-2 years,Postpaid,0,0,1,0,7,1,1
+Postgraduate,Unemployed,MTN,Coverage,Less than 6 months,Prepaid,0,1,0,1,4,4,3
+Primary School,Unemployed,MTN,Prefer not to say,1-2 years,Both,0,1,0,1,5,1,1
+Primary School,Student,Glo,Customer Service,6-12 months,Postpaid,1,0,1,0,6,4,4
+No Education,Employed part-time,MTN,Prefer not to say,6-12 months,Prepaid,1,1,0,0,2,3,2
+No Education,Self-employed,Glo,Pricing,Less than 6 months,Both,1,0,0,1,5,3,4
+Undergraduate,Unemployed,AirtelTigo,Pricing,5 or more years,Prepaid,0,1,1,0,5,4,4
+Undergraduate,Student,MTN,Pricing,5 or more years,Both,0,1,1,1,4,1,5
+Prefer not to say,Employed full-time,MTN,Prefer not to say,5 or more years,Both,0,0,1,1,5,3,1
+Undergraduate,Employed full-time,MTN,Pricing,Less than 6 months,Prepaid,0,1,0,0,3,2,2
+Postgraduate,Employed part-time,Glo,Customer Service,6-12 months,Postpaid,1,1,0,1,1,4,1
+Prefer not to say,Employed full-time,MTN,Coverage,1-2 years,Postpaid,0,1,0,0,7,4,1
+Primary School,Unemployed,Glo,Coverage,3-4 years,Postpaid,1,1,0,1,7,3,2
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,1,0, ,3,5
+No Education,Retired,MTN,Pricing,3-4 years,Both,0,1,0,0,3,3,4
+Prefer not to say,Retired,AirtelTigo,Customer Service,6-12 months,Both,0,0,0,0,5,4,4
+No Education,Retired,AirtelTigo,Prefer not to say,5 or more years,Postpaid,1,1,0,0,4,1,2
+No Education,Unemployed,Vodafone,Customer Service,3-4 years,Postpaid,0,1,0,1,6,3,4
+No Education,Unemployed,Vodafone,Prefer not to say,1-2 years,Both,0,1,0,1,1,3,2
+Prefer not to say,Retired,MTN,Customer Service,5 or more years,Postpaid,1,0,1,0, ,2,5
+Primary School,Student,MTN,Pricing,Less than 6 months,Postpaid,0,0,1,1,2,2,3
+Postgraduate,Employed part-time,Glo,Prefer not to say,6-12 months,Prepaid,1,1,1,0,4,4,3
+Prefer not to say,Employed full-time,MTN,Customer Service,5 or more years,Postpaid,0,1,0,1,5,2,3
+Postgraduate,Employed part-time,MTN,Customer Service,6-12 months,Both,1,1,1,1,7,1,4
+Prefer not to say,Self-employed,MTN,Prefer not to say,1-2 years,Postpaid,0,1,1,0,3,2,1
+No Education,Unemployed,AirtelTigo,Prefer not to say,Less than 6 months,Prepaid,1,1,1,0, ,4,5
+No Education,Student,MTN,Pricing,3-4 years,Prepaid,0,0,1,1,5,4,2
+High school graduate,Employed full-time,Glo,Customer Service,6-12 months,Both,1,1,0,1, ,4,1
+Undergraduate,Self-employed,Glo,Customer Service,5 or more years,Postpaid,0,1,1,0,7,3,1
+Postgraduate,Employed full-time,MTN,Coverage,3-4 years,Both,0,0,0,0,7,4,3
+High school graduate,Self-employed,Glo,Prefer not to say,1-2 years,Prepaid,0,1,0,0,4,2,3
+Postgraduate,Employed full-time,AirtelTigo,Prefer not to say,3-4 years,Both,1,1,0,1,4,2,1
+High school graduate,Student,Glo,Prefer not to say,Less than 6 months,Both,1,0,1,1,4,4,2
+Primary School,Employed full-time,Glo,Coverage,5 or more years,Both,1,0,0,0,6,3,1
+No Education,Unemployed,MTN,Customer Service,1-2 years,Postpaid,1,0,1,1,4,4,3
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Both,1,0,1,1,7,2,3
+High school graduate,Student,MTN,Pricing,1-2 years,Both,0,1,1,1,7,1,3
+High school graduate,Student,MTN,Prefer not to say,3-4 years,Both,1,1,1,1, ,4,3
+No Education,Self-employed,MTN,Prefer not to say,1-2 years,Both,0,1,0,1, ,3,5
+Prefer not to say,Self-employed,MTN,Customer Service,Less than 6 months,Prepaid,0,1,0,1,7,2,4
+Prefer not to say,Self-employed,Glo,Customer Service,3-4 years,Both,0,0,0,1,7,1,5
+Undergraduate,Employed part-time,Vodafone,Customer Service,3-4 years,Prepaid,0,1,0,0,5,2,1
+Undergraduate,Self-employed,Vodafone,Customer Service,1-2 years,Postpaid,0,1,0,1,4,3,4
+Primary School,Employed part-time,MTN,Pricing,3-4 years,Both,0,0,0,1,7,2,1
+Postgraduate,Student,Vodafone,Pricing,1-2 years,Prepaid,1,0,0,0,2,2,2
+Primary School,Self-employed,MTN,Coverage,1-2 years,Both,0,1,1,0,5,3,1
+High school graduate,Retired,MTN,Prefer not to say,3-4 years,Both,1,0,1,0,1,1,4
+High school graduate,Employed part-time,Glo,Pricing,Less than 6 months,Postpaid,0,0,1,1,2,2,4
+No Education,Retired,Glo,Pricing,6-12 months,Prepaid,1,0,0,1,1,1,2
+Primary School,Unemployed,Vodafone,Coverage,6-12 months,Postpaid,0,1,0,0,4,1,1
+No Education,Student,AirtelTigo,Coverage,1-2 years,Postpaid,0,1,1,1,4,1,4
+Postgraduate,Retired,MTN,Pricing,1-2 years,Both,1,0,1,0,2,1,5
+Prefer not to say,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Both,0,0,0,1,1,1,2
+High school graduate,Self-employed,AirtelTigo,Pricing,6-12 months,Prepaid,0,0,0,1,5,3,1
+Undergraduate,Self-employed,MTN,Customer Service,Less than 6 months,Postpaid,1,0,0,0,4,1,2
+High school graduate,Student,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,0,0,1,1, ,3,1
+Primary School,Retired,Vodafone,Prefer not to say,6-12 months,Postpaid,0,0,1,0,1,1,1
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Postpaid,0,0,1,0,7,4,2
+No Education,Employed full-time,MTN,Customer Service,Less than 6 months,Both,1,0,1,0,1,4,2
+Postgraduate,Employed full-time,MTN,Pricing,3-4 years,Postpaid,0,1,0,0,3,3,3
+High school graduate,Unemployed,MTN,Pricing,5 or more years,Prepaid,1,1,1,1,4,1,2
+Undergraduate,Retired,AirtelTigo,Prefer not to say,Less than 6 months,Prepaid,1,0,1,0,5,1,2
+Primary School,Student,AirtelTigo,Coverage,6-12 months,Postpaid,0,1,0,1,1,4,4
+High school graduate,Student,AirtelTigo,Pricing,1-2 years,Postpaid,1,1,1,1,1,2,1
+Prefer not to say,Retired,MTN,Customer Service,6-12 months,Both,0,1,0,1,4,3,1
+No Education,Employed full-time,Vodafone,Customer Service,6-12 months,Prepaid,1,1,0,1, ,1,5
+No Education,Unemployed,Vodafone,Customer Service,Less than 6 months,Both,0,0,0,0, ,1,4
+Prefer not to say,Employed full-time,MTN,Pricing,1-2 years,Postpaid,0,1,1,1,4,1,2
+Primary School,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,0,3,3,1
+Undergraduate,Self-employed,Glo,Coverage,5 or more years,Both,0,1,0,0,3,1,5
+Postgraduate,Self-employed,Vodafone,Customer Service,Less than 6 months,Both,1,0,0,0, ,3,1
+High school graduate,Employed part-time,Glo,Coverage,5 or more years,Postpaid,1,0,1,0,2,3,4
+Postgraduate,Student,MTN,Coverage,Less than 6 months,Postpaid,1,1,0,1,1,2,5
+High school graduate,Retired,MTN,Coverage,1-2 years,Prepaid,0,1,0,1,7,1,1
+Prefer not to say,Unemployed,Glo,Prefer not to say,6-12 months,Prepaid,0,1,1,0,1,1,2
+Primary School,Student,MTN,Customer Service,5 or more years,Postpaid,0,0,1,0,4,2,4
+Primary School,Self-employed,AirtelTigo,Coverage,6-12 months,Prepaid,1,1,1,1,3,4,4
+Postgraduate,Unemployed,AirtelTigo,Pricing,Less than 6 months,Both,0,1,1,0,3,4,4
+High school graduate,Employed full-time,MTN,Customer Service,1-2 years,Postpaid,1,0,1,1,6,4,3
+Undergraduate,Retired,Glo,Prefer not to say,5 or more years,Prepaid,1,0,0,0,4,4,2
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Prepaid,1,1,0,1,5,1,2
+Undergraduate,Employed full-time,MTN,Customer Service,6-12 months,Prepaid,0,0,0,0,7,3,5
+Undergraduate,Student,MTN,Pricing,5 or more years,Postpaid,0,1,1,1,5,1,5
+Primary School,Employed part-time,Glo,Prefer not to say,Less than 6 months,Prepaid,0,0,1,1,4,1,1
+Prefer not to say,Self-employed,Glo,Prefer not to say,3-4 years,Prepaid,1,1,0,0,5,1,5
+No Education,Employed full-time,MTN,Pricing,Less than 6 months,Prepaid,0,0,1,1,7,4,2
+Postgraduate,Student,MTN,Pricing,3-4 years,Both,1,0,0,0,2,1,1
+Prefer not to say,Retired,MTN,Customer Service,3-4 years,Prepaid,1,1,1,1,4,3,1
+Postgraduate,Unemployed,Glo,Customer Service,6-12 months,Prepaid,0,0,1,0,7,2,5
+Postgraduate,Retired,Glo,Customer Service,3-4 years,Postpaid,0,1,0,0,4,4,2
+Postgraduate,Unemployed,AirtelTigo,Pricing,Less than 6 months,Prepaid,0,1,1,0,7,4,4
+Postgraduate,Retired,Vodafone,Customer Service,1-2 years,Postpaid,0,1,0,0,1,4,5
+High school graduate,Retired,AirtelTigo,Pricing,5 or more years,Prepaid,0,0,1,1, ,3,1
+Undergraduate,Employed part-time,Vodafone,Pricing,1-2 years,Both,0,0,0,0,4,1,1
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Postpaid,0,1,0,1,2,4,2
+Postgraduate,Unemployed,Vodafone,Coverage,3-4 years,Prepaid,1,1,1,0,1,4,1
+High school graduate,Employed part-time,Glo,Customer Service,6-12 months,Both,0,0,1,1,2,3,4
+High school graduate,Self-employed,AirtelTigo,Customer Service,5 or more years,Both,0,1,1,1,7,4,5
+Undergraduate,Self-employed,Glo,Prefer not to say,1-2 years,Prepaid,0,0,1,0,4,1,2
+No Education,Retired,Glo,Pricing,6-12 months,Both,1,0,0,1,7,1,2
+Postgraduate,Student,MTN,Coverage,6-12 months,Postpaid,0,1,1,0,6,2,5
+Undergraduate,Employed part-time,MTN,Pricing,3-4 years,Prepaid,1,0,0,0,7,2,4
+Postgraduate,Retired,AirtelTigo,Pricing,5 or more years,Both,0,1,0,0,6,1,4
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,0,1,1,4,4,5
+Undergraduate,Retired,Glo,Pricing,3-4 years,Both,1,0,1,0,5,2,2
+Prefer not to say,Self-employed,AirtelTigo,Customer Service,3-4 years,Prepaid,1,1,0,0,7,2,5
+No Education,Employed full-time,AirtelTigo,Customer Service,Less than 6 months,Postpaid,1,0,0,1,1,3,2
+Undergraduate,Retired,MTN,Prefer not to say,6-12 months,Postpaid,0,0,1,0,7,1,3
+High school graduate,Student,MTN,Prefer not to say,3-4 years,Prepaid,1,1,1,1,3,4,3
+Primary School,Unemployed,MTN,Coverage,1-2 years,Prepaid,1,0,0,1,3,3,2
+High school graduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Both,0,1,0,1,5,2,4
+Prefer not to say,Employed full-time,Glo,Prefer not to say,3-4 years,Both,0,0,1,1,7,2,3
+High school graduate,Retired,AirtelTigo,Customer Service,1-2 years,Both,0,1,1,1,4,3,5
+Primary School,Employed full-time,AirtelTigo,Pricing,6-12 months,Postpaid,1,0,0,0,4,1,5
+Primary School,Self-employed,MTN,Pricing,3-4 years,Prepaid,1,1,0,1,5,2,4
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Postpaid,1,1,1,0,4,1,2
+Primary School,Employed full-time,Vodafone,Pricing,6-12 months,Postpaid,1,0,1,1,4,3,4
+No Education,Employed part-time,AirtelTigo,Coverage,5 or more years,Both,0,1,0,1,1,3,5
+Prefer not to say,Student,Glo,Customer Service,5 or more years,Prepaid,1,0,0,0,7,4,1
+No Education,Unemployed,AirtelTigo,Pricing,5 or more years,Postpaid,0,0,0,0,4,1,1
+Primary School,Employed full-time,MTN,Customer Service,5 or more years,Postpaid,0,1,1,0, ,1,5
+Postgraduate,Employed full-time,Glo,Coverage,3-4 years,Both,0,0,1,0,4,4,4
+Postgraduate,Employed part-time,MTN,Coverage,1-2 years,Prepaid,0,0,0,0, ,4,3
+Postgraduate,Self-employed,Glo,Coverage,6-12 months,Both,1,1,0,1,6,4,3
+High school graduate,Employed full-time,AirtelTigo,Coverage,3-4 years,Both,1,1,0,1,6,2,3
+Primary School,Student,MTN,Customer Service,3-4 years,Both,0,0,1,1,7,4,2
+Primary School,Retired,AirtelTigo,Prefer not to say,5 or more years,Postpaid,0,1,0,0,7,4,4
+No Education,Retired,AirtelTigo,Coverage,5 or more years,Both,0,0,0,0,1,3,4
+Postgraduate,Self-employed,Vodafone,Coverage,6-12 months,Postpaid,1,0,1,0,5,3,2
+Postgraduate,Student,MTN,Prefer not to say,6-12 months,Both,0,1,1,1,4,2,5
+Prefer not to say,Student,AirtelTigo,Coverage,Less than 6 months,Postpaid,0,1,0,1,7,1,1
+No Education,Retired,Glo,Pricing,6-12 months,Both,1,0,0,1, ,1,2
+Primary School,Self-employed,Glo,Customer Service,5 or more years,Both,0,0,0,0,7,1,4
+Postgraduate,Self-employed,AirtelTigo,Coverage,3-4 years,Postpaid,0,1,1,1,5,1,2
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Postpaid,1,1,1,0,7,1,2
+Postgraduate,Self-employed,MTN,Coverage,3-4 years,Both,0,0,1,0,3,2,2
+Primary School,Self-employed,AirtelTigo,Coverage,1-2 years,Prepaid,1,1,0,1,5,4,1
+Primary School,Self-employed,MTN,Prefer not to say,Less than 6 months,Postpaid,1,0,1,0, ,3,1
+Prefer not to say,Employed part-time,MTN,Prefer not to say,3-4 years,Prepaid,0,1,1,1, ,1,3
+Undergraduate,Employed full-time,MTN,Prefer not to say,5 or more years,Postpaid,0,0,1,0,3,4,2
+No Education,Employed full-time,Glo,Pricing,6-12 months,Prepaid,1,0,1,0, ,2,4
+High school graduate,Retired,Vodafone,Coverage,1-2 years,Postpaid,1,1,1,0,5,3,1
+Undergraduate,Self-employed,MTN,Prefer not to say,3-4 years,Prepaid,0,1,1,1,1,3,5
+Undergraduate,Retired,Glo,Customer Service,3-4 years,Postpaid,1,0,0,1,6,3,2
+High school graduate,Employed full-time,AirtelTigo,Customer Service,Less than 6 months,Prepaid,0,1,0,0,7,3,2
+Prefer not to say,Self-employed,MTN,Prefer not to say,3-4 years,Both,1,1,1,0,2,3,2
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Prepaid,1,1,1,1,3,3,3
+Undergraduate,Retired,MTN,Coverage,5 or more years,Prepaid,0,0,0,0,1,4,3
+Primary School,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,0,4,3,1
+Prefer not to say,Retired,Vodafone,Coverage,3-4 years,Prepaid,0,0,0,1,2,2,1
+Undergraduate,Student,MTN,Coverage,3-4 years,Postpaid,1,1,0,1,3,1,2
+Primary School,Unemployed,AirtelTigo,Prefer not to say,1-2 years,Prepaid,0,0,0,1,4,3,1
+Postgraduate,Retired,Vodafone,Customer Service,1-2 years,Both,0,1,0,0,5,4,5
+Prefer not to say,Retired,Glo,Customer Service,Less than 6 months,Prepaid,1,0,1,1,5,1,1
+Primary School,Retired,Vodafone,Prefer not to say,6-12 months,Prepaid,0,0,1,0,7,1,1
+Undergraduate,Employed full-time,Glo,Pricing,Less than 6 months,Both,1,1,1,0,2,3,4
+Primary School,Unemployed,Glo,Pricing,6-12 months,Postpaid,1,0,1,1,5,2,3
+Prefer not to say,Retired,MTN,Pricing,6-12 months,Prepaid,1,0,1,1,5,4,3
+No Education,Self-employed,AirtelTigo,Customer Service,Less than 6 months,Prepaid,1,1,0,1,1,1,5
+Postgraduate,Employed part-time,AirtelTigo,Coverage,3-4 years,Postpaid,0,1,0,1,7,1,2
+No Education,Student,Vodafone,Customer Service,1-2 years,Postpaid,0,1,1,1,1,1,4
+High school graduate,Student,MTN,Prefer not to say,5 or more years,Both,0,0,1,1,1,3,4
+Postgraduate,Employed full-time,MTN,Pricing,6-12 months,Both,1,0,1,1,5,4,3
+Undergraduate,Self-employed,Vodafone,Pricing,6-12 months,Postpaid,1,1,1,0,3,4,4
+Prefer not to say,Employed full-time,AirtelTigo,Pricing,6-12 months,Postpaid,0,0,0,0,4,3,3
+Prefer not to say,Retired,MTN,Customer Service,5 or more years,Prepaid,1,0,1,0,7,2,5
+Prefer not to say,Employed full-time,Vodafone,Prefer not to say,3-4 years,Postpaid,0,1,1,1,4,2,1
+Postgraduate,Unemployed,Vodafone,Customer Service,3-4 years,Prepaid,1,0,0,1,4,4,1
+No Education,Retired,Vodafone,Pricing,Less than 6 months,Postpaid,1,1,0,1,7,1,3
+Postgraduate,Employed part-time,MTN,Prefer not to say,6-12 months,Prepaid,0,1,1,0,7,1,3
+Undergraduate,Student,Glo,Coverage,5 or more years,Both,1,0,1,1,5,1,3
+Postgraduate,Student,Vodafone,Customer Service,Less than 6 months,Postpaid,0,1,1,1,1,1,5
+No Education,Self-employed,Glo,Pricing,5 or more years,Both,1,1,0,0,3,2,1
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Postpaid,1,0,0,1, ,3,1
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Prepaid,1,1,1,0, ,4,1
+Primary School,Unemployed,AirtelTigo,Customer Service,5 or more years,Postpaid,0,1,0,0,7,1,3
+Prefer not to say,Employed part-time,Vodafone,Pricing,5 or more years,Prepaid,0,0,1,1,3,1,4
+Postgraduate,Employed part-time,MTN,Coverage,6-12 months,Both,0,1,0,1,4,1,4
+Undergraduate,Employed full-time,Glo,Prefer not to say,5 or more years,Prepaid,0,1,0,1,4,1,5
+Undergraduate,Self-employed,Vodafone,Customer Service,5 or more years,Prepaid,1,1,0,1,2,4,2
+Postgraduate,Employed full-time,AirtelTigo,Pricing,3-4 years,Postpaid,0,0,1,0,7,2,1
+Prefer not to say,Retired,Glo,Prefer not to say,Less than 6 months,Both,0,0,0,0,5,3,1
+Primary School,Student,MTN,Customer Service,5 or more years,Prepaid,1,1,0,0,2,2,3
+Primary School,Unemployed,MTN,Pricing,Less than 6 months,Postpaid,1,1,1,0,5,2,4
+Undergraduate,Self-employed,Glo,Customer Service,5 or more years,Prepaid,0,1,1,0,5,3,1
+Postgraduate,Employed part-time,MTN,Prefer not to say,3-4 years,Postpaid,1,0,1,0,6,3,5
+Undergraduate,Student,Vodafone,Coverage,6-12 months,Both,0,1,0,0, ,3,5
+Undergraduate,Self-employed,Vodafone,Coverage,3-4 years,Both,0,0,0,0,1,2,2
+Postgraduate,Self-employed,Vodafone,Pricing,Less than 6 months,Prepaid,0,1,0,0, ,1,3
+Undergraduate,Self-employed,Glo,Prefer not to say,1-2 years,Postpaid,1,0,0,0,5,1,1
+High school graduate,Employed part-time,MTN,Customer Service,3-4 years,Prepaid,1,0,0,1,7,3,1
+Primary School,Student,MTN,Customer Service,5 or more years,Prepaid,0,0,1,0, ,2,4
+Primary School,Self-employed,Glo,Customer Service,5 or more years,Prepaid,0,0,0,0,4,1,4
+Undergraduate,Student,MTN,Prefer not to say,3-4 years,Postpaid,1,0,1,1,5,1,4
+High school graduate,Employed part-time,Glo,Prefer not to say,Less than 6 months,Postpaid,0,1,1,1,5,3,2
+Primary School,Unemployed,MTN,Coverage,5 or more years,Prepaid,0,1,1,1, ,3,5
+Postgraduate,Employed full-time,AirtelTigo,Customer Service,6-12 months,Both,0,1,1,1,2,4,3
+Undergraduate,Self-employed,Vodafone,Pricing,3-4 years,Postpaid,0,1,1,1,4,2,3
+Undergraduate,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,0,1,1,1,4,3,5
+Postgraduate,Employed part-time,MTN,Coverage,5 or more years,Both,1,0,1,1,4,1,2
+No Education,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Both,1,0,0,1,5,2,3
+High school graduate,Student,Vodafone,Prefer not to say,6-12 months,Both,0,1,0,0,6,4,2
+Postgraduate,Self-employed,Vodafone,Pricing,Less than 6 months,Both,0,1,0,0, ,1,3
+Postgraduate,Unemployed,MTN,Coverage,6-12 months,Prepaid,1,0,1,0,4,3,3
+Prefer not to say,Employed part-time,MTN,Customer Service,5 or more years,Both,1,1,1,0, ,1,5
+Primary School,Retired,Vodafone,Customer Service,3-4 years,Both,0,1,1,0,3,3,5
+High school graduate,Employed full-time,Vodafone,Pricing,3-4 years,Prepaid,0,1,1,0,4,4,4
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Postpaid,1,0,0,1,5,3,1
+No Education,Retired,MTN,Customer Service,1-2 years,Prepaid,0,0,0,0,4,2,1
+Postgraduate,Unemployed,Vodafone,Pricing,Less than 6 months,Postpaid,0,1,0,0, ,2,3
+Primary School,Employed part-time,Glo,Coverage,3-4 years,Both,1,0,1,1,3,2,3
+Primary School,Self-employed,MTN,Pricing,3-4 years,Postpaid,1,1,0,1,2,2,4
+High school graduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Postpaid,0,1,0,0,2,1,2
+Postgraduate,Employed full-time,Glo,Coverage,5 or more years,Both,1,1,1,0,7,2,3
+Prefer not to say,Student,MTN,Prefer not to say,3-4 years,Prepaid,1,0,0,1,2,4,5
+High school graduate,Unemployed,Vodafone,Prefer not to say,5 or more years,Prepaid,0,0,1,0, ,3,1
+Primary School,Unemployed,Glo,Prefer not to say,Less than 6 months,Postpaid,1,1,0,0,7,2,2
+High school graduate,Unemployed,MTN,Pricing,Less than 6 months,Both,1,1,0,0,3,4,2
+Undergraduate,Student,MTN,Pricing,1-2 years,Prepaid,0,1,0,1,5,2,4
+High school graduate,Unemployed,Vodafone,Prefer not to say,5 or more years,Both,0,0,1,0,6,3,1
+Undergraduate,Student,Glo,Coverage,3-4 years,Prepaid,1,0,1,1, ,1,4
+Prefer not to say,Employed part-time,Vodafone,Customer Service,5 or more years,Postpaid,0,1,0,0,5,2,5
+Prefer not to say,Employed full-time,Glo,Prefer not to say,3-4 years,Postpaid,0,0,1,1,5,2,3
+No Education,Self-employed,MTN,Pricing,6-12 months,Both,1,0,1,0,4,2,2
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Postpaid,1,1,1,1, ,3,3
+Postgraduate,Employed full-time,MTN,Customer Service,6-12 months,Both,0,1,0,0,5,1,1
+High school graduate,Unemployed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,0,0,1,2,1,5
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,0,1,7,3,5
+Postgraduate,Employed part-time,MTN,Prefer not to say,6-12 months,Postpaid,0,0,0,1,2,4,2
+Postgraduate,Employed part-time,AirtelTigo,Coverage,3-4 years,Prepaid,0,1,0,1,2,1,2
+Undergraduate,Self-employed,Vodafone,Pricing,6-12 months,Postpaid,1,1,1,0,4,4,4
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,0,0,1,4,4,5
+Prefer not to say,Self-employed,Vodafone,Customer Service,1-2 years,Postpaid,0,0,1,1,3,1,1
+High school graduate,Student,AirtelTigo,Customer Service,Less than 6 months,Both,0,1,0,0,3,2,2
+Prefer not to say,Retired,AirtelTigo,Customer Service,6-12 months,Both,0,0,0,0,4,4,4
+Prefer not to say,Unemployed,MTN,Coverage,1-2 years,Both,1,0,0,1,7,3,2
+Postgraduate,Retired,AirtelTigo,Pricing,3-4 years,Prepaid,1,1,0,1,3,2,5
+Postgraduate,Employed full-time,Glo,Coverage,3-4 years,Postpaid,0,0,1,0,3,4,4
+No Education,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,0,0,0,0,5,2,3
+Undergraduate,Student,Vodafone,Coverage,6-12 months,Both,0,1,0,0,7,3,5
+Undergraduate,Retired,MTN,Coverage,1-2 years,Prepaid,1,0,0,1,4,2,2
+High school graduate,Unemployed,MTN,Coverage,1-2 years,Both,1,1,0,1,4,1,5
+High school graduate,Self-employed,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,1,0,1,0,5,3,4
+Undergraduate,Self-employed,MTN,Prefer not to say,5 or more years,Both,0,1,0,0,3,2,2
+Postgraduate,Employed full-time,MTN,Prefer not to say,5 or more years,Both,0,0,1,0,1,2,5
+Primary School,Employed full-time,Vodafone,Prefer not to say,Less than 6 months,Postpaid,0,1,0,0,3,2,5
+High school graduate,Student,Glo,Prefer not to say,6-12 months,Both,1,1,1,1,1,3,5
+Primary School,Unemployed,Vodafone,Coverage,1-2 years,Prepaid,1,0,0,0,4,2,2
+No Education,Retired,MTN,Customer Service,5 or more years,Postpaid,0,1,0,1,2,2,5
+No Education,Employed part-time,MTN,Prefer not to say,6-12 months,Prepaid,1,1,0,0,4,3,2
+Primary School,Employed full-time,AirtelTigo,Pricing,3-4 years,Both,1,1,1,1,4,4,2
+Postgraduate,Employed full-time,MTN,Customer Service,6-12 months,Prepaid,0,1,0,0,2,1,1
+High school graduate,Retired,Glo,Coverage,6-12 months,Prepaid,0,1,1,0,6,4,3
+Prefer not to say,Retired,Glo,Customer Service,1-2 years,Postpaid,0,1,1,0,6,1,1
+Postgraduate,Employed part-time,MTN,Coverage,5 or more years,Postpaid,1,0,1,1,5,1,2
+Primary School,Unemployed,AirtelTigo,Customer Service,Less than 6 months,Postpaid,1,1,1,0, ,4,1
+Postgraduate,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Prepaid,1,0,1,0,4,3,2
+No Education,Employed part-time,MTN,Prefer not to say,1-2 years,Both,1,0,1,0,4,4,1
+Undergraduate,Student,MTN,Pricing,5 or more years,Postpaid,1,1,0,1,7,2,4
+Postgraduate,Employed part-time,MTN,Coverage,1-2 years,Both,0,0,0,0,7,4,3
+Primary School,Employed part-time,Glo,Prefer not to say,3-4 years,Both,1,0,1,0,3,2,2
+Primary School,Unemployed,MTN,Coverage,1-2 years,Prepaid,1,1,0,0,5,2,3
+Undergraduate,Retired,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,1,0,1,1,6,1,2
+Primary School,Employed part-time,MTN,Customer Service,6-12 months,Postpaid,0,1,0,1,3,3,3
+Prefer not to say,Retired,AirtelTigo,Customer Service,6-12 months,Postpaid,1,1,0,1, ,4,2
+Undergraduate,Employed full-time,MTN,Prefer not to say,5 or more years,Prepaid,0,0,1,0,7,4,2
+Prefer not to say,Self-employed,AirtelTigo,Coverage,5 or more years,Prepaid,0,1,1,1,1,1,1
+Postgraduate,Student,Vodafone,Prefer not to say,1-2 years,Postpaid,1,1,1,1,4,3,3
+High school graduate,Unemployed,AirtelTigo,Customer Service,6-12 months,Prepaid,1,1,1,0,7,4,4
+High school graduate,Employed full-time,Vodafone,Pricing,5 or more years,Postpaid,1,1,1,0,5,4,4
+Postgraduate,Unemployed,Vodafone,Customer Service,3-4 years,Both,1,0,0,1, ,4,1
+Primary School,Self-employed,MTN,Coverage,1-2 years,Both,1,0,0,0,4,1,1
+Postgraduate,Unemployed,Glo,Prefer not to say,3-4 years,Prepaid,1,0,1,1,4,1,4
+Prefer not to say,Self-employed,Glo,Coverage,1-2 years,Both,1,0,0,0,5,3,4
+Prefer not to say,Student,AirtelTigo,Pricing,3-4 years,Postpaid,1,1,0,0,3,4,2
+Undergraduate,Self-employed,Vodafone,Coverage,3-4 years,Prepaid,0,0,0,0,7,2,2
+Postgraduate,Self-employed,Vodafone,Pricing,Less than 6 months,Postpaid,0,1,0,0,5,1,3
+High school graduate,Student,AirtelTigo,Prefer not to say,3-4 years,Postpaid,1,1,0,0,1,3,1
+No Education,Employed part-time,AirtelTigo,Customer Service,1-2 years,Prepaid,1,0,1,0,4,2,1
+Primary School,Retired,AirtelTigo,Customer Service,1-2 years,Prepaid,0,0,0,0,7,2,4
+Undergraduate,Student,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,1,6,1,1
+No Education,Unemployed,Vodafone,Coverage,1-2 years,Prepaid,0,1,1,0,5,2,3
+Primary School,Self-employed,MTN,Pricing,6-12 months,Prepaid,1,0,1,0, ,1,2
+Primary School,Student,AirtelTigo,Coverage,5 or more years,Postpaid,1,1,0,1,3,2,4
+Prefer not to say,Employed full-time,MTN,Pricing,6-12 months,Postpaid,0,1,1,0,5,2,3
+Postgraduate,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Prepaid,1,0,1,0, ,3,2
+High school graduate,Employed part-time,MTN,Prefer not to say,6-12 months,Both,1,0,0,0,4,1,1
+High school graduate,Unemployed,Glo,Pricing,Less than 6 months,Postpaid,1,1,1,0,3,4,4
+Undergraduate,Self-employed,MTN,Prefer not to say,6-12 months,Postpaid,1,0,1,1, ,4,2
+Primary School,Employed part-time,MTN,Prefer not to say,5 or more years,Both,1,0,1,1,1,2,2
+Postgraduate,Student,MTN,Customer Service,6-12 months,Postpaid,0,1,0,1,2,4,5
+Prefer not to say,Unemployed,Glo,Prefer not to say,3-4 years,Prepaid,1,1,1,0,4,1,1
+No Education,Employed part-time,MTN,Coverage,1-2 years,Both,0,0,0,1,7,3,3
+Primary School,Student,MTN,Customer Service,3-4 years,Postpaid,0,0,1,1,2,4,2
+Postgraduate,Unemployed,Glo,Customer Service,6-12 months,Postpaid,0,0,1,0,3,2,5
+Primary School,Retired,AirtelTigo,Customer Service,6-12 months,Both,0,0,1,0,6,3,4
+High school graduate,Employed part-time,MTN,Prefer not to say,6-12 months,Postpaid,1,0,0,0,6,1,1
+Undergraduate,Unemployed,MTN,Pricing,6-12 months,Prepaid,1,0,0,0,7,3,5
+High school graduate,Student,MTN,Customer Service,5 or more years,Postpaid,1,0,0,1,4,2,3
+No Education,Student,Vodafone,Customer Service,1-2 years,Both,0,1,1,1,4,1,4
+High school graduate,Employed full-time,MTN,Prefer not to say,3-4 years,Prepaid,1,0,1,1,2,4,5
+Prefer not to say,Employed full-time,AirtelTigo,Customer Service,5 or more years,Prepaid,1,1,1,1,7,2,2
+High school graduate,Retired,Glo,Coverage,1-2 years,Both,1,0,1,1,2,4,4
+Postgraduate,Retired,Glo,Pricing,6-12 months,Prepaid,0,1,0,0,4,2,4
+Undergraduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Postpaid,1,0,0,1,4,4,1
+No Education,Retired,AirtelTigo,Coverage,Less than 6 months,Prepaid,1,1,1,1, ,1,5
+Postgraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,1,0,1,1, ,2,2
+No Education,Self-employed,MTN,Pricing,6-12 months,Both,1,0,1,0,6,2,2
+No Education,Unemployed,MTN,Pricing,1-2 years,Both,0,1,1,1,4,3,1
+No Education,Student,MTN,Pricing,1-2 years,Postpaid,0,0,1,0,6,1,2
+Prefer not to say,Retired,MTN,Prefer not to say,Less than 6 months,Both,1,0,0,1,4,4,4
+High school graduate,Self-employed,AirtelTigo,Coverage,1-2 years,Both,1,0,1,0,5,4,2
+Postgraduate,Unemployed,AirtelTigo,Prefer not to say,3-4 years,Postpaid,1,0,1,1,7,4,3
+Undergraduate,Employed full-time,Vodafone,Coverage,3-4 years,Both,1,1,0,1,5,1,4
+No Education,Retired,MTN,Prefer not to say,6-12 months,Postpaid,1,0,1,0,4,4,5
+Primary School,Employed part-time,AirtelTigo,Customer Service,3-4 years,Postpaid,0,1,1,1,7,4,1
+Prefer not to say,Retired,Glo,Prefer not to say,Less than 6 months,Both,0,0,0,0,4,3,1
+Prefer not to say,Retired,Glo,Customer Service,3-4 years,Prepaid,0,1,1,1,3,1,3
+Postgraduate,Employed part-time,MTN,Pricing,5 or more years,Both,1,0,0,1,6,4,3
+Prefer not to say,Employed part-time,MTN,Customer Service,1-2 years,Prepaid,0,0,1,1,2,4,1
+No Education,Student,Glo,Customer Service,6-12 months,Prepaid,1,0,0,0,4,4,5
+Primary School,Self-employed,AirtelTigo,Customer Service,6-12 months,Prepaid,0,1,0,0,2,4,2
+Primary School,Unemployed,Glo,Coverage,3-4 years,Both,0,0,1,0,3,4,4
+Primary School,Employed part-time,Vodafone,Pricing,5 or more years,Both,0,0,0,1,5,3,1
+Prefer not to say,Unemployed,Glo,Prefer not to say,6-12 months,Postpaid,0,1,1,1,5,1,3
+Postgraduate,Employed part-time,Vodafone,Customer Service,3-4 years,Both,0,1,1,0,6,1,3
+Prefer not to say,Employed full-time,MTN,Pricing,6-12 months,Both,0,1,1,0, ,2,3
+No Education,Retired,MTN,Customer Service,1-2 years,Postpaid,0,0,0,0,1,2,1
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Both,1,1,1,0,4,4,1
+Postgraduate,Employed part-time,MTN,Customer Service,5 or more years,Postpaid,0,0,0,1,6,2,2
+No Education,Employed full-time,MTN,Pricing,Less than 6 months,Both,0,1,0,0,5,4,2
+Prefer not to say,Self-employed,AirtelTigo,Customer Service,5 or more years,Postpaid,1,1,1,1,6,4,5
+Undergraduate,Self-employed,MTN,Prefer not to say,5 or more years,Postpaid,0,1,0,0,7,2,2
+High school graduate,Retired,Vodafone,Coverage,3-4 years,Postpaid,0,1,0,1,7,4,4
+High school graduate,Retired,Vodafone,Pricing,5 or more years,Both,0,1,0,1,5,4,3
+Postgraduate,Retired,MTN,Prefer not to say,5 or more years,Both,1,0,0,1, ,2,1
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Postpaid,1,1,0,1,7,1,2
+Postgraduate,Retired,MTN,Coverage,6-12 months,Both,0,1,0,0, ,2,1
+High school graduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Postpaid,0,1,0,1,4,2,4
+High school graduate,Unemployed,Vodafone,Customer Service,6-12 months,Prepaid,1,0,1,0,7,4,3
+Prefer not to say,Unemployed,MTN,Coverage,1-2 years,Prepaid,1,0,0,0,2,1,3
+Postgraduate,Student,Vodafone,Prefer not to say,1-2 years,Prepaid,1,1,1,1,5,3,3
+Primary School,Employed full-time,MTN,Pricing,3-4 years,Postpaid,0,0,0,1,7,4,3
+High school graduate,Student,Glo,Coverage,5 or more years,Both,0,1,0,1,6,4,4
+Postgraduate,Employed part-time,MTN,Coverage,6-12 months,Prepaid,0,1,0,1,5,1,4
+Undergraduate,Retired,AirtelTigo,Prefer not to say,5 or more years,Prepaid,0,0,1,0,6,1,1
+Prefer not to say,Employed full-time,MTN,Prefer not to say,1-2 years,Both,0,0,0,1, ,1,5
+No Education,Unemployed,AirtelTigo,Coverage,Less than 6 months,Postpaid,1,0,0,0,6,1,5
+Undergraduate,Employed part-time,MTN,Coverage,3-4 years,Postpaid,1,1,0,0,5,4,2
+Prefer not to say,Self-employed,Glo,Prefer not to say,3-4 years,Postpaid,1,1,0,0, ,1,5
+No Education,Retired,Vodafone,Prefer not to say,5 or more years,Postpaid,1,1,0,1,6,3,5
+Undergraduate,Self-employed,MTN,Pricing,1-2 years,Both,1,1,0,1, ,4,5
+Primary School,Employed part-time,Glo,Prefer not to say,Less than 6 months,Postpaid,0,0,1,1,5,1,1
+High school graduate,Self-employed,AirtelTigo,Prefer not to say,Less than 6 months,Prepaid,1,0,1,0,6,3,4
+Postgraduate,Retired,MTN,Prefer not to say,5 or more years,Both,1,0,0,1,7,2,1
+Postgraduate,Unemployed,MTN,Pricing,6-12 months,Prepaid,0,0,1,0,5,1,1
+No Education,Unemployed,AirtelTigo,Prefer not to say,Less than 6 months,Both,1,1,1,0,3,4,5
+Undergraduate,Student,MTN,Prefer not to say,Less than 6 months,Both,1,0,1,1,7,1,1
+Primary School,Unemployed,MTN,Customer Service,6-12 months,Prepaid,0,0,1,1,4,3,4
+Postgraduate,Unemployed,MTN,Prefer not to say,6-12 months,Prepaid,1,1,0,1,4,2,2
+No Education,Employed part-time,AirtelTigo,Pricing,Less than 6 months,Prepaid,0,0,0,0, ,1,1
+Undergraduate,Employed full-time,Vodafone,Coverage,6-12 months,Both,1,1,0,0, ,2,2
+Primary School,Student,MTN,Customer Service,5 or more years,Both,0,1,0,1,2,1,4
+High school graduate,Student,MTN,Prefer not to say,3-4 years,Prepaid,1,1,1,0,1,3,2
+Primary School,Self-employed,MTN,Coverage,1-2 years,Prepaid,0,1,1,0, ,3,1
+Prefer not to say,Self-employed,Vodafone,Prefer not to say,1-2 years,Prepaid,1,0,1,0,4,4,5
+Undergraduate,Employed full-time,MTN,Customer Service,6-12 months,Both,0,0,0,0,4,3,5
+No Education,Student,MTN,Pricing,6-12 months,Prepaid,0,0,0,1,4,2,1
+Prefer not to say,Employed full-time,MTN,Customer Service,3-4 years,Postpaid,0,0,0,0,4,3,1
+Undergraduate,Unemployed,MTN,Prefer not to say,1-2 years,Postpaid,1,0,0,0,5,2,1
+Undergraduate,Unemployed,MTN,Customer Service,3-4 years,Prepaid,0,0,0,0,2,2,4
+Primary School,Retired,AirtelTigo,Customer Service,1-2 years,Both,0,0,0,0, ,2,4
+Primary School,Student,Vodafone,Prefer not to say,5 or more years,Both,0,1,0,0,2,3,1
+Prefer not to say,Retired,MTN,Prefer not to say,6-12 months,Prepaid,0,1,0,0,7,1,2
+Primary School,Employed part-time,Glo,Prefer not to say,Less than 6 months,Both,0,0,1,1,7,1,1
+Primary School,Retired,Vodafone,Customer Service,Less than 6 months,Postpaid,0,0,1,1,4,2,4
+No Education,Retired,Glo,Coverage,6-12 months,Postpaid,0,1,0,1,7,2,4
+High school graduate,Self-employed,AirtelTigo,Coverage,5 or more years,Postpaid,1,0,1,1,4,2,2
+Undergraduate,Student,AirtelTigo,Pricing,1-2 years,Postpaid,1,0,1,1,3,3,3
+Postgraduate,Unemployed,Glo,Coverage,3-4 years,Postpaid,0,0,0,1,4,4,5
+Prefer not to say,Retired,MTN,Customer Service,6-12 months,Both,0,1,0,1,2,3,1
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Prepaid,0,0,0,1,4,4,5
+Postgraduate,Employed part-time,AirtelTigo,Coverage,3-4 years,Both,0,1,0,1, ,1,2
+No Education,Student,AirtelTigo,Pricing,1-2 years,Prepaid,1,0,1,1,5,4,1
+Primary School,Employed part-time,MTN,Coverage,Less than 6 months,Prepaid,1,1,1,1, ,1,5
+Prefer not to say,Student,Vodafone,Prefer not to say,6-12 months,Prepaid,0,0,0,0,5,2,1
+Primary School,Employed part-time,MTN,Coverage,Less than 6 months,Prepaid,1,1,1,1,7,1,5
+Primary School,Retired,AirtelTigo,Prefer not to say,5 or more years,Postpaid,0,1,0,0,5,4,4
+Prefer not to say,Retired,Glo,Pricing,5 or more years,Postpaid,0,0,1,0,4,2,4
+Prefer not to say,Student,MTN,Prefer not to say,3-4 years,Postpaid,1,1,1,1,4,2,3
+No Education,Unemployed,Glo,Coverage,3-4 years,Postpaid,1,0,0,0,2,1,4
+Postgraduate,Employed full-time,MTN,Customer Service,5 or more years,Both,0,0,1,1,4,1,2
+Prefer not to say,Employed full-time,AirtelTigo,Customer Service,5 or more years,Both,1,1,1,1,6,2,2
+Undergraduate,Employed full-time,Vodafone,Prefer not to say,3-4 years,Both,1,1,0,0,7,2,4
+Postgraduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Postpaid,0,1,0,0, ,1,1
+Primary School,Self-employed,Vodafone,Customer Service,1-2 years,Postpaid,0,1,0,0,6,2,5
+Primary School,Employed full-time,AirtelTigo,Pricing,5 or more years,Prepaid,1,0,0,1,4,1,1
+Undergraduate,Student,AirtelTigo,Pricing,1-2 years,Postpaid,1,0,1,1,7,3,3
+Postgraduate,Unemployed,Vodafone,Customer Service,3-4 years,Prepaid,1,0,0,1,5,4,1
+Primary School,Self-employed,MTN,Pricing,5 or more years,Both,0,0,0,1,5,4,5
+No Education,Student,AirtelTigo,Pricing,1-2 years,Both,1,0,1,1,3,4,1
+Prefer not to say,Unemployed,MTN,Coverage,6-12 months,Prepaid,0,1,0,0,4,3,2
+Primary School,Retired,AirtelTigo,Customer Service,1-2 years,Prepaid,0,0,0,0,3,2,4
+Prefer not to say,Unemployed,MTN,Customer Service,3-4 years,Prepaid,1,0,1,1, ,4,3
+No Education,Unemployed,Vodafone,Customer Service,6-12 months,Prepaid,0,1,1,0,5,2,4
+Prefer not to say,Retired,Glo,Customer Service,1-2 years,Prepaid,0,1,1,0,7,1,1
+No Education,Employed full-time,MTN,Customer Service,6-12 months,Both,0,1,1,1,4,3,5
+No Education,Unemployed,Vodafone,Prefer not to say,Less than 6 months,Postpaid,0,1,1,0,7,2,5
+Primary School,Student,MTN,Coverage,5 or more years,Postpaid,1,1,1,0,6,1,2
+Postgraduate,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Both,1,0,1,0,5,3,2
+No Education,Employed part-time,MTN,Pricing,6-12 months,Postpaid,1,0,1,0,1,2,4
+Postgraduate,Retired,Vodafone,Customer Service,1-2 years,Both,0,1,0,0,4,4,5
+Postgraduate,Retired,Glo,Customer Service,6-12 months,Both,0,1,1,1,3,1,2
+High school graduate,Employed part-time,Glo,Customer Service,6-12 months,Prepaid,1,0,0,1, ,2,2
+Primary School,Student,MTN,Customer Service,Less than 6 months,Postpaid,0,1,1,0,2,4,1
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Postpaid,1,0,1,1,2,1,5
+No Education,Student,MTN,Pricing,5 or more years,Both,1,0,1,0,4,3,2
+Primary School,Self-employed,AirtelTigo,Coverage,1-2 years,Prepaid,1,1,0,1, ,4,1
+Primary School,Unemployed,MTN,Customer Service,5 or more years,Both,1,1,0,0,1,4,4
+Postgraduate,Retired,MTN,Customer Service,3-4 years,Postpaid,0,1,1,1,3,4,5
+Primary School,Employed part-time,MTN,Prefer not to say,5 or more years,Prepaid,1,0,1,1,5,2,2
+High school graduate,Retired,Vodafone,Coverage,3-4 years,Postpaid,0,1,0,1,1,4,4
+Prefer not to say,Unemployed,MTN,Coverage,1-2 years,Prepaid,1,0,0,1,3,3,2
+Undergraduate,Self-employed,MTN,Coverage,5 or more years,Postpaid,0,1,0,0,4,3,4
+High school graduate,Student,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,0,0,1,0,5,4,5
+Postgraduate,Employed full-time,Vodafone,Customer Service,1-2 years,Postpaid,0,1,1,0,6,1,1
+Prefer not to say,Unemployed,MTN,Customer Service,Less than 6 months,Postpaid,0,1,1,1,4,4,4
+Primary School,Employed full-time,Vodafone,Customer Service,3-4 years,Both,1,0,1,1,2,1,3
+Prefer not to say,Student,MTN,Customer Service,Less than 6 months,Postpaid,1,1,0,1, ,2,2
+Prefer not to say,Employed full-time,MTN,Coverage,Less than 6 months,Postpaid,1,1,0,1,1,1,2
+Primary School,Retired,MTN,Customer Service,3-4 years,Prepaid,1,0,0,0,7,1,3
+Postgraduate,Retired,MTN,Pricing,5 or more years,Postpaid,0,1,1,0,3,2,3
+Prefer not to say,Self-employed,AirtelTigo,Customer Service,3-4 years,Postpaid,1,1,0,0, ,2,5
+No Education,Employed part-time,MTN,Prefer not to say,6-12 months,Both,1,1,0,0,4,3,2
+High school graduate,Employed full-time,AirtelTigo,Coverage,3-4 years,Prepaid,1,0,1,1,3,1,1
+High school graduate,Employed part-time,MTN,Coverage,3-4 years,Postpaid,1,1,0,1, ,4,3
+Prefer not to say,Self-employed,Vodafone,Customer Service,3-4 years,Postpaid,1,0,0,1,6,1,2
+No Education,Employed full-time,MTN,Customer Service,6-12 months,Prepaid,0,1,1,1,4,3,5
+Postgraduate,Self-employed,Vodafone,Customer Service,Less than 6 months,Both,1,0,0,0,6,3,1
+No Education,Employed part-time,MTN,Pricing,5 or more years,Both,1,1,0,0,5,4,4
+High school graduate,Unemployed,MTN,Coverage,1-2 years,Postpaid,1,1,0,1,5,1,5
+High school graduate,Retired,MTN,Prefer not to say,3-4 years,Both,1,0,1,0,7,1,4
+No Education,Student,Vodafone,Coverage,6-12 months,Both,1,1,0,0, ,3,5
+Primary School,Retired,Vodafone,Prefer not to say,3-4 years,Prepaid,1,1,0,1,4,1,4
+Undergraduate,Employed part-time,Vodafone,Customer Service,3-4 years,Postpaid,0,1,0,0,4,2,1
+Primary School,Employed full-time,AirtelTigo,Pricing,3-4 years,Postpaid,1,1,1,1,6,4,2
+Undergraduate,Retired,MTN,Prefer not to say,6-12 months,Postpaid,0,0,1,0,7,2,1
+Primary School,Unemployed,MTN,Customer Service,5 or more years,Prepaid,1,1,0,0,7,4,4
+Postgraduate,Self-employed,Vodafone,Coverage,6-12 months,Postpaid,0,0,1,1,7,3,5
+Primary School,Employed part-time,AirtelTigo,Prefer not to say,6-12 months,Postpaid,0,1,1,0, ,4,4
+Prefer not to say,Employed full-time,Glo,Prefer not to say,Less than 6 months,Postpaid,1,1,0,0,4,4,1
+No Education,Unemployed,MTN,Customer Service,1-2 years,Prepaid,1,0,1,1,2,4,3
+Undergraduate,Employed part-time,MTN,Pricing,Less than 6 months,Prepaid,0,0,0,0,4,3,2
+Undergraduate,Self-employed,Vodafone,Pricing,3-4 years,Prepaid,0,1,1,1,4,2,3
+Prefer not to say,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,1,1,1,0, ,3,2
+Undergraduate,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,0,1,1,1, ,3,5
+No Education,Employed part-time,AirtelTigo,Customer Service,1-2 years,Prepaid,1,0,1,0,5,2,1
+Undergraduate,Self-employed,Glo,Prefer not to say,5 or more years,Postpaid,0,1,0,1,3,4,2
+Undergraduate,Retired,Glo,Customer Service,1-2 years,Prepaid,0,0,1,0,7,4,4
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Postpaid,0,1,0,1,5,4,2
+Prefer not to say,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,1,1,0,1,4,3,5
+Primary School,Unemployed,MTN,Pricing,Less than 6 months,Postpaid,0,0,1,1,6,1,1
+Prefer not to say,Employed part-time,Glo,Customer Service,3-4 years,Prepaid,1,1,0,1, ,2,2
+No Education,Retired,MTN,Prefer not to say,1-2 years,Both,1,1,1,0,5,1,5
+High school graduate,Retired,AirtelTigo,Pricing,5 or more years,Postpaid,0,0,1,1,7,3,1
+High school graduate,Student,Vodafone,Customer Service,1-2 years,Both,0,0,0,0,2,3,5
+Prefer not to say,Unemployed,MTN,Coverage,1-2 years,Both,1,0,0,0, ,1,3
+Prefer not to say,Employed part-time,Vodafone,Prefer not to say,6-12 months,Postpaid,1,1,1,1,4,4,3
+No Education,Retired,Glo,Prefer not to say,6-12 months,Prepaid,0,0,1,0,4,3,3
+Postgraduate,Employed part-time,Glo,Prefer not to say,1-2 years,Prepaid,1,1,0,0,7,1,2
+No Education,Self-employed,AirtelTigo,Prefer not to say,5 or more years,Both,0,0,1,1,6,1,3
+Primary School,Unemployed,MTN,Pricing,Less than 6 months,Both,0,0,1,1,7,1,1
+Primary School,Unemployed,MTN,Prefer not to say,5 or more years,Both,1,0,0,0,2,2,5
+No Education,Employed full-time,MTN,Pricing,3-4 years,Postpaid,1,1,1,1,7,1,3
+Postgraduate,Student,Glo,Coverage,5 or more years,Prepaid,1,1,0,0, ,2,1
+No Education,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Postpaid,0,0,0,0, ,4,4
+High school graduate,Student,AirtelTigo,Customer Service,5 or more years,Both,1,0,1,1, ,2,3
+Undergraduate,Retired,MTN,Prefer not to say,3-4 years,Prepaid,1,1,1,1,5,1,4
+Primary School,Employed full-time,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,0,0,1,2,1
+Undergraduate,Self-employed,Glo,Prefer not to say,1-2 years,Prepaid,0,0,1,0,1,1,2
+Undergraduate,Employed full-time,Vodafone,Prefer not to say,1-2 years,Postpaid,1,0,0,1, ,3,2
+Postgraduate,Student,Glo,Prefer not to say,6-12 months,Both,1,0,1,0,6,3,4
+No Education,Employed part-time,AirtelTigo,Coverage,6-12 months,Postpaid,0,1,1,0,2,2,5
+No Education,Self-employed,MTN,Coverage,3-4 years,Postpaid,0,0,1,0,1,2,5
+Undergraduate,Student,AirtelTigo,Customer Service,3-4 years,Postpaid,0,0,0,1,4,2,4
+Prefer not to say,Unemployed,Glo,Customer Service,5 or more years,Prepaid,1,0,1,1,7,1,3
+No Education,Unemployed,Vodafone,Coverage,1-2 years,Postpaid,0,1,1,0,4,2,3
+Prefer not to say,Retired,MTN,Customer Service,3-4 years,Prepaid,1,1,1,1,2,3,1
+Primary School,Self-employed,MTN,Coverage,1-2 years,Prepaid,0,0,0,1,2,4,3
+No Education,Self-employed,MTN,Coverage,1-2 years,Postpaid,0,0,0,0,5,2,5
+Primary School,Self-employed,AirtelTigo,Coverage,5 or more years,Prepaid,1,1,1,0, ,1,4
+No Education,Retired,Vodafone,Customer Service,3-4 years,Postpaid,1,1,1,1,6,1,5
+No Education,Student,Glo,Prefer not to say,6-12 months,Both,1,0,1,0,7,3,1
+Undergraduate,Student,Vodafone,Prefer not to say,1-2 years,Prepaid,0,0,0,1,7,3,1
+Postgraduate,Employed full-time,Glo,Customer Service,6-12 months,Both,0,1,1,1,3,1,4
+Primary School,Unemployed,AirtelTigo,Customer Service,3-4 years,Prepaid,0,1,0,0,4,1,3
+Primary School,Student,MTN,Coverage,3-4 years,Both,0,0,0,0, ,4,2
+No Education,Student,AirtelTigo,Coverage,1-2 years,Prepaid,0,1,1,1,4,1,4
+Postgraduate,Retired,MTN,Pricing,5 or more years,Prepaid,0,0,0,1,5,2,4
+No Education,Student,AirtelTigo,Pricing,1-2 years,Postpaid,1,0,1,1,7,4,1
+No Education,Retired,Glo,Coverage,6-12 months,Both,0,1,0,1,3,2,4
+Prefer not to say,Student,Glo,Coverage,5 or more years,Postpaid,1,1,1,1,2,4,5
+High school graduate,Employed full-time,MTN,Pricing,5 or more years,Postpaid,1,1,1,0,4,1,5
+Undergraduate,Employed full-time,AirtelTigo,Prefer not to say,1-2 years,Prepaid,1,1,0,0, ,1,3
+No Education,Student,MTN,Customer Service,3-4 years,Both,0,1,0,0,3,1,2
+Undergraduate,Employed full-time,Glo,Pricing,Less than 6 months,Postpaid,1,1,1,0, ,3,4
+High school graduate,Employed part-time,AirtelTigo,Prefer not to say,3-4 years,Prepaid,1,1,0,0,3,1,1
+Postgraduate,Employed full-time,Glo,Pricing,5 or more years,Postpaid,1,1,0,1, ,4,5
+Postgraduate,Employed part-time,MTN,Pricing,3-4 years,Postpaid,0,0,0,0,2,2,2
+High school graduate,Self-employed,AirtelTigo,Coverage,1-2 years,Postpaid,1,0,1,0,2,4,2
+Prefer not to say,Employed full-time,MTN,Customer Service,5 or more years,Prepaid,0,1,0,1,1,2,3
+Primary School,Unemployed,Glo,Customer Service,6-12 months,Postpaid,0,1,1,1, ,4,1
+No Education,Unemployed,Vodafone,Customer Service,Less than 6 months,Prepaid,0,0,0,0,5,1,4
+Prefer not to say,Student,MTN,Customer Service,Less than 6 months,Both,1,1,0,1,5,2,2
+No Education,Retired,MTN,Customer Service,Less than 6 months,Prepaid,1,0,1,1,5,4,5
+No Education,Employed part-time,MTN,Pricing,6-12 months,Postpaid,1,0,1,0,7,2,4
+No Education,Employed full-time,MTN,Pricing,Less than 6 months,Both,0,1,0,0,4,4,2
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Prepaid,0,1,0,1, ,4,2
+No Education,Student,AirtelTigo,Pricing,1-2 years,Both,1,1,1,1,5,2,1
+High school graduate,Employed full-time,MTN,Prefer not to say,6-12 months,Prepaid,0,0,1,1,6,1,5
+No Education,Retired,MTN,Prefer not to say,5 or more years,Prepaid,1,1,0,1,1,1,4
+Undergraduate,Employed full-time,Vodafone,Coverage,6-12 months,Both,1,1,0,0,3,2,2
+High school graduate,Unemployed,Glo,Customer Service,1-2 years,Prepaid,0,1,0,1,4,4,4
+Primary School,Unemployed,Glo,Customer Service,6-12 months,Prepaid,0,1,1,1, ,4,1
+Postgraduate,Unemployed,MTN,Prefer not to say,5 or more years,Both,1,1,1,1, ,3,3
+Undergraduate,Retired,AirtelTigo,Prefer not to say,5 or more years,Prepaid,0,0,1,0,4,1,1
+Undergraduate,Retired,MTN,Prefer not to say,3-4 years,Prepaid,1,1,1,1,7,1,4
+Undergraduate,Unemployed,Vodafone,Prefer not to say,Less than 6 months,Prepaid,1,1,1,0,7,2,4
+Postgraduate,Employed full-time,Vodafone,Prefer not to say,5 or more years,Postpaid,1,0,1,0,2,1,5
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Postpaid,1,1,1,0,4,4,1
+High school graduate,Retired,Vodafone,Coverage,1-2 years,Both,1,1,1,0,7,3,1
+No Education,Retired,MTN,Prefer not to say,5 or more years,Both,0,1,0,1,7,1,5
+Undergraduate,Student,MTN,Pricing,5 or more years,Both,1,1,0,1,2,2,4
+High school graduate,Student,Vodafone,Pricing,5 or more years,Prepaid,0,1,1,1,4,3,2
+No Education,Retired,Vodafone,Pricing,Less than 6 months,Postpaid,1,1,0,1,2,1,3
+Undergraduate,Student,Vodafone,Customer Service,3-4 years,Prepaid,1,0,1,0,7,1,3
+Primary School,Employed full-time,MTN,Prefer not to say,6-12 months,Both,0,1,0,1, ,1,4
+Postgraduate,Retired,Glo,Pricing,1-2 years,Postpaid,0,1,0,1, ,2,3
+Prefer not to say,Employed full-time,MTN,Pricing,1-2 years,Both,0,1,1,1,4,1,2
+Prefer not to say,Employed part-time,Glo,Prefer not to say,Less than 6 months,Postpaid,0,0,1,1, ,3,1
+Postgraduate,Self-employed,AirtelTigo,Coverage,3-4 years,Both,0,1,1,1, ,1,2
+Postgraduate,Self-employed,Vodafone,Customer Service,6-12 months,Postpaid,1,1,0,1,7,1,5
+Postgraduate,Employed part-time,Vodafone,Customer Service,6-12 months,Postpaid,1,0,1,0, ,2,1
+No Education,Employed part-time,Glo,Coverage,Less than 6 months,Prepaid,0,0,0,1,4,1,3
+No Education,Student,AirtelTigo,Pricing,1-2 years,Prepaid,1,0,1,0,6,3,4
+Primary School,Employed full-time,MTN,Customer Service,5 or more years,Both,0,1,1,0,3,1,5
+High school graduate,Employed part-time,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,1,1,1,1,6,4,2
+Undergraduate,Retired,MTN,Customer Service,5 or more years,Prepaid,1,0,1,1,4,2,2
+Postgraduate,Self-employed,AirtelTigo,Pricing,1-2 years,Prepaid,0,0,0,1,5,3,1
+Prefer not to say,Employed part-time,Vodafone,Customer Service,5 or more years,Both,0,1,0,0,5,2,5
+Undergraduate,Unemployed,MTN,Pricing,6-12 months,Postpaid,1,0,0,0,1,3,5
+Primary School,Employed part-time,Vodafone,Customer Service,1-2 years,Prepaid,1,1,0,0,2,4,1
+Undergraduate,Self-employed,Vodafone,Customer Service,5 or more years,Both,1,1,0,1, ,4,2
+No Education,Student,Glo,Customer Service,6-12 months,Both,1,0,0,0,3,4,5
+Postgraduate,Retired,Glo,Customer Service,6-12 months,Prepaid,0,1,1,1,5,1,2
+No Education,Employed part-time,MTN,Coverage,6-12 months,Both,1,1,0,0,5,1,2
+Prefer not to say,Retired,MTN,Customer Service,3-4 years,Both,1,1,1,1,7,3,1
+High school graduate,Student,Glo,Coverage,5 or more years,Both,0,1,0,1, ,4,4
+No Education,Unemployed,Vodafone,Coverage,1-2 years,Postpaid,0,1,1,0,5,2,3
+Primary School,Unemployed,MTN,Pricing,Less than 6 months,Prepaid,1,1,1,0,4,2,4
+Undergraduate,Student,MTN,Pricing,5 or more years,Prepaid,0,1,1,1,4,1,5
+Undergraduate,Employed part-time,MTN,Coverage,Less than 6 months,Postpaid,0,0,0,0,4,2,5
+Undergraduate,Unemployed,Glo,Customer Service,5 or more years,Prepaid,0,0,0,1,6,4,1
+No Education,Unemployed,MTN,Prefer not to say,Less than 6 months,Postpaid,0,0,0,1,3,1,1
+Undergraduate,Student,Vodafone,Prefer not to say,1-2 years,Prepaid,0,0,1,0,7,1,3
+High school graduate,Employed full-time,MTN,Prefer not to say,3-4 years,Both,1,0,1,1,5,4,5
+Undergraduate,Unemployed,MTN,Pricing,3-4 years,Both,1,1,0,1,5,3,4
+High school graduate,Student,Vodafone,Prefer not to say,6-12 months,Both,0,1,0,0,5,4,2
+Postgraduate,Unemployed,Glo,Pricing,5 or more years,Postpaid,1,0,0,1, ,2,4
+Undergraduate,Retired,MTN,Coverage,1-2 years,Prepaid,1,0,1,0,5,3,3
+No Education,Student,Vodafone,Customer Service,6-12 months,Both,0,0,1,0,2,3,2
+Undergraduate,Self-employed,MTN,Pricing,1-2 years,Prepaid,1,1,0,1,4,4,5
+Primary School,Student,Glo,Pricing,Less than 6 months,Prepaid,1,1,0,1,2,1,1
+Primary School,Self-employed,MTN,Pricing,Less than 6 months,Prepaid,0,0,0,0,5,3,1
+Postgraduate,Unemployed,AirtelTigo,Prefer not to say,5 or more years,Prepaid,1,0,0,1,1,1,5
+Postgraduate,Retired,Glo,Customer Service,3-4 years,Postpaid,0,1,0,0,7,4,2
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Prepaid,1,1,1,0,4,4,1
+Primary School,Retired,Glo,Customer Service,6-12 months,Both,1,1,1,0,6,2,2
+Undergraduate,Student,MTN,Prefer not to say,3-4 years,Postpaid,1,0,1,1,4,1,4
+Postgraduate,Unemployed,AirtelTigo,Pricing,6-12 months,Both,0,1,0,0,3,4,5
+High school graduate,Student,AirtelTigo,Pricing,3-4 years,Prepaid,0,0,0,0,3,3,1
+High school graduate,Self-employed,AirtelTigo,Coverage,1-2 years,Both,1,0,1,0, ,4,2
+Postgraduate,Student,AirtelTigo,Pricing,Less than 6 months,Postpaid,1,1,0,0,4,2,2
+No Education,Student,MTN,Pricing,5 or more years,Postpaid,1,0,1,0,2,3,2
+High school graduate,Self-employed,AirtelTigo,Customer Service,5 or more years,Prepaid,0,1,1,1,5,4,5
+Undergraduate,Retired,Glo,Customer Service,1-2 years,Postpaid,0,0,1,0,1,4,4
+No Education,Unemployed,Glo,Coverage,5 or more years,Prepaid,0,1,1,0,6,3,5
+No Education,Unemployed,Vodafone,Prefer not to say,Less than 6 months,Prepaid,0,1,1,0,1,2,5
+High school graduate,Self-employed,AirtelTigo,Pricing,6-12 months,Prepaid,0,0,0,1, ,3,1
+Prefer not to say,Employed full-time,Vodafone,Customer Service,3-4 years,Postpaid,1,1,0,0,5,2,1
+Postgraduate,Employed full-time,Vodafone,Customer Service,1-2 years,Postpaid,0,1,1,0,4,1,1
+Primary School,Retired,Glo,Customer Service,6-12 months,Postpaid,1,1,1,0,7,2,2
+Postgraduate,Employed part-time,MTN,Prefer not to say,3-4 years,Postpaid,1,0,1,0,5,3,3
+Postgraduate,Student,Vodafone,Pricing,6-12 months,Both,0,0,1,1,1,2,5
+Postgraduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,1,5,1,4
+No Education,Employed full-time,Glo,Pricing,6-12 months,Postpaid,0,1,0,1,2,4,4
+Postgraduate,Employed full-time,MTN,Coverage,3-4 years,Both,0,0,0,0,3,4,3
+Undergraduate,Self-employed,MTN,Prefer not to say,5 or more years,Postpaid,0,1,0,0,4,2,2
+Undergraduate,Self-employed,MTN,Pricing,5 or more years,Prepaid,1,0,0,1,4,3,2
+Undergraduate,Student,Glo,Pricing,5 or more years,Prepaid,0,1,1,1,5,4,4
+Prefer not to say,Self-employed,Vodafone,Prefer not to say,1-2 years,Postpaid,1,0,1,0,7,4,5
+Primary School,Retired,AirtelTigo,Coverage,5 or more years,Postpaid,0,1,1,0,1,1,4
+High school graduate,Student,AirtelTigo,Customer Service,3-4 years,Both,1,1,0,1,1,3,5
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Postpaid,1,1,1,1, ,1,1
+Prefer not to say,Unemployed,MTN,Coverage,5 or more years,Postpaid,1,0,0,0,3,3,4
+Postgraduate,Employed part-time,Vodafone,Coverage,6-12 months,Both,1,1,1,0,2,1,5
+Postgraduate,Self-employed,AirtelTigo,Pricing,1-2 years,Prepaid,0,0,0,1,2,3,1
+Primary School,Unemployed,Vodafone,Coverage,6-12 months,Both,0,0,1,1,2,3,5
+No Education,Employed full-time,AirtelTigo,Coverage,Less than 6 months,Prepaid,0,1,0,0,5,2,4
+No Education,Employed full-time,Vodafone,Coverage,5 or more years,Both,0,1,1,0,3,3,4
+Prefer not to say,Student,MTN,Prefer not to say,3-4 years,Prepaid,1,1,1,1,2,2,3
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Both,1,1,1,0,6,4,3
+Prefer not to say,Self-employed,MTN,Prefer not to say,3-4 years,Both,1,1,1,0,7,3,2
+No Education,Self-employed,MTN,Coverage,1-2 years,Postpaid,0,0,0,0,4,2,5
+Undergraduate,Employed part-time,MTN,Coverage,1-2 years,Prepaid,0,0,0,1, ,3,3
+Primary School,Unemployed,MTN,Prefer not to say,5 or more years,Prepaid,1,0,0,0, ,2,5
+High school graduate,Student,MTN,Customer Service,3-4 years,Both,0,1,0,0,4,3,1
+Undergraduate,Employed part-time,Vodafone,Pricing,1-2 years,Prepaid,0,0,0,0,1,1,1
+No Education,Student,AirtelTigo,Pricing,1-2 years,Postpaid,1,1,1,1,3,2,1
+Primary School,Employed full-time,AirtelTigo,Pricing,5 or more years,Postpaid,1,0,0,1,6,1,1
+High school graduate,Self-employed,MTN,Pricing,1-2 years,Postpaid,0,1,0,1,5,3,3
+Prefer not to say,Retired,Glo,Customer Service,3-4 years,Both,0,1,0,0,4,1,5
+High school graduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Prepaid,1,1,0,0, ,1,2
+Primary School,Employed full-time,MTN,Prefer not to say,Less than 6 months,Both,0,1,0,0,7,2,1
+No Education,Student,MTN,Customer Service,3-4 years,Prepaid,0,1,0,0,5,1,2
+Prefer not to say,Employed part-time,AirtelTigo,Prefer not to say,3-4 years,Postpaid,1,1,1,0,5,3,5
+No Education,Self-employed,MTN,Coverage,5 or more years,Prepaid,0,0,1,1,3,1,4
+No Education,Student,Glo,Coverage,3-4 years,Postpaid,0,1,0,0,4,2,2
+Prefer not to say,Student,AirtelTigo,Customer Service,5 or more years,Prepaid,0,1,1,1,3,2,3
+Postgraduate,Self-employed,MTN,Prefer not to say,5 or more years,Prepaid,1,1,0,0, ,3,4
+High school graduate,Student,MTN,Pricing,1-2 years,Prepaid,0,1,1,1,4,1,3
+Postgraduate,Unemployed,Glo,Pricing,5 or more years,Both,1,0,0,1, ,2,4
+Prefer not to say,Retired,AirtelTigo,Prefer not to say,1-2 years,Both,0,1,0,0,1,1,4
+Primary School,Unemployed,Vodafone,Coverage,6-12 months,Postpaid,0,1,0,0,5,1,1
+Primary School,Employed full-time,Glo,Customer Service,Less than 6 months,Prepaid,0,0,1,0,7,3,2
+Postgraduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,1, ,1,4
+Postgraduate,Self-employed,MTN,Pricing,3-4 years,Postpaid,1,1,1,0,5,3,2
+Postgraduate,Employed part-time,MTN,Prefer not to say,3-4 years,Both,1,0,1,0,7,3,5
+High school graduate,Student,MTN,Pricing,1-2 years,Prepaid,0,1,1,1,6,1,3
+High school graduate,Student,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,0,0,1,1,4,3,1
+Prefer not to say,Student,MTN,Pricing,5 or more years,Both,1,1,0,0,4,4,3
+Prefer not to say,Employed full-time,MTN,Prefer not to say,3-4 years,Prepaid,0,1,1,1,7,4,3
+High school graduate,Employed part-time,MTN,Pricing,5 or more years,Prepaid,1,0,0,1,1,2,1
+No Education,Student,Glo,Coverage,3-4 years,Prepaid,0,1,0,0,5,2,2
+Primary School,Unemployed,AirtelTigo,Coverage,5 or more years,Prepaid,0,0,1,1,5,3,5
+No Education,Unemployed,Vodafone,Pricing,1-2 years,Prepaid,0,1,0,1,2,1,4
+No Education,Retired,MTN,Prefer not to say,1-2 years,Prepaid,1,1,1,0,4,1,5
+No Education,Retired,Vodafone,Coverage,Less than 6 months,Both,0,0,0,1,3,3,1
+Prefer not to say,Student,Vodafone,Prefer not to say,6-12 months,Both,0,0,0,0,2,2,1
+Postgraduate,Employed part-time,MTN,Coverage,5 or more years,Postpaid,1,0,1,1,4,1,2
+Prefer not to say,Employed full-time,MTN,Customer Service,3-4 years,Both,0,0,0,0,5,3,1
+Undergraduate,Employed full-time,Vodafone,Pricing,1-2 years,Postpaid,0,0,1,1,1,1,4
+Undergraduate,Employed full-time,Vodafone,Coverage,6-12 months,Prepaid,1,0,0,1, ,4,2
+Postgraduate,Unemployed,MTN,Pricing,6-12 months,Prepaid,0,0,1,0,1,1,1
+Undergraduate,Student,MTN,Coverage,3-4 years,Both,1,1,0,1,4,1,2
+Prefer not to say,Retired,Vodafone,Prefer not to say,6-12 months,Postpaid,1,0,0,0,1,4,2
+Postgraduate,Employed full-time,Glo,Customer Service,6-12 months,Prepaid,0,1,1,1, ,1,4
+Prefer not to say,Employed full-time,MTN,Pricing,6-12 months,Prepaid,0,1,1,0,5,2,3
+Postgraduate,Self-employed,AirtelTigo,Pricing,3-4 years,Prepaid,0,0,0,1,5,3,1
+Prefer not to say,Unemployed,MTN,Coverage,6-12 months,Postpaid,0,1,0,0, ,3,2
+Primary School,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,0,7,3,1
+High school graduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Both,1,1,0,0,4,1,2
+Prefer not to say,Unemployed,AirtelTigo,Prefer not to say,1-2 years,Prepaid,0,0,0,0,6,1,1
+High school graduate,Self-employed,Glo,Prefer not to say,1-2 years,Both,0,1,0,0,7,2,3
+Undergraduate,Student,Vodafone,Prefer not to say,1-2 years,Both,0,0,1,0,4,1,3
+No Education,Self-employed,MTN,Coverage,3-4 years,Both,0,0,1,0,5,2,5
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,0,1,0,4,1,3
+High school graduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Both,0,1,1,0,5,2,1
+Undergraduate,Student,MTN,Pricing,3-4 years,Both,0,0,1,1,6,4,3
+Prefer not to say,Student,Glo,Coverage,5 or more years,Prepaid,0,1,0,0,2,1,1
+No Education,Employed part-time,AirtelTigo,Customer Service,1-2 years,Postpaid,1,0,1,0,7,2,1
+Postgraduate,Student,Glo,Coverage,5 or more years,Prepaid,1,1,0,0,4,2,1
+Primary School,Unemployed,MTN,Prefer not to say,5 or more years,Postpaid,1,1,1,0,7,3,5
+Prefer not to say,Retired,MTN,Pricing,6-12 months,Postpaid,1,0,1,1,7,4,3
+Primary School,Employed part-time,MTN,Prefer not to say,5 or more years,Postpaid,1,0,1,1,4,2,2
+Prefer not to say,Employed part-time,MTN,Prefer not to say,Less than 6 months,Both,1,1,0,1,5,3,5
+Undergraduate,Unemployed,MTN,Prefer not to say,1-2 years,Prepaid,1,0,1,1, ,2,3
+Primary School,Employed part-time,Vodafone,Prefer not to say,3-4 years,Postpaid,0,0,1,1,7,1,1
+Postgraduate,Student,AirtelTigo,Pricing,6-12 months,Prepaid,1,0,0,1,4,2,2
+Postgraduate,Employed full-time,AirtelTigo,Coverage,6-12 months,Postpaid,0,1,1,1,6,2,4
+Undergraduate,Self-employed,Vodafone,Customer Service,1-2 years,Both,0,1,0,1,2,3,4
+Undergraduate,Self-employed,Vodafone,Customer Service,1-2 years,Postpaid,0,1,0,1,5,3,4
+Prefer not to say,Retired,Vodafone,Pricing,6-12 months,Prepaid,1,0,0,0,2,4,3
+Undergraduate,Student,AirtelTigo,Customer Service,3-4 years,Both,0,0,0,1, ,2,4
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Postpaid,1,1,1,0,3,4,1
+Undergraduate,Self-employed,MTN,Coverage,Less than 6 months,Prepaid,1,0,0,1,3,1,3
+Undergraduate,Unemployed,MTN,Customer Service,6-12 months,Postpaid,0,1,0,0,4,3,5
+Undergraduate,Student,Vodafone,Coverage,6-12 months,Prepaid,0,1,0,0,7,3,5
+No Education,Employed part-time,AirtelTigo,Pricing,1-2 years,Prepaid,0,0,0,1,4,3,4
+High school graduate,Unemployed,Vodafone,Customer Service,3-4 years,Prepaid,0,0,1,1,7,4,1
+Postgraduate,Student,Vodafone,Customer Service,5 or more years,Postpaid,1,0,1,0,3,3,1
+No Education,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,0,0,0,0,3,2,3
+Postgraduate,Employed part-time,MTN,Coverage,1-2 years,Prepaid,0,0,0,0,2,4,3
+Postgraduate,Self-employed,AirtelTigo,Coverage,3-4 years,Postpaid,0,1,1,0,4,4,5
+No Education,Employed full-time,MTN,Coverage,3-4 years,Prepaid,0,1,1,0, ,3,4
+Undergraduate,Employed part-time,MTN,Customer Service,5 or more years,Both,0,0,1,0,6,1,4
+Undergraduate,Employed full-time,Vodafone,Pricing,1-2 years,Prepaid,0,0,1,1,5,1,4
+Undergraduate,Employed full-time,Vodafone,Prefer not to say,3-4 years,Prepaid,1,1,0,0,7,2,4
+Primary School,Retired,Glo,Customer Service,6-12 months,Prepaid,1,1,1,0, ,2,2
+No Education,Unemployed,Glo,Coverage,Less than 6 months,Both,1,0,1,0,4,4,5
+Prefer not to say,Self-employed,Vodafone,Prefer not to say,1-2 years,Prepaid,1,0,1,0,3,4,5
+No Education,Employed full-time,MTN,Coverage,6-12 months,Prepaid,1,1,0,1,7,4,4
+High school graduate,Self-employed,MTN,Prefer not to say,3-4 years,Both,0,0,1,0,1,4,5
+Postgraduate,Unemployed,AirtelTigo,Coverage,6-12 months,Prepaid,0,0,1,0,3,2,3
+High school graduate,Self-employed,Vodafone,Customer Service,3-4 years,Both,0,1,1,0,4,2,5
+No Education,Employed full-time,MTN,Pricing,Less than 6 months,Both,0,0,1,1,6,4,2
+Primary School,Employed full-time,AirtelTigo,Pricing,3-4 years,Postpaid,1,1,1,1, ,4,2
+No Education,Employed full-time,MTN,Pricing,Less than 6 months,Postpaid,0,1,0,0,6,4,2
+Primary School,Unemployed,Vodafone,Coverage,6-12 months,Postpaid,0,0,1,1, ,3,5
+High school graduate,Unemployed,MTN,Prefer not to say,5 or more years,Prepaid,1,1,0,0,1,3,4
+No Education,Self-employed,AirtelTigo,Prefer not to say,1-2 years,Postpaid,1,1,1,1,5,1,5
+High school graduate,Student,AirtelTigo,Customer Service,5 or more years,Prepaid,1,0,1,1, ,2,3
+High school graduate,Self-employed,MTN,Prefer not to say,5 or more years,Prepaid,1,1,0,0,6,3,2
+No Education,Retired,MTN,Pricing,6-12 months,Postpaid,0,1,0,0,3,1,2
+Prefer not to say,Self-employed,MTN,Coverage,5 or more years,Both,0,1,1,1,6,2,1
+Prefer not to say,Student,MTN,Coverage,1-2 years,Prepaid,1,0,1,0,6,2,3
+Postgraduate,Employed part-time,MTN,Customer Service,5 or more years,Prepaid,0,0,0,1,4,2,2
+Postgraduate,Employed full-time,Vodafone,Pricing,1-2 years,Both,1,0,0,0,7,1,5
+Prefer not to say,Student,MTN,Coverage,3-4 years,Postpaid,1,0,1,1,2,1,4
+High school graduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,1,0,2,2,1
+High school graduate,Retired,MTN,Coverage,1-2 years,Postpaid,0,1,0,1,1,1,1
+Undergraduate,Employed full-time,Vodafone,Coverage,3-4 years,Postpaid,1,1,0,1,7,1,4
+Undergraduate,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,1,0,1,1,7,1,5
+Postgraduate,Unemployed,MTN,Customer Service,6-12 months,Postpaid,1,1,0,0,5,4,5
+Undergraduate,Retired,Glo,Customer Service,1-2 years,Prepaid,0,0,1,0, ,4,4
+Primary School,Retired,AirtelTigo,Coverage,5 or more years,Both,0,1,1,0,7,1,4
+High school graduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Both,1,0,1,0,5,4,5
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Postpaid,0,0,1,0,1,4,2
+Prefer not to say,Student,MTN,Pricing,3-4 years,Prepaid,0,1,1,0,2,3,3
+Postgraduate,Student,Vodafone,Pricing,6-12 months,Prepaid,0,0,1,1,5,2,5
+Undergraduate,Unemployed,MTN,Pricing,5 or more years,Both,0,0,1,1,6,2,2
+Primary School,Student,Glo,Pricing,1-2 years,Prepaid,0,1,0,0,2,2,3
+Undergraduate,Student,Vodafone,Prefer not to say,1-2 years,Postpaid,0,0,0,1,6,3,1
+Prefer not to say,Self-employed,Glo,Coverage,Less than 6 months,Both,1,0,0,0,2,3,3
+No Education,Student,MTN,Prefer not to say,6-12 months,Prepaid,1,0,0,0,3,1,4
+Prefer not to say,Self-employed,Glo,Customer Service,3-4 years,Postpaid,0,0,0,1,7,1,5
+High school graduate,Student,AirtelTigo,Prefer not to say,Less than 6 months,Both,0,0,1,0,4,4,5
+High school graduate,Student,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,0,0,1,1,5,3,1
+High school graduate,Self-employed,Vodafone,Customer Service,3-4 years,Both,1,0,0,0, ,4,4
+No Education,Retired,MTN,Customer Service,1-2 years,Both,0,0,0,0, ,2,1
+High school graduate,Student,AirtelTigo,Customer Service,Less than 6 months,Both,0,0,0,0, ,4,4
+Prefer not to say,Retired,AirtelTigo,Prefer not to say,5 or more years,Postpaid,1,0,0,0,5,3,5
+No Education,Retired,Vodafone,Coverage,Less than 6 months,Both,0,0,0,1,4,3,1
+Undergraduate,Employed part-time,MTN,Coverage,1-2 years,Postpaid,0,1,0,0,4,1,4
+Postgraduate,Retired,AirtelTigo,Pricing,1-2 years,Prepaid,0,1,1,0,3,2,1
+Primary School,Student,Glo,Pricing,Less than 6 months,Postpaid,1,0,1,0,4,3,1
+Postgraduate,Unemployed,Vodafone,Pricing,Less than 6 months,Both,0,1,0,0,2,2,3
+Prefer not to say,Retired,AirtelTigo,Customer Service,6-12 months,Postpaid,1,1,0,1,4,4,2
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Both,1,1,1,0, ,4,1
+Postgraduate,Unemployed,Vodafone,Pricing,Less than 6 months,Postpaid,0,1,0,0,7,2,3
+Primary School,Retired,AirtelTigo,Prefer not to say,1-2 years,Both,0,0,1,0,4,2,3
+Prefer not to say,Student,Glo,Customer Service,5 or more years,Both,1,1,0,0,2,2,2
+Undergraduate,Retired,Vodafone,Pricing,6-12 months,Both,0,0,1,1,2,3,2
+Undergraduate,Student,Glo,Coverage,5 or more years,Prepaid,0,1,1,1,3,4,1
+No Education,Student,MTN,Prefer not to say,6-12 months,Both,1,0,0,0,5,1,4
+Primary School,Unemployed,Glo,Pricing,6-12 months,Postpaid,1,0,1,1,4,2,3
+High school graduate,Retired,Glo,Coverage,6-12 months,Both,1,0,1,0,4,2,2
+Undergraduate,Employed full-time,AirtelTigo,Coverage,3-4 years,Both,1,0,1,1, ,1,3
+No Education,Self-employed,Glo,Pricing,Less than 6 months,Postpaid,1,0,0,1,3,3,4
+No Education,Retired,AirtelTigo,Coverage,Less than 6 months,Both,1,1,1,1,3,1,5
+No Education,Employed full-time,MTN,Coverage,6-12 months,Postpaid,1,1,0,1,4,4,4
+High school graduate,Unemployed,Vodafone,Customer Service,6-12 months,Postpaid,1,0,1,0,2,4,3
+No Education,Retired,Glo,Prefer not to say,6-12 months,Both,0,0,1,0,5,3,3
+High school graduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,1,0,5,2,1
+No Education,Unemployed,Vodafone,Pricing,1-2 years,Postpaid,0,1,0,1, ,1,4
+Undergraduate,Self-employed,MTN,Coverage,Less than 6 months,Prepaid,1,0,0,1,5,1,3
+No Education,Employed part-time,MTN,Coverage,6-12 months,Prepaid,1,1,0,0,1,1,2
+Undergraduate,Employed part-time,MTN,Coverage,Less than 6 months,Postpaid,0,0,0,0,1,2,5
+Undergraduate,Student,Glo,Pricing,5 or more years,Postpaid,0,1,1,1,1,4,4
+Undergraduate,Unemployed,Vodafone,Customer Service,3-4 years,Both,0,0,0,0,2,1,5
+Postgraduate,Retired,MTN,Pricing,5 or more years,Both,0,0,1,1,6,4,3
+No Education,Student,AirtelTigo,Pricing,1-2 years,Prepaid,1,0,1,1,7,4,1
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,0,1,1,2,4,5
+Primary School,Employed part-time,MTN,Prefer not to say,Less than 6 months,Postpaid,0,1,0,1,7,1,2
+Postgraduate,Retired,Glo,Customer Service,3-4 years,Prepaid,1,0,1,1,2,1,5
+Primary School,Employed full-time,MTN,Pricing,Less than 6 months,Postpaid,1,0,0,1,4,4,1
+No Education,Self-employed,MTN,Coverage,5 or more years,Both,0,0,1,1,7,1,4
+Postgraduate,Unemployed,Glo,Customer Service,1-2 years,Prepaid,1,0,0,1,2,2,5
+Prefer not to say,Employed part-time,MTN,Coverage,Less than 6 months,Postpaid,0,1,1,0,6,3,3
+Undergraduate,Student,MTN,Pricing,1-2 years,Postpaid,0,1,0,1,4,2,4
+Undergraduate,Student,Vodafone,Prefer not to say,1-2 years,Both,0,0,0,1,5,3,1
+No Education,Employed part-time,Vodafone,Prefer not to say,5 or more years,Prepaid,1,1,1,0,3,1,3
+Prefer not to say,Employed full-time,Glo,Customer Service,3-4 years,Postpaid,1,0,0,1,6,1,4
+High school graduate,Student,AirtelTigo,Prefer not to say,Less than 6 months,Prepaid,0,0,1,0,4,4,5
+Postgraduate,Employed part-time,MTN,Coverage,5 or more years,Prepaid,1,0,1,1,5,1,2
+No Education,Unemployed,Glo,Coverage,5 or more years,Prepaid,0,0,0,1,5,3,4
+Prefer not to say,Student,Glo,Customer Service,5 or more years,Postpaid,1,0,0,0,3,4,1
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Both,0,0,1,1, ,1,4
+Prefer not to say,Student,MTN,Prefer not to say,6-12 months,Prepaid,0,0,1,1,6,2,5
+Prefer not to say,Employed part-time,AirtelTigo,Prefer not to say,3-4 years,Both,1,1,1,0,3,3,5
+Prefer not to say,Employed part-time,MTN,Customer Service,6-12 months,Both,0,1,0,1,3,4,5
+Primary School,Employed full-time,MTN,Pricing,3-4 years,Both,0,0,0,1, ,4,3
+Postgraduate,Student,MTN,Coverage,Less than 6 months,Postpaid,0,1,0,0,2,1,5
+Undergraduate,Employed full-time,MTN,Coverage,3-4 years,Postpaid,0,1,1,0,2,1,2
+No Education,Retired,Glo,Prefer not to say,5 or more years,Postpaid,0,1,0,0,1,1,1
+Undergraduate,Self-employed,Vodafone,Customer Service,1-2 years,Prepaid,1,0,0,0,1,2,1
+Prefer not to say,Employed full-time,Glo,Customer Service,3-4 years,Prepaid,1,0,0,1,5,1,4
+Postgraduate,Unemployed,AirtelTigo,Prefer not to say,3-4 years,Prepaid,1,0,1,1,6,4,3
+No Education,Unemployed,Glo,Coverage,6-12 months,Postpaid,1,0,1,0,4,3,4
+Postgraduate,Student,Vodafone,Prefer not to say,1-2 years,Both,1,1,1,1,7,3,3
+No Education,Retired,Glo,Prefer not to say,6-12 months,Prepaid,0,0,1,0,2,3,3
+No Education,Unemployed,Glo,Coverage,Less than 6 months,Both,1,0,0,1, ,1,1
+No Education,Retired,MTN,Prefer not to say,6-12 months,Both,1,0,1,0,6,4,5
+No Education,Unemployed,Vodafone,Customer Service,3-4 years,Both,0,1,0,1,7,3,4
+Prefer not to say,Unemployed,Vodafone,Prefer not to say,Less than 6 months,Postpaid,1,1,0,1,4,1,4
+Primary School,Retired,MTN,Customer Service,3-4 years,Prepaid,1,0,0,0,1,1,3
+Primary School,Retired,Vodafone,Customer Service,Less than 6 months,Both,0,0,1,0,7,2,1
+Primary School,Student,MTN,Customer Service,3-4 years,Both,0,1,1,0,3,4,3
+Prefer not to say,Retired,Glo,Customer Service,Less than 6 months,Both,1,0,1,1,2,1,1
+High school graduate,Retired,Glo,Coverage,1-2 years,Prepaid,1,0,1,1, ,4,4
+No Education,Unemployed,Glo,Customer Service,Less than 6 months,Both,0,0,1,0,4,2,4
+High school graduate,Employed full-time,Vodafone,Coverage,3-4 years,Prepaid,1,0,1,0,2,3,3
+No Education,Employed full-time,Vodafone,Customer Service,6-12 months,Postpaid,1,1,0,1,1,1,5
+Postgraduate,Retired,MTN,Pricing,1-2 years,Prepaid,1,0,1,0,7,1,5
+Prefer not to say,Employed full-time,Vodafone,Prefer not to say,3-4 years,Postpaid,0,0,0,0,2,2,4
+Postgraduate,Unemployed,Vodafone,Pricing,1-2 years,Prepaid,1,1,1,0,1,4,3
+Postgraduate,Retired,MTN,Prefer not to say,5 or more years,Both,1,1,1,0,6,1,5
+Undergraduate,Employed part-time,Glo,Coverage,3-4 years,Prepaid,1,1,1,0,4,3,3
+No Education,Retired,AirtelTigo,Prefer not to say,5 or more years,Both,1,1,1,1,6,4,3
+Postgraduate,Employed full-time,Glo,Pricing,5 or more years,Postpaid,1,1,0,1,1,4,5
+Prefer not to say,Retired,MTN,Customer Service,5 or more years,Both,1,0,1,0,5,2,5
+Primary School,Student,MTN,Pricing,Less than 6 months,Prepaid,0,0,1,1,7,2,3
+No Education,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Prepaid,0,0,0,0,7,4,4
+Prefer not to say,Employed part-time,Vodafone,Customer Service,5 or more years,Prepaid,0,1,0,0,4,2,5
+Undergraduate,Student,Vodafone,Coverage,1-2 years,Prepaid,1,1,0,1,1,4,1
+No Education,Unemployed,Glo,Coverage,Less than 6 months,Postpaid,1,0,0,1, ,1,1
+Prefer not to say,Retired,AirtelTigo,Customer Service,6-12 months,Postpaid,0,0,0,0,1,4,4
+Postgraduate,Self-employed,Vodafone,Coverage,6-12 months,Postpaid,1,0,1,0,3,3,2
+Primary School,Employed part-time,AirtelTigo,Prefer not to say,Less than 6 months,Both,1,0,0,0,4,2,4
+High school graduate,Employed part-time,Glo,Customer Service,6-12 months,Both,1,0,0,1,4,2,2
+High school graduate,Self-employed,AirtelTigo,Pricing,3-4 years,Both,0,0,1,0,5,4,5
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,1,1,1,1,2,1,1
+Primary School,Unemployed,Glo,Pricing,6-12 months,Postpaid,1,0,1,1, ,2,3
+Undergraduate,Student,MTN,Prefer not to say,1-2 years,Prepaid,1,0,1,1,2,2,2
+Postgraduate,Retired,Glo,Customer Service,3-4 years,Both,0,1,0,0,6,4,2
+No Education,Unemployed,Glo,Coverage,Less than 6 months,Prepaid,1,0,0,1,2,1,1
+Undergraduate,Self-employed,MTN,Customer Service,Less than 6 months,Both,1,0,0,0,7,1,2
+Primary School,Retired,Glo,Customer Service,6-12 months,Postpaid,1,1,1,0,5,2,2
+No Education,Employed full-time,Vodafone,Pricing,1-2 years,Postpaid,0,1,0,0,1,2,3
+Postgraduate,Student,Vodafone,Pricing,Less than 6 months,Prepaid,1,0,0,1,2,4,3
+Prefer not to say,Self-employed,MTN,Prefer not to say,1-2 years,Both,0,0,0,0,1,4,1
+Prefer not to say,Unemployed,Glo,Prefer not to say,1-2 years,Both,0,1,1,1,4,1,1
+Primary School,Student,MTN,Coverage,Less than 6 months,Postpaid,1,1,1,0,6,1,5
+No Education,Unemployed,MTN,Coverage,6-12 months,Postpaid,0,1,0,0,7,4,1
+Primary School,Unemployed,Vodafone,Coverage,6-12 months,Both,0,1,0,0,5,1,1
+No Education,Student,Vodafone,Customer Service,5 or more years,Both,1,1,1,1,4,4,5
+High school graduate,Unemployed,Glo,Pricing,Less than 6 months,Postpaid,1,1,1,0,7,4,4
+High school graduate,Unemployed,MTN,Pricing,5 or more years,Postpaid,1,1,1,1,5,1,2
+Undergraduate,Employed full-time,MTN,Coverage,5 or more years,Both,1,0,0,1,7,3,4
+Postgraduate,Employed full-time,Glo,Pricing,5 or more years,Postpaid,1,1,0,1,7,4,5
+Undergraduate,Employed full-time,MTN,Coverage,5 or more years,Both,1,0,0,1,5,3,4
+High school graduate,Self-employed,Vodafone,Customer Service,3-4 years,Postpaid,0,1,1,0, ,2,5
+Undergraduate,Employed part-time,MTN,Pricing,3-4 years,Both,1,0,0,0, ,2,4
+Postgraduate,Retired,MTN,Pricing,6-12 months,Both,1,1,0,1,2,3,4
+Undergraduate,Employed part-time,AirtelTigo,Prefer not to say,Less than 6 months,Both,0,0,1,1,4,4,5
+Primary School,Student,MTN,Coverage,Less than 6 months,Postpaid,1,1,1,0, ,1,5
+No Education,Retired,MTN,Prefer not to say,1-2 years,Both,1,1,1,0,1,1,5
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,3-4 years,Prepaid,0,1,0,0,5,2,1
+Undergraduate,Self-employed,MTN,Prefer not to say,6-12 months,Prepaid,1,1,1,0, ,2,4
+Undergraduate,Self-employed,MTN,Customer Service,6-12 months,Prepaid,1,0,0,0,2,2,5
+High school graduate,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,0,0,1,0,7,4,5
+Prefer not to say,Unemployed,Glo,Prefer not to say,6-12 months,Prepaid,0,0,1,0,7,4,5
+Prefer not to say,Employed full-time,MTN,Coverage,1-2 years,Both,0,0,1,0,4,4,3
+Postgraduate,Student,MTN,Prefer not to say,Less than 6 months,Prepaid,0,0,1,1,6,1,1
+No Education,Employed full-time,MTN,Pricing,Less than 6 months,Postpaid,0,0,1,1, ,4,2
+Prefer not to say,Employed part-time,MTN,Prefer not to say,3-4 years,Both,0,1,1,1,6,1,3
+No Education,Unemployed,Glo,Coverage,Less than 6 months,Both,1,0,1,0,5,4,5
+Postgraduate,Employed full-time,Glo,Coverage,5 or more years,Both,1,1,1,0,3,2,3
+Postgraduate,Retired,MTN,Coverage,6-12 months,Postpaid,0,1,0,0,7,2,1
+Postgraduate,Unemployed,Vodafone,Coverage,3-4 years,Prepaid,1,1,1,0,7,4,1
+Postgraduate,Employed full-time,Vodafone,Prefer not to say,5 or more years,Prepaid,1,0,1,0, ,1,5
+Prefer not to say,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Both,0,0,0,0,2,4,4
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Both,0,1,1,0, ,3,5
+High school graduate,Self-employed,AirtelTigo,Pricing,1-2 years,Both,0,1,1,1, ,2,1
+Undergraduate,Employed part-time,MTN,Coverage,3-4 years,Prepaid,1,1,0,0,5,4,2
+No Education,Student,AirtelTigo,Pricing,3-4 years,Postpaid,0,0,0,0,5,3,3
+No Education,Employed full-time,MTN,Customer Service,1-2 years,Prepaid,1,1,1,1,4,4,3
+Prefer not to say,Unemployed,Glo,Customer Service,6-12 months,Postpaid,1,0,0,1,3,2,2
+Undergraduate,Employed full-time,Glo,Coverage,5 or more years,Postpaid,1,1,1,1,3,4,5
+No Education,Retired,MTN,Prefer not to say,3-4 years,Both,0,0,0,0,3,3,4
+Postgraduate,Employed part-time,Glo,Prefer not to say,1-2 years,Both,1,1,0,0,1,1,2
+No Education,Retired,MTN,Coverage,Less than 6 months,Postpaid,0,1,0,0,2,4,2
+Postgraduate,Self-employed,Vodafone,Pricing,Less than 6 months,Postpaid,0,1,0,0,4,1,3
+Postgraduate,Employed full-time,AirtelTigo,Coverage,3-4 years,Both,0,0,1,0,3,1,5
+Postgraduate,Employed full-time,MTN,Pricing,6-12 months,Prepaid,0,1,0,0,5,3,2
+Prefer not to say,Retired,Glo,Coverage,5 or more years,Both,0,1,1,0, ,1,3
+Prefer not to say,Retired,Vodafone,Prefer not to say,6-12 months,Postpaid,1,0,0,0, ,4,2
+High school graduate,Self-employed,Glo,Prefer not to say,1-2 years,Postpaid,0,1,0,0,5,2,3
+Prefer not to say,Employed full-time,MTN,Customer Service,5 or more years,Both,0,1,0,1,4,2,3
+High school graduate,Retired,Glo,Coverage,1-2 years,Both,1,0,1,1, ,4,4
+Primary School,Student,AirtelTigo,Pricing,Less than 6 months,Postpaid,1,0,0,0,4,2,5
+Postgraduate,Retired,MTN,Pricing,5 or more years,Both,0,0,0,1,3,2,4
+Primary School,Student,AirtelTigo,Coverage,6-12 months,Prepaid,1,1,1,1,6,4,4
+No Education,Employed part-time,AirtelTigo,Coverage,6-12 months,Prepaid,0,1,1,0,5,2,5
+No Education,Employed full-time,Glo,Pricing,6-12 months,Both,1,0,1,0, ,2,4
+Undergraduate,Retired,Glo,Customer Service,6-12 months,Postpaid,1,1,1,1,2,2,1
+High school graduate,Retired,Vodafone,Pricing,5 or more years,Postpaid,0,1,0,1,4,4,3
+Primary School,Employed full-time,Glo,Coverage,5 or more years,Prepaid,0,1,0,1,3,1,4
+Undergraduate,Student,Glo,Coverage,3-4 years,Postpaid,1,0,1,1,1,1,4
+Undergraduate,Self-employed,Vodafone,Customer Service,1-2 years,Prepaid,0,1,0,1,5,3,4
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Both,1,1,0,1,3,1,2
+Prefer not to say,Self-employed,AirtelTigo,Coverage,3-4 years,Both,1,1,1,0, ,1,4
+No Education,Unemployed,Vodafone,Prefer not to say,1-2 years,Postpaid,0,0,0,0, ,4,1
+No Education,Employed full-time,MTN,Pricing,3-4 years,Postpaid,1,1,1,1,4,1,3
+High school graduate,Self-employed,Glo,Prefer not to say,1-2 years,Prepaid,0,1,0,0, ,2,3
+Prefer not to say,Employed part-time,Glo,Customer Service,3-4 years,Both,1,1,0,1,3,2,2
+Postgraduate,Unemployed,MTN,Customer Service,6-12 months,Both,1,1,0,0,4,4,5
+No Education,Employed part-time,AirtelTigo,Coverage,6-12 months,Prepaid,0,1,1,0,4,2,5
+High school graduate,Employed full-time,MTN,Customer Service,1-2 years,Postpaid,1,1,1,1,4,4,2
+Primary School,Self-employed,Vodafone,Prefer not to say,1-2 years,Prepaid,1,0,0,0,4,2,3
+Postgraduate,Employed part-time,MTN,Customer Service,5 or more years,Prepaid,0,1,1,0,2,3,5
+Undergraduate,Retired,AirtelTigo,Customer Service,5 or more years,Both,0,1,1,0,2,2,4
+Postgraduate,Student,AirtelTigo,Pricing,6-12 months,Postpaid,1,0,0,1,2,2,2
+Primary School,Retired,MTN,Coverage,1-2 years,Both,0,0,0,0,1,3,3
+Primary School,Retired,Vodafone,Customer Service,Less than 6 months,Both,0,0,1,1,4,2,4
+Postgraduate,Unemployed,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,0,1,0,0,7,4,2
+Prefer not to say,Self-employed,MTN,Coverage,5 or more years,Postpaid,0,0,1,1,7,2,3
+Primary School,Student,Glo,Coverage,Less than 6 months,Prepaid,0,1,0,1,7,4,1
+Primary School,Retired,Vodafone,Customer Service,Less than 6 months,Both,0,0,1,0,5,2,1
+No Education,Employed full-time,MTN,Customer Service,6-12 months,Postpaid,0,1,1,1,7,3,5
+No Education,Student,MTN,Customer Service,3-4 years,Postpaid,0,1,1,0,3,4,2
+High school graduate,Unemployed,Vodafone,Customer Service,3-4 years,Postpaid,0,1,1,1,3,3,5
+Primary School,Unemployed,MTN,Customer Service,6-12 months,Both,0,0,1,1,7,3,4
+High school graduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Postpaid,1,1,0,0,1,1,2
+No Education,Retired,MTN,Prefer not to say,1-2 years,Prepaid,1,1,1,0, ,1,5
+Prefer not to say,Retired,Glo,Customer Service,6-12 months,Both,1,1,1,1,3,2,3
+High school graduate,Self-employed,Vodafone,Prefer not to say,Less than 6 months,Postpaid,0,0,1,1,6,4,2
+Postgraduate,Student,MTN,Pricing,3-4 years,Both,1,0,0,0, ,1,1
+Primary School,Self-employed,AirtelTigo,Customer Service,5 or more years,Prepaid,0,1,1,1,4,3,2
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Postpaid,1,1,1,0,4,4,3
+Prefer not to say,Retired,MTN,Pricing,Less than 6 months,Prepaid,1,1,1,1,6,1,2
+No Education,Retired,MTN,Pricing,6-12 months,Both,0,1,0,0,7,1,2
+Undergraduate,Student,AirtelTigo,Customer Service,3-4 years,Postpaid,0,0,0,1,1,2,4
+Primary School,Student,MTN,Customer Service,3-4 years,Prepaid,0,0,0,1,4,1,1
+Undergraduate,Employed full-time,MTN,Pricing,6-12 months,Both,1,1,0,1,1,3,3
+Prefer not to say,Self-employed,MTN,Prefer not to say,6-12 months,Prepaid,0,1,0,1,1,4,1
+Primary School,Unemployed,Glo,Customer Service,6-12 months,Prepaid,0,1,1,1,4,4,1
+No Education,Employed part-time,AirtelTigo,Pricing,Less than 6 months,Prepaid,0,0,0,0,6,1,1
+Prefer not to say,Employed full-time,AirtelTigo,Prefer not to say,Less than 6 months,Both,1,0,1,1,6,1,4
+Prefer not to say,Student,MTN,Customer Service,6-12 months,Postpaid,0,1,1,0, ,2,5
+Primary School,Student,MTN,Customer Service,5 or more years,Prepaid,0,1,0,1,4,1,4
+Undergraduate,Employed part-time,Glo,Pricing,5 or more years,Both,0,1,1,1,5,4,2
+Prefer not to say,Retired,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,0,1,7,4,4
+No Education,Student,Vodafone,Customer Service,5 or more years,Both,1,1,1,0,5,2,3
+Undergraduate,Retired,MTN,Coverage,1-2 years,Prepaid,1,0,1,0, ,3,3
+Undergraduate,Employed full-time,Vodafone,Coverage,3-4 years,Prepaid,1,1,0,1,4,1,4
+Postgraduate,Employed full-time,MTN,Prefer not to say,6-12 months,Both,0,1,0,1,6,1,1
+Primary School,Self-employed,MTN,Pricing,5 or more years,Prepaid,0,0,0,1,2,4,5
+Primary School,Student,MTN,Coverage,3-4 years,Both,0,0,0,0,3,4,2
+Undergraduate,Student,MTN,Prefer not to say,3-4 years,Both,1,0,1,1,5,1,4
+High school graduate,Employed full-time,Vodafone,Pricing,5 or more years,Both,1,1,1,0,2,4,4
+High school graduate,Self-employed,MTN,Prefer not to say,5 or more years,Prepaid,1,1,0,0, ,3,2
+No Education,Self-employed,AirtelTigo,Prefer not to say,1-2 years,Prepaid,1,1,1,1,1,1,5
+No Education,Employed full-time,Glo,Pricing,6-12 months,Postpaid,1,0,1,0,2,2,4
+Undergraduate,Student,MTN,Pricing,5 or more years,Both,1,0,1,0,2,4,1
+High school graduate,Retired,Vodafone,Coverage,3-4 years,Both,0,1,0,1,5,4,4
+No Education,Employed part-time,MTN,Prefer not to say,1-2 years,Postpaid,1,0,1,0,5,4,1
+Postgraduate,Employed full-time,Glo,Pricing,5 or more years,Prepaid,1,1,0,1,5,4,5
+No Education,Retired,MTN,Prefer not to say,6-12 months,Both,1,0,1,0,5,4,5
+Prefer not to say,Unemployed,MTN,Coverage,1-2 years,Prepaid,1,0,0,0,7,1,3
+Prefer not to say,Retired,AirtelTigo,Prefer not to say,1-2 years,Postpaid,0,1,0,0,7,1,4
+Primary School,Student,Glo,Coverage,Less than 6 months,Postpaid,0,1,0,1,2,4,1
+Undergraduate,Unemployed,MTN,Prefer not to say,1-2 years,Postpaid,1,0,1,1,4,2,3
+No Education,Employed part-time,MTN,Pricing,Less than 6 months,Both,0,0,0,0, ,1,4
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Postpaid,1,0,0,0,6,3,2
+Prefer not to say,Student,AirtelTigo,Coverage,Less than 6 months,Both,0,1,0,1,3,1,1
+Prefer not to say,Student,MTN,Customer Service,6-12 months,Prepaid,0,1,1,0,2,2,5
+Prefer not to say,Self-employed,AirtelTigo,Customer Service,Less than 6 months,Prepaid,0,0,0,1,6,1,3
+Primary School,Retired,MTN,Pricing,6-12 months,Both,0,1,1,0,1,4,2
+Primary School,Unemployed,AirtelTigo,Customer Service,5 or more years,Postpaid,0,1,0,0,3,1,3
+Postgraduate,Employed part-time,MTN,Pricing,Less than 6 months,Postpaid,1,0,0,0,1,3,5
+No Education,Unemployed,Vodafone,Customer Service,6-12 months,Both,1,1,1,0,4,4,4
+Primary School,Student,MTN,Customer Service,3-4 years,Postpaid,1,0,1,0,1,1,3
+No Education,Student,MTN,Pricing,3-4 years,Prepaid,0,0,1,1,2,4,2
+Undergraduate,Self-employed,MTN,Coverage,5 or more years,Prepaid,0,1,0,0,4,3,4
+Postgraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,1,1,1,0,3,4,3
+Primary School,Employed full-time,Glo,Customer Service,3-4 years,Postpaid,0,0,1,1,3,2,1
+No Education,Retired,MTN,Prefer not to say,3-4 years,Prepaid,0,0,0,0, ,3,4
+Postgraduate,Self-employed,AirtelTigo,Pricing,3-4 years,Postpaid,0,0,0,1,1,3,1
+Prefer not to say,Student,MTN,Coverage,6-12 months,Postpaid,1,1,0,0,2,2,2
+No Education,Student,MTN,Customer Service,3-4 years,Both,0,1,0,0, ,1,2
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,3-4 years,Postpaid,0,1,0,0,4,2,1
+Primary School,Retired,AirtelTigo,Customer Service,6-12 months,Prepaid,0,0,1,0,7,3,4
+No Education,Self-employed,AirtelTigo,Coverage,3-4 years,Prepaid,1,0,0,0,4,4,1
+No Education,Unemployed,Vodafone,Customer Service,6-12 months,Both,1,1,1,0,5,4,4
+High school graduate,Retired,Vodafone,Customer Service,Less than 6 months,Postpaid,0,0,1,0,6,2,2
+Primary School,Unemployed,MTN,Pricing,Less than 6 months,Both,1,1,1,0,6,2,4
+Undergraduate,Employed full-time,Vodafone,Coverage,3-4 years,Both,0,0,1,1,3,4,4
+Primary School,Employed full-time,MTN,Coverage,6-12 months,Prepaid,0,0,1,0,4,3,3
+Primary School,Self-employed,MTN,Coverage,Less than 6 months,Postpaid,0,1,1,0,1,4,3
+High school graduate,Student,Vodafone,Prefer not to say,6-12 months,Postpaid,0,1,0,0,4,4,2
+No Education,Self-employed,AirtelTigo,Prefer not to say,1-2 years,Both,1,1,1,1,5,1,5
+High school graduate,Retired,MTN,Coverage,1-2 years,Postpaid,0,1,0,1,4,1,1
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Prepaid,0,0,0,1,7,4,5
+Primary School,Unemployed,AirtelTigo,Pricing,3-4 years,Both,0,0,0,0, ,3,5
+Prefer not to say,Retired,MTN,Customer Service,5 or more years,Prepaid,1,0,1,0,3,2,5
+Prefer not to say,Employed full-time,Glo,Prefer not to say,3-4 years,Both,0,0,1,1,3,2,3
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Postpaid,1,0,1,1,3,2,3
+High school graduate,Retired,Vodafone,Coverage,1-2 years,Postpaid,1,1,1,0,3,3,1
+Primary School,Unemployed,MTN,Customer Service,5 or more years,Prepaid,1,1,0,0,4,4,4
+Prefer not to say,Student,MTN,Coverage,1-2 years,Postpaid,1,0,1,0,4,2,3
+High school graduate,Employed part-time,MTN,Pricing,5 or more years,Both,0,0,0,1,1,2,1
+No Education,Student,AirtelTigo,Prefer not to say,3-4 years,Prepaid,0,0,1,1,4,4,3
+No Education,Employed part-time,Vodafone,Pricing,1-2 years,Both,0,0,0,0,2,1,4
+High school graduate,Employed part-time,Glo,Customer Service,5 or more years,Both,1,1,0,0,3,3,4
+High school graduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Postpaid,1,1,1,1,7,4,5
+Undergraduate,Unemployed,MTN,Pricing,3-4 years,Both,1,1,0,1,3,3,4
+Undergraduate,Self-employed,Vodafone,Prefer not to say,3-4 years,Both,1,0,1,1,4,4,2
+No Education,Employed full-time,AirtelTigo,Coverage,Less than 6 months,Prepaid,1,1,0,1,5,3,5
+Prefer not to say,Employed part-time,MTN,Customer Service,6-12 months,Postpaid,0,1,0,1,4,4,5
+Postgraduate,Employed part-time,MTN,Pricing,3-4 years,Prepaid,0,0,0,0,7,2,2
+No Education,Retired,AirtelTigo,Coverage,Less than 6 months,Postpaid,1,1,1,1,7,1,5
+Prefer not to say,Employed part-time,AirtelTigo,Prefer not to say,3-4 years,Prepaid,1,1,1,0,7,3,5
+Primary School,Self-employed,MTN,Coverage,Less than 6 months,Both,0,1,1,0,5,4,3
+Primary School,Employed part-time,MTN,Pricing,3-4 years,Prepaid,0,0,0,1,7,2,1
+Primary School,Retired,Glo,Coverage,3-4 years,Prepaid,0,1,0,0,2,4,5
+Undergraduate,Employed part-time,Glo,Pricing,6-12 months,Both,0,0,1,1,6,2,3
+Postgraduate,Unemployed,AirtelTigo,Coverage,3-4 years,Both,1,1,1,0,5,3,3
+No Education,Employed full-time,Glo,Customer Service,6-12 months,Postpaid,0,1,0,1, ,4,5
+Primary School,Self-employed,MTN,Pricing,6-12 months,Postpaid,1,0,1,0,2,1,2
+Prefer not to say,Employed part-time,AirtelTigo,Prefer not to say,3-4 years,Both,1,1,1,0,4,3,5
+Prefer not to say,Employed part-time,Vodafone,Customer Service,Less than 6 months,Postpaid,1,0,1,0,1,1,1
+Undergraduate,Student,Vodafone,Coverage,6-12 months,Postpaid,0,1,0,0,4,3,5
+Undergraduate,Employed full-time,MTN,Coverage,3-4 years,Postpaid,0,1,1,0,5,4,1
+No Education,Self-employed,MTN,Coverage,1-2 years,Both,0,0,0,0,5,2,5
+Postgraduate,Employed part-time,Vodafone,Customer Service,3-4 years,Prepaid,0,1,1,0,7,1,3
+Undergraduate,Self-employed,Glo,Prefer not to say,1-2 years,Prepaid,1,0,0,0,4,1,1
+High school graduate,Student,AirtelTigo,Customer Service,Less than 6 months,Postpaid,0,0,0,0,7,4,4
+High school graduate,Employed part-time,Glo,Customer Service,6-12 months,Both,1,0,0,1,1,2,2
+High school graduate,Student,Glo,Prefer not to say,6-12 months,Both,1,1,1,1, ,3,5
+Postgraduate,Student,MTN,Customer Service,6-12 months,Postpaid,0,1,0,1,5,4,5
+Undergraduate,Employed full-time,AirtelTigo,Coverage,Less than 6 months,Postpaid,1,0,0,0,4,3,2
+Primary School,Retired,Vodafone,Prefer not to say,3-4 years,Both,1,1,0,1,2,1,4
+High school graduate,Unemployed,MTN,Prefer not to say,1-2 years,Prepaid,0,0,1,1,2,1,3
+High school graduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Both,1,0,1,0,7,4,5
+Prefer not to say,Employed full-time,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,1,0,1,1,5,1,4
+Postgraduate,Employed full-time,MTN,Pricing,3-4 years,Both,0,1,0,0,7,3,3
+Primary School,Retired,MTN,Customer Service,5 or more years,Postpaid,0,0,0,1,4,3,5
+Postgraduate,Unemployed,AirtelTigo,Coverage,3-4 years,Both,1,1,1,0,3,3,3
+Undergraduate,Retired,MTN,Prefer not to say,6-12 months,Both,0,0,1,0,2,2,1
+Postgraduate,Unemployed,AirtelTigo,Coverage,3-4 years,Postpaid,1,1,1,0, ,3,3
+High school graduate,Employed full-time,AirtelTigo,Customer Service,Less than 6 months,Both,0,1,0,0,2,3,2
+Prefer not to say,Employed full-time,MTN,Prefer not to say,3-4 years,Postpaid,0,1,1,1,3,4,3
+Primary School,Retired,MTN,Customer Service,5 or more years,Prepaid,1,0,0,1,4,1,3
+High school graduate,Unemployed,MTN,Customer Service,1-2 years,Postpaid,0,1,0,0,1,2,5
+Postgraduate,Employed part-time,Glo,Prefer not to say,5 or more years,Both,1,0,0,0,5,4,5
+High school graduate,Employed part-time,AirtelTigo,Prefer not to say,3-4 years,Prepaid,1,1,0,0,5,1,1
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Both,1,1,1,0,1,3,5
+High school graduate,Employed part-time,Vodafone,Customer Service,6-12 months,Postpaid,1,1,1,1,4,1,5
+Postgraduate,Employed part-time,MTN,Coverage,6-12 months,Both,0,1,0,1,3,1,4
+High school graduate,Retired,Vodafone,Customer Service,1-2 years,Postpaid,0,1,0,0,5,2,3
+Undergraduate,Self-employed,MTN,Prefer not to say,6-12 months,Both,1,1,1,0,5,2,4
+No Education,Student,Glo,Coverage,3-4 years,Postpaid,0,1,0,0,3,2,2
+Primary School,Employed part-time,MTN,Customer Service,6-12 months,Postpaid,0,1,0,1,4,3,3
+Primary School,Student,AirtelTigo,Pricing,Less than 6 months,Postpaid,1,0,0,0, ,2,5
+Postgraduate,Employed part-time,Glo,Coverage,1-2 years,Postpaid,0,1,1,0,2,4,5
+Undergraduate,Retired,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,1,0,1,0,7,1,2
+Primary School,Student,MTN,Coverage,Less than 6 months,Postpaid,0,0,1,0,6,4,4
+No Education,Student,Vodafone,Customer Service,1-2 years,Both,0,1,1,1,5,1,4
+Postgraduate,Retired,MTN,Coverage,6-12 months,Both,0,1,0,0,5,2,1
+Undergraduate,Self-employed,Glo,Customer Service,5 or more years,Both,0,1,1,0, ,3,1
+No Education,Self-employed,MTN,Prefer not to say,3-4 years,Postpaid,0,0,0,0,7,2,3
+High school graduate,Self-employed,AirtelTigo,Customer Service,5 or more years,Both,0,1,1,1,1,4,5
+No Education,Employed full-time,Vodafone,Pricing,1-2 years,Both,0,1,0,0, ,2,3
+Undergraduate,Employed full-time,AirtelTigo,Coverage,3-4 years,Both,1,0,1,1,7,1,3
+Primary School,Employed full-time,Vodafone,Pricing,3-4 years,Prepaid,1,0,0,1,5,3,2
+High school graduate,Employed full-time,MTN,Prefer not to say,6-12 months,Prepaid,0,1,1,1,6,2,1
+No Education,Employed full-time,Glo,Customer Service,6-12 months,Both,0,1,0,1,1,4,5
+Prefer not to say,Self-employed,Glo,Coverage,1-2 years,Both,1,0,0,0,1,3,4
+No Education,Employed full-time,Vodafone,Prefer not to say,6-12 months,Postpaid,0,1,0,1,7,3,1
+Undergraduate,Retired,MTN,Coverage,5 or more years,Postpaid,0,1,1,1,4,2,3
+No Education,Employed full-time,AirtelTigo,Coverage,Less than 6 months,Prepaid,1,1,0,1,3,3,5
+Primary School,Retired,AirtelTigo,Coverage,1-2 years,Both,0,0,0,0,6,3,2
+Prefer not to say,Self-employed,MTN,Customer Service,Less than 6 months,Both,1,0,1,1,2,3,5
+Primary School,Student,Glo,Pricing,Less than 6 months,Postpaid,1,1,1,1,2,1,1
+Undergraduate,Self-employed,Vodafone,Customer Service,5 or more years,Both,1,1,0,1,4,4,2
+Prefer not to say,Employed full-time,AirtelTigo,Pricing,6-12 months,Postpaid,0,0,0,0,6,3,3
+Primary School,Employed part-time,Glo,Prefer not to say,Less than 6 months,Both,0,0,1,1,2,1,1
+Undergraduate,Self-employed,MTN,Prefer not to say,6-12 months,Prepaid,1,1,1,0,6,2,4
+No Education,Unemployed,Vodafone,Customer Service,Less than 6 months,Prepaid,0,0,0,0,7,1,4
+Primary School,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,0,1,6,1,2
+Postgraduate,Student,MTN,Prefer not to say,6-12 months,Both,0,1,0,0,5,4,3
+Primary School,Self-employed,Vodafone,Prefer not to say,Less than 6 months,Both,1,0,1,0,4,4,4
+High school graduate,Employed full-time,Glo,Customer Service,1-2 years,Postpaid,0,1,1,1,1,2,3
+Prefer not to say,Unemployed,AirtelTigo,Prefer not to say,1-2 years,Prepaid,1,0,1,0,4,4,5
+No Education,Student,MTN,Pricing,3-4 years,Both,0,0,1,1,5,4,2
+Prefer not to say,Self-employed,Vodafone,Prefer not to say,1-2 years,Postpaid,1,0,1,0, ,4,5
+Prefer not to say,Student,AirtelTigo,Pricing,3-4 years,Prepaid,1,1,0,0,4,4,2
+Primary School,Employed part-time,MTN,Coverage,Less than 6 months,Postpaid,1,1,1,1,6,1,5
+Prefer not to say,Self-employed,Vodafone,Coverage,1-2 years,Both,1,1,0,1,1,4,1
+High school graduate,Employed full-time,MTN,Customer Service,1-2 years,Both,1,0,1,1,7,4,3
+Undergraduate,Employed part-time,Glo,Prefer not to say,5 or more years,Both,1,0,1,1,6,2,4
+Primary School,Employed full-time,AirtelTigo,Pricing,3-4 years,Both,1,1,1,1, ,4,2
+Prefer not to say,Unemployed,AirtelTigo,Prefer not to say,1-2 years,Both,1,0,1,0,6,4,5
+No Education,Student,AirtelTigo,Pricing,3-4 years,Prepaid,0,0,0,0,4,3,3
+High school graduate,Student,MTN,Pricing,1-2 years,Postpaid,0,1,1,1,4,1,3
+Undergraduate,Employed full-time,AirtelTigo,Coverage,Less than 6 months,Prepaid,1,0,0,0, ,3,2
+Postgraduate,Retired,MTN,Prefer not to say,5 or more years,Both,1,0,0,1,6,2,1
+Primary School,Retired,AirtelTigo,Prefer not to say,5 or more years,Both,0,1,0,0,4,4,4
+High school graduate,Employed part-time,Glo,Prefer not to say,Less than 6 months,Postpaid,0,1,1,1,4,3,2
+High school graduate,Employed full-time,Glo,Customer Service,1-2 years,Both,0,1,1,1, ,2,3
+Undergraduate,Employed full-time,MTN,Pricing,6-12 months,Both,1,1,0,1,7,3,3
+No Education,Retired,MTN,Customer Service,1-2 years,Postpaid,0,0,0,0, ,2,1
+Undergraduate,Employed full-time,Glo,Customer Service,1-2 years,Prepaid,1,0,0,0,3,1,5
+Postgraduate,Student,Vodafone,Customer Service,5 or more years,Postpaid,1,0,1,0,5,3,1
+Undergraduate,Employed part-time,Glo,Prefer not to say,5 or more years,Postpaid,1,0,1,1,5,2,4
+Primary School,Student,MTN,Coverage,Less than 6 months,Prepaid,0,0,1,0,4,4,4
+Prefer not to say,Employed full-time,MTN,Customer Service,5 or more years,Prepaid,0,1,1,1,2,3,1
+High school graduate,Employed part-time,Glo,Customer Service,6-12 months,Postpaid,0,0,1,1,4,3,4
+Postgraduate,Unemployed,Vodafone,Pricing,1-2 years,Prepaid,1,1,1,0,4,4,3
+Undergraduate,Unemployed,Vodafone,Customer Service,6-12 months,Prepaid,1,1,1,1,6,4,4
+Postgraduate,Student,MTN,Coverage,3-4 years,Prepaid,0,1,1,0,1,2,4
+Postgraduate,Retired,MTN,Pricing,1-2 years,Postpaid,1,0,1,0,5,1,5
+Postgraduate,Unemployed,AirtelTigo,Customer Service,6-12 months,Both,1,0,0,1,3,1,1
+High school graduate,Student,MTN,Customer Service,5 or more years,Both,1,0,0,1,7,2,3
+Undergraduate,Employed full-time,Vodafone,Coverage,3-4 years,Prepaid,0,0,1,1, ,4,4
+Undergraduate,Unemployed,MTN,Pricing,3-4 years,Both,1,1,0,1,4,3,4
+Prefer not to say,Student,Glo,Prefer not to say,1-2 years,Both,1,1,1,0,6,2,3
+Postgraduate,Unemployed,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,0,1,0,0,6,4,2
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Both,1,1,1,0,7,4,1
+High school graduate,Employed full-time,Vodafone,Pricing,3-4 years,Both,0,1,1,0,2,4,4
+Primary School,Unemployed,Vodafone,Coverage,6-12 months,Both,0,1,0,0, ,1,1
+Postgraduate,Self-employed,MTN,Prefer not to say,5 or more years,Both,1,1,0,0,3,3,4
+Primary School,Employed part-time,AirtelTigo,Prefer not to say,Less than 6 months,Both,0,1,1,0,6,2,4
+No Education,Self-employed,Glo,Pricing,Less than 6 months,Prepaid,1,0,0,1, ,3,4
+Undergraduate,Retired,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,1,0,1,0,3,1,2
+Postgraduate,Retired,MTN,Customer Service,3-4 years,Postpaid,0,1,1,1,7,4,5
+Postgraduate,Retired,Glo,Customer Service,6-12 months,Postpaid,0,1,1,1,4,1,2
+Prefer not to say,Retired,Vodafone,Prefer not to say,6-12 months,Both,1,0,0,0,7,4,2
+Postgraduate,Self-employed,AirtelTigo,Coverage,3-4 years,Prepaid,0,1,1,0,4,4,5
+No Education,Employed full-time,Vodafone,Coverage,5 or more years,Prepaid,0,1,1,0,7,3,4
+Postgraduate,Employed full-time,MTN,Pricing,3-4 years,Prepaid,0,1,0,0, ,3,3
+Prefer not to say,Self-employed,AirtelTigo,Pricing,Less than 6 months,Postpaid,1,0,1,1,4,2,1
+Undergraduate,Self-employed,Vodafone,Pricing,6-12 months,Postpaid,1,1,1,0, ,4,4
+Primary School,Self-employed,AirtelTigo,Coverage,1-2 years,Prepaid,1,1,0,1,7,4,1
+Undergraduate,Self-employed,MTN,Coverage,3-4 years,Both,0,1,1,1,2,2,1
+Undergraduate,Retired,AirtelTigo,Prefer not to say,Less than 6 months,Prepaid,1,0,1,1,5,1,2
+Undergraduate,Student,Vodafone,Customer Service,3-4 years,Postpaid,1,0,1,0,2,1,3
+Undergraduate,Employed part-time,Glo,Pricing,6-12 months,Prepaid,0,0,1,1, ,2,3
+No Education,Self-employed,MTN,Coverage,5 or more years,Both,0,0,1,1,5,1,4
+Postgraduate,Student,AirtelTigo,Pricing,Less than 6 months,Prepaid,1,1,0,0, ,2,2
+Primary School,Unemployed,MTN,Coverage,1-2 years,Prepaid,1,1,0,0,4,2,3
+Primary School,Employed part-time,Vodafone,Pricing,5 or more years,Postpaid,0,0,0,1,1,3,1
+Primary School,Self-employed,AirtelTigo,Coverage,6-12 months,Prepaid,1,1,1,1, ,4,4
+High school graduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Both,1,1,1,1,2,4,5
+Postgraduate,Unemployed,MTN,Customer Service,6-12 months,Both,1,1,0,0,1,4,5
+No Education,Unemployed,Vodafone,Customer Service,Less than 6 months,Prepaid,0,0,0,0,4,1,4
+Postgraduate,Self-employed,Glo,Pricing,3-4 years,Postpaid,1,0,0,0,4,4,2
+Postgraduate,Student,Glo,Prefer not to say,6-12 months,Both,1,0,1,0, ,3,4
+No Education,Retired,Glo,Prefer not to say,5 or more years,Postpaid,0,1,0,0, ,1,1
+No Education,Self-employed,MTN,Coverage,6-12 months,Prepaid,1,1,1,1,3,3,4
+Postgraduate,Unemployed,MTN,Prefer not to say,5 or more years,Prepaid,1,1,1,1,4,3,3
+Primary School,Unemployed,Glo,Pricing,5 or more years,Postpaid,0,1,1,1, ,3,1
+Prefer not to say,Employed part-time,MTN,Coverage,Less than 6 months,Prepaid,1,1,1,0,1,4,5
+Postgraduate,Retired,Glo,Customer Service,3-4 years,Postpaid,1,0,1,1,5,1,5
+Undergraduate,Self-employed,Glo,Prefer not to say,5 or more years,Prepaid,0,1,0,1,4,4,2
+Postgraduate,Student,MTN,Customer Service,6-12 months,Both,0,1,0,1,5,4,5
+Prefer not to say,Self-employed,AirtelTigo,Customer Service,3-4 years,Prepaid,1,1,0,0,2,2,5
+Postgraduate,Employed part-time,MTN,Prefer not to say,3-4 years,Both,1,0,1,0,3,3,3
+High school graduate,Unemployed,Vodafone,Prefer not to say,5 or more years,Postpaid,0,1,0,1,4,1,4
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Both,0,1,0,1,4,4,2
+Primary School,Employed full-time,Glo,Prefer not to say,1-2 years,Postpaid,0,0,1,0,4,2,5
+High school graduate,Employed full-time,MTN,Prefer not to say,1-2 years,Postpaid,0,1,0,0,1,4,1
+Postgraduate,Self-employed,MTN,Pricing,3-4 years,Postpaid,1,1,1,0,1,3,2
+Prefer not to say,Self-employed,Glo,Prefer not to say,3-4 years,Prepaid,1,1,0,0,6,1,5
+Primary School,Unemployed,Vodafone,Coverage,Less than 6 months,Postpaid,1,0,0,1,4,2,5
+Undergraduate,Employed full-time,Vodafone,Customer Service,1-2 years,Both,0,1,1,1,6,4,3
+Postgraduate,Self-employed,MTN,Prefer not to say,1-2 years,Postpaid,1,1,1,0,7,4,3
+No Education,Student,Glo,Pricing,Less than 6 months,Postpaid,0,0,0,1,6,3,4
+No Education,Retired,MTN,Pricing,3-4 years,Both,0,1,0,0,4,3,4
+No Education,Student,Vodafone,Coverage,6-12 months,Prepaid,1,1,0,0,7,3,5
+High school graduate,Self-employed,Vodafone,Coverage,5 or more years,Postpaid,1,0,0,0,3,1,4
+Primary School,Self-employed,AirtelTigo,Coverage,1-2 years,Postpaid,1,1,0,1,3,4,1
+Undergraduate,Self-employed,MTN,Pricing,1-2 years,Postpaid,1,1,0,1,6,4,5
+Prefer not to say,Retired,AirtelTigo,Prefer not to say,5 or more years,Postpaid,1,0,0,0,4,3,5
+Postgraduate,Unemployed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,0,0,1,4,3,1
+No Education,Retired,Glo,Coverage,6-12 months,Prepaid,0,1,0,1,4,2,4
+Primary School,Retired,Vodafone,Prefer not to say,5 or more years,Prepaid,1,1,1,1,2,1,5
+No Education,Self-employed,AirtelTigo,Prefer not to say,6-12 months,Both,1,1,0,0,3,2,1
+Primary School,Unemployed,Glo,Prefer not to say,Less than 6 months,Prepaid,1,1,0,0,4,2,2
+Undergraduate,Unemployed,MTN,Customer Service,6-12 months,Prepaid,0,1,0,0,1,3,5
+Undergraduate,Self-employed,Vodafone,Prefer not to say,3-4 years,Prepaid,1,0,1,1,7,4,2
+Prefer not to say,Self-employed,Vodafone,Coverage,1-2 years,Prepaid,1,1,0,1,5,4,1
+Primary School,Self-employed,Vodafone,Prefer not to say,Less than 6 months,Prepaid,1,0,1,0,3,4,4
+Postgraduate,Unemployed,Vodafone,Coverage,3-4 years,Both,0,1,1,0,6,2,4
+Prefer not to say,Self-employed,AirtelTigo,Coverage,3-4 years,Postpaid,1,1,1,0,1,1,4
+Postgraduate,Unemployed,Vodafone,Coverage,Less than 6 months,Both,0,1,0,0,3,2,1
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Both,1,1,1,0,1,1,2
+Prefer not to say,Unemployed,Glo,Customer Service,5 or more years,Prepaid,1,0,1,1, ,1,3
+High school graduate,Unemployed,AirtelTigo,Customer Service,6-12 months,Prepaid,1,1,1,0,6,4,4
+Primary School,Unemployed,MTN,Coverage,5 or more years,Postpaid,0,1,1,1,3,3,5
+Prefer not to say,Retired,Glo,Customer Service,Less than 6 months,Both,1,0,1,1,7,1,1
+Primary School,Unemployed,MTN,Coverage,1-2 years,Both,1,1,0,0, ,2,3
+Postgraduate,Employed full-time,Vodafone,Customer Service,1-2 years,Postpaid,0,1,1,0,7,1,1
+Prefer not to say,Unemployed,MTN,Customer Service,Less than 6 months,Prepaid,0,1,1,1,4,4,4
+Primary School,Retired,AirtelTigo,Coverage,5 or more years,Both,0,1,1,0,4,1,4
+Prefer not to say,Retired,AirtelTigo,Prefer not to say,5 or more years,Both,0,0,1,0,6,2,3
+Undergraduate,Employed full-time,Vodafone,Coverage,3-4 years,Both,0,1,1,0,1,1,1
+Postgraduate,Retired,AirtelTigo,Pricing,3-4 years,Both,1,1,0,1,4,2,5
+No Education,Unemployed,MTN,Customer Service,3-4 years,Prepaid,1,0,1,1,3,2,5
+Postgraduate,Student,MTN,Customer Service,Less than 6 months,Both,0,0,0,1,7,3,1
+Postgraduate,Employed part-time,Glo,Prefer not to say,6-12 months,Postpaid,1,1,1,0,4,4,3
+Primary School,Student,MTN,Coverage,Less than 6 months,Prepaid,1,0,1,0,3,4,3
+High school graduate,Student,Vodafone,Prefer not to say,6-12 months,Both,0,1,0,0,7,4,2
+Prefer not to say,Student,AirtelTigo,Customer Service,5 or more years,Postpaid,1,0,1,1,7,1,2
+Undergraduate,Student,Glo,Coverage,5 or more years,Both,1,0,1,1,1,1,3
+High school graduate,Unemployed,MTN,Pricing,5 or more years,Postpaid,1,1,1,1,2,1,2
+Undergraduate,Student,Vodafone,Prefer not to say,1-2 years,Both,0,0,0,1, ,3,1
+Prefer not to say,Unemployed,Vodafone,Prefer not to say,Less than 6 months,Postpaid,1,1,0,1,1,1,4
+Prefer not to say,Student,AirtelTigo,Customer Service,5 or more years,Both,1,0,1,1,3,1,2
+Undergraduate,Employed part-time,Glo,Customer Service,1-2 years,Postpaid,1,0,1,1,2,2,1
+No Education,Unemployed,MTN,Customer Service,3-4 years,Both,1,0,1,1,4,2,5
+Postgraduate,Employed part-time,MTN,Pricing,5 or more years,Both,1,0,0,1, ,4,3
+Primary School,Self-employed,MTN,Pricing,5 or more years,Prepaid,0,0,0,1, ,4,5
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Both,1,1,1,1,7,1,1
+Postgraduate,Unemployed,MTN,Prefer not to say,5 or more years,Both,0,1,1,0,6,4,5
+Postgraduate,Student,AirtelTigo,Customer Service,5 or more years,Both,1,0,0,0,7,3,4
+High school graduate,Self-employed,AirtelTigo,Coverage,1-2 years,Postpaid,0,0,1,0,4,1,4
+Primary School,Employed full-time,MTN,Customer Service,5 or more years,Both,0,1,1,0,4,1,5
+Primary School,Unemployed,MTN,Customer Service,6-12 months,Postpaid,0,0,1,1,2,3,4
+No Education,Employed part-time,MTN,Pricing,5 or more years,Prepaid,1,1,0,0,3,4,4
+No Education,Unemployed,Vodafone,Customer Service,6-12 months,Prepaid,0,1,1,0,4,2,4
+No Education,Student,Vodafone,Customer Service,5 or more years,Both,1,1,1,0,7,2,3
+Postgraduate,Unemployed,Vodafone,Prefer not to say,1-2 years,Prepaid,0,0,1,0,2,1,1
+Primary School,Student,Glo,Pricing,Less than 6 months,Postpaid,1,0,1,0,2,3,1
+Postgraduate,Unemployed,AirtelTigo,Pricing,Less than 6 months,Postpaid,1,1,1,0,1,2,5
+Primary School,Employed full-time,Glo,Customer Service,Less than 6 months,Prepaid,0,0,1,0,6,3,2
+Undergraduate,Retired,MTN,Prefer not to say,6-12 months,Prepaid,0,0,1,0,4,1,3
+No Education,Self-employed,MTN,Coverage,5 or more years,Both,0,0,1,1, ,1,4
+Undergraduate,Student,Vodafone,Coverage,6-12 months,Prepaid,0,1,0,0,5,3,5
+No Education,Student,MTN,Customer Service,3-4 years,Postpaid,0,1,1,0,7,4,2
+Undergraduate,Self-employed,MTN,Prefer not to say,6-12 months,Both,1,0,1,1,2,4,2
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,0,1,6,3,5
+High school graduate,Retired,Vodafone,Pricing,5 or more years,Both,0,1,0,1,4,4,3
+Primary School,Self-employed,Vodafone,Prefer not to say,6-12 months,Postpaid,1,1,1,1,6,4,4
+Prefer not to say,Student,Glo,Pricing,Less than 6 months,Prepaid,0,0,0,1,4,4,2
+Primary School,Student,MTN,Customer Service,5 or more years,Prepaid,0,1,0,1, ,1,4
+High school graduate,Retired,AirtelTigo,Pricing,5 or more years,Postpaid,0,0,1,1,6,3,1
+Prefer not to say,Unemployed,Glo,Prefer not to say,1-2 years,Postpaid,0,1,1,1,1,1,1
+Postgraduate,Self-employed,MTN,Pricing,3-4 years,Both,1,1,1,0,5,3,2
+Primary School,Employed part-time,AirtelTigo,Prefer not to say,Less than 6 months,Both,0,1,1,0, ,2,4
+Prefer not to say,Employed part-time,MTN,Prefer not to say,3-4 years,Both,0,1,1,1, ,1,3
+Prefer not to say,Unemployed,Glo,Prefer not to say,6-12 months,Both,0,0,1,0,2,4,5
+Postgraduate,Unemployed,MTN,Prefer not to say,5 or more years,Prepaid,1,1,1,1,7,3,3
+Undergraduate,Self-employed,Glo,Prefer not to say,1-2 years,Both,1,0,0,0,7,1,1
+Postgraduate,Student,Glo,Prefer not to say,5 or more years,Both,1,0,0,0, ,3,4
+Primary School,Student,MTN,Customer Service,3-4 years,Postpaid,0,0,1,1, ,4,2
+Primary School,Self-employed,MTN,Coverage,1-2 years,Both,0,1,1,0,7,3,1
+High school graduate,Student,MTN,Prefer not to say,3-4 years,Prepaid,0,0,1,1,2,3,1
+No Education,Unemployed,Glo,Coverage,5 or more years,Prepaid,0,0,0,1,6,3,4
+Postgraduate,Employed part-time,Vodafone,Customer Service,6-12 months,Prepaid,1,0,1,0,6,2,1
+Primary School,Unemployed,MTN,Coverage,3-4 years,Postpaid,1,0,0,1,6,1,5
+Primary School,Student,Glo,Pricing,1-2 years,Postpaid,0,1,0,0, ,2,3
+Prefer not to say,Retired,Glo,Pricing,5 or more years,Prepaid,0,0,1,0,3,2,4
+Undergraduate,Self-employed,AirtelTigo,Prefer not to say,5 or more years,Prepaid,1,0,0,1,6,4,2
+High school graduate,Retired,MTN,Coverage,1-2 years,Prepaid,0,1,0,1, ,1,1
+Prefer not to say,Employed full-time,MTN,Coverage,1-2 years,Postpaid,0,1,0,0,4,4,1
+Primary School,Student,AirtelTigo,Coverage,6-12 months,Both,0,1,0,1,7,4,4
+Undergraduate,Student,Glo,Pricing,5 or more years,Both,0,1,1,1, ,4,4
+Postgraduate,Student,MTN,Prefer not to say,6-12 months,Both,0,1,1,1,7,2,5
+No Education,Unemployed,Vodafone,Customer Service,3-4 years,Both,0,1,0,1, ,3,4
+Prefer not to say,Self-employed,MTN,Customer Service,Less than 6 months,Both,0,1,0,1,4,2,4
+Undergraduate,Employed full-time,Vodafone,Pricing,5 or more years,Prepaid,0,1,1,0,2,1,1
+No Education,Unemployed,MTN,Customer Service,Less than 6 months,Prepaid,1,1,0,0,6,2,4
+Primary School,Unemployed,Glo,Prefer not to say,Less than 6 months,Postpaid,1,1,0,0,4,2,2
+No Education,Employed part-time,AirtelTigo,Pricing,1-2 years,Postpaid,0,0,0,1,7,3,4
+Undergraduate,Student,Vodafone,Coverage,1-2 years,Postpaid,1,1,0,1,4,4,1
+Primary School,Employed part-time,Glo,Coverage,3-4 years,Postpaid,1,0,1,1, ,2,3
+Prefer not to say,Unemployed,AirtelTigo,Prefer not to say,1-2 years,Both,0,1,0,0,2,2,3
+High school graduate,Student,MTN,Pricing,5 or more years,Both,0,0,0,1,5,2,5
+Primary School,Employed full-time,Vodafone,Pricing,3-4 years,Both,1,0,0,1,2,3,2
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Postpaid,1,0,0,0,7,3,2
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Postpaid,0,1,0,0,2,1,1
+Prefer not to say,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,1,0,0,4,3,3
+Undergraduate,Self-employed,MTN,Prefer not to say,6-12 months,Postpaid,1,1,1,0,7,2,4
+Undergraduate,Student,Vodafone,Coverage,3-4 years,Postpaid,0,1,0,1,4,1,5
+No Education,Employed part-time,MTN,Coverage,1-2 years,Postpaid,0,0,0,1,1,3,3
+No Education,Student,Glo,Coverage,1-2 years,Postpaid,0,1,1,0,3,2,2
+Undergraduate,Unemployed,Glo,Prefer not to say,3-4 years,Prepaid,0,0,0,1,4,3,3
+High school graduate,Unemployed,Vodafone,Prefer not to say,5 or more years,Prepaid,0,0,1,0,5,3,1
+Primary School,Employed part-time,AirtelTigo,Customer Service,3-4 years,Both,0,1,1,1,4,4,1
+Undergraduate,Unemployed,AirtelTigo,Pricing,5 or more years,Postpaid,0,1,1,0,4,4,4
+Prefer not to say,Retired,AirtelTigo,Prefer not to say,1-2 years,Both,0,1,0,0,5,1,4
+High school graduate,Employed part-time,MTN,Coverage,3-4 years,Prepaid,1,1,0,1,2,4,3
+Postgraduate,Self-employed,Vodafone,Coverage,6-12 months,Both,0,0,1,1,1,3,5
+Undergraduate,Student,MTN,Prefer not to say,3-4 years,Both,1,0,1,1,7,1,4
+Postgraduate,Employed part-time,Vodafone,Coverage,6-12 months,Both,1,1,1,0,5,1,5
+No Education,Employed part-time,MTN,Prefer not to say,6-12 months,Postpaid,1,1,0,0,5,3,2
+Primary School,Retired,Vodafone,Pricing,6-12 months,Postpaid,1,0,0,0,2,4,5
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Postpaid,0,1,1,0,1,3,5
+Undergraduate,Self-employed,MTN,Customer Service,6-12 months,Postpaid,1,0,0,0,7,2,5
+High school graduate,Self-employed,MTN,Prefer not to say,5 or more years,Postpaid,1,1,0,0,5,3,2
+Postgraduate,Employed full-time,Glo,Coverage,5 or more years,Postpaid,1,1,1,0, ,2,3
+High school graduate,Retired,Glo,Coverage,6-12 months,Postpaid,0,1,1,0,5,4,3
+Primary School,Retired,Vodafone,Pricing,6-12 months,Postpaid,1,0,0,0, ,4,5
+No Education,Employed full-time,MTN,Coverage,5 or more years,Prepaid,1,0,1,1,1,2,3
+Postgraduate,Unemployed,AirtelTigo,Coverage,3-4 years,Both,1,1,1,0,4,3,3
+Prefer not to say,Self-employed,MTN,Prefer not to say,1-2 years,Postpaid,0,1,0,0,4,3,3
+High school graduate,Student,MTN,Customer Service,3-4 years,Prepaid,0,1,0,0,2,3,1
+High school graduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,0,1,0,2,4,1
+Undergraduate,Self-employed,Vodafone,Customer Service,3-4 years,Postpaid,1,1,0,0,1,3,1
+Primary School,Employed full-time,MTN,Pricing,3-4 years,Both,0,0,0,1,4,4,3
+High school graduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Postpaid,1,1,0,0,4,1,2
+Prefer not to say,Retired,Glo,Prefer not to say,Less than 6 months,Prepaid,0,0,0,0,4,3,1
+High school graduate,Employed part-time,MTN,Pricing,5 or more years,Prepaid,1,0,0,1,4,2,1
+No Education,Student,AirtelTigo,Pricing,1-2 years,Prepaid,1,1,1,1,5,2,1
+Postgraduate,Unemployed,AirtelTigo,Prefer not to say,5 or more years,Prepaid,1,0,0,1,7,1,5
+Undergraduate,Student,MTN,Pricing,1-2 years,Prepaid,0,1,0,1,4,2,4
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Both,1,1,0,1,7,1,2
+Prefer not to say,Employed part-time,MTN,Prefer not to say,1-2 years,Postpaid,0,1,0,1,2,3,2
+No Education,Unemployed,Vodafone,Customer Service,6-12 months,Postpaid,0,1,1,0,3,2,4
+Undergraduate,Employed part-time,MTN,Pricing,Less than 6 months,Both,1,0,0,1,1,4,4
+No Education,Employed full-time,MTN,Coverage,3-4 years,Postpaid,0,1,1,0,7,3,4
+Undergraduate,Employed part-time,MTN,Coverage,3-4 years,Both,1,1,0,0,3,4,2
+Postgraduate,Unemployed,Glo,Coverage,3-4 years,Postpaid,0,0,0,1, ,4,5
+Prefer not to say,Student,Glo,Coverage,5 or more years,Postpaid,1,1,1,1, ,4,5
+High school graduate,Retired,MTN,Prefer not to say,3-4 years,Both,1,0,1,0,5,1,4
+Primary School,Unemployed,MTN,Prefer not to say,5 or more years,Both,1,1,1,0,1,3,5
+Prefer not to say,Student,Glo,Pricing,Less than 6 months,Postpaid,0,0,0,1,4,4,2
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Prepaid,1,0,0,1,3,1,2
+Postgraduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Both,1,0,1,1,4,1,4
+Prefer not to say,Employed full-time,MTN,Pricing,1-2 years,Postpaid,1,1,0,0,6,3,5
+Primary School,Retired,MTN,Prefer not to say,1-2 years,Postpaid,1,0,1,1,4,3,1
+Prefer not to say,Self-employed,MTN,Coverage,5 or more years,Postpaid,0,0,1,1,3,2,3
+Primary School,Retired,Glo,Customer Service,Less than 6 months,Postpaid,1,0,0,1,6,4,5
+Primary School,Unemployed,AirtelTigo,Customer Service,5 or more years,Prepaid,0,1,0,0,7,1,3
+Undergraduate,Employed full-time,AirtelTigo,Pricing,Less than 6 months,Postpaid,0,1,0,0,1,2,5
+No Education,Unemployed,Vodafone,Prefer not to say,1-2 years,Prepaid,0,0,0,0,1,4,1
+High school graduate,Student,Vodafone,Pricing,5 or more years,Both,0,1,1,1,6,3,2
+Undergraduate,Employed full-time,MTN,Coverage,5 or more years,Both,1,0,0,1,6,3,4
+Postgraduate,Self-employed,Vodafone,Pricing,Less than 6 months,Both,0,1,0,0,6,1,3
+Primary School,Self-employed,Glo,Pricing,5 or more years,Prepaid,1,0,0,0,2,1,4
+Primary School,Unemployed,AirtelTigo,Customer Service,5 or more years,Postpaid,0,1,0,0,4,1,3
+High school graduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,0,1,0,4,4,1
+Undergraduate,Retired,AirtelTigo,Prefer not to say,6-12 months,Postpaid,0,0,0,0,5,3,5
+No Education,Student,Vodafone,Customer Service,5 or more years,Postpaid,1,1,1,0,2,2,3
+Undergraduate,Employed full-time,Glo,Coverage,3-4 years,Both,1,0,0,1,7,2,5
+No Education,Retired,Vodafone,Customer Service,3-4 years,Postpaid,1,1,1,1,7,1,5
+Prefer not to say,Retired,Glo,Coverage,Less than 6 months,Postpaid,0,0,1,0,6,1,2
+Primary School,Employed full-time,Vodafone,Customer Service,6-12 months,Prepaid,1,0,1,0,3,4,4
+Postgraduate,Student,AirtelTigo,Customer Service,5 or more years,Prepaid,1,0,0,0,2,3,4
+Undergraduate,Self-employed,AirtelTigo,Coverage,5 or more years,Postpaid,1,1,0,1,4,2,4
+Undergraduate,Employed part-time,MTN,Coverage,1-2 years,Postpaid,0,1,0,0,5,1,4
+Undergraduate,Employed full-time,Glo,Coverage,5 or more years,Both,1,1,1,1,7,4,5
+Postgraduate,Employed full-time,MTN,Pricing,3-4 years,Postpaid,1,1,1,1,3,2,1
+Primary School,Employed full-time,Vodafone,Customer Service,6-12 months,Both,1,0,1,0,7,4,4
+No Education,Employed full-time,MTN,Pricing,3-4 years,Both,1,1,1,1,7,1,3
+High school graduate,Retired,Vodafone,Customer Service,1-2 years,Prepaid,0,1,0,0,6,2,3
+Undergraduate,Self-employed,Glo,Pricing,3-4 years,Postpaid,1,1,1,0,4,2,5
+No Education,Employed full-time,MTN,Coverage,3-4 years,Both,0,1,1,0,7,3,4
+No Education,Employed part-time,MTN,Pricing,Less than 6 months,Postpaid,0,0,0,0,6,1,4
+Primary School,Self-employed,MTN,Pricing,Less than 6 months,Both,0,0,0,0,4,3,1
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Both,0,0,1,0,4,4,2
+Postgraduate,Unemployed,Vodafone,Customer Service,3-4 years,Postpaid,1,0,0,1,5,4,1
+Postgraduate,Self-employed,MTN,Prefer not to say,1-2 years,Both,1,1,1,0, ,4,3
+Undergraduate,Unemployed,AirtelTigo,Pricing,6-12 months,Prepaid,1,1,0,1,1,4,4
+Primary School,Employed part-time,MTN,Pricing,3-4 years,Both,0,0,0,1,2,2,1
+Postgraduate,Self-employed,AirtelTigo,Coverage,3-4 years,Prepaid,0,1,1,1,2,1,2
+Undergraduate,Employed part-time,AirtelTigo,Customer Service,5 or more years,Prepaid,0,0,0,1,4,1,5
+Postgraduate,Employed part-time,MTN,Prefer not to say,6-12 months,Postpaid,0,1,1,0,3,1,3
+No Education,Self-employed,Vodafone,Prefer not to say,5 or more years,Postpaid,1,1,0,1,2,4,2
+Primary School,Student,MTN,Coverage,Less than 6 months,Both,1,1,1,0,4,1,5
+Primary School,Unemployed,Glo,Pricing,5 or more years,Postpaid,0,1,1,1,4,3,1
+High school graduate,Student,AirtelTigo,Customer Service,5 or more years,Postpaid,1,0,1,1,4,2,3
+No Education,Student,AirtelTigo,Prefer not to say,3-4 years,Both,0,0,1,1,4,4,3
+No Education,Employed full-time,Vodafone,Customer Service,1-2 years,Prepaid,0,0,0,1,3,3,4
+Primary School,Employed part-time,AirtelTigo,Prefer not to say,6-12 months,Prepaid,0,1,1,0,4,4,4
+Undergraduate,Retired,MTN,Coverage,1-2 years,Both,1,0,1,0,3,3,3
+Prefer not to say,Employed full-time,Vodafone,Customer Service,3-4 years,Prepaid,1,1,0,0,4,2,1
+Postgraduate,Employed part-time,Vodafone,Pricing,5 or more years,Prepaid,0,0,0,1,3,1,3
+Prefer not to say,Employed full-time,MTN,Prefer not to say,1-2 years,Postpaid,0,0,0,1,3,1,5
+Undergraduate,Employed full-time,Vodafone,Prefer not to say,3-4 years,Postpaid,1,1,0,0,4,2,4
+Undergraduate,Unemployed,Vodafone,Customer Service,6-12 months,Postpaid,1,1,1,1,5,4,4
+No Education,Retired,MTN,Customer Service,Less than 6 months,Postpaid,1,0,1,1,2,4,5
+Undergraduate,Employed full-time,Vodafone,Prefer not to say,1-2 years,Both,1,0,0,1,4,3,2
+No Education,Unemployed,MTN,Coverage,6-12 months,Postpaid,0,1,0,0,3,4,1
+Undergraduate,Retired,Vodafone,Customer Service,Less than 6 months,Both,0,0,1,0,3,3,1
+Undergraduate,Self-employed,Vodafone,Pricing,6-12 months,Postpaid,1,1,1,0,5,4,4
+Prefer not to say,Student,MTN,Customer Service,5 or more years,Prepaid,0,1,1,1,5,2,4
+Prefer not to say,Unemployed,Glo,Coverage,1-2 years,Postpaid,1,0,0,1,4,3,1
+No Education,Employed full-time,AirtelTigo,Coverage,Less than 6 months,Both,0,1,0,0,1,2,4
+Undergraduate,Employed full-time,AirtelTigo,Pricing,1-2 years,Postpaid,1,0,0,0,6,4,1
+Prefer not to say,Unemployed,Glo,Customer Service,6-12 months,Postpaid,1,0,0,1, ,2,2
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,0,1,0, ,1,3
+High school graduate,Self-employed,MTN,Prefer not to say,5 or more years,Both,1,1,0,0, ,3,2
+Postgraduate,Self-employed,Vodafone,Customer Service,6-12 months,Postpaid,1,1,0,1,6,1,5
+Postgraduate,Unemployed,AirtelTigo,Pricing,6-12 months,Prepaid,0,1,0,0, ,4,5
+Primary School,Retired,MTN,Coverage,1-2 years,Postpaid,0,0,0,0,4,3,3
+No Education,Unemployed,AirtelTigo,Coverage,Less than 6 months,Prepaid,1,0,0,0,5,1,5
+Prefer not to say,Employed part-time,Glo,Customer Service,3-4 years,Both,1,1,0,1, ,2,2
+Undergraduate,Self-employed,Glo,Coverage,5 or more years,Postpaid,0,1,0,0, ,1,5
+Prefer not to say,Self-employed,AirtelTigo,Coverage,5 or more years,Postpaid,0,1,1,1,5,1,1
+Postgraduate,Employed part-time,Glo,Prefer not to say,5 or more years,Prepaid,1,0,0,0,4,4,5
+Prefer not to say,Unemployed,AirtelTigo,Prefer not to say,1-2 years,Both,1,0,1,0,5,4,5
+Undergraduate,Employed full-time,MTN,Customer Service,6-12 months,Prepaid,0,0,0,0,1,3,5
+No Education,Student,MTN,Pricing,6-12 months,Postpaid,0,0,0,1,3,2,1
+Postgraduate,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Postpaid,1,0,1,0,4,3,2
+Primary School,Employed part-time,Glo,Prefer not to say,3-4 years,Prepaid,1,0,1,0,7,2,2
+Postgraduate,Self-employed,AirtelTigo,Pricing,1-2 years,Both,0,0,0,1,4,3,1
+No Education,Retired,MTN,Pricing,6-12 months,Postpaid,0,1,0,0,7,1,2
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Prepaid,1,0,0,0, ,3,2
+Undergraduate,Self-employed,MTN,Pricing,5 or more years,Postpaid,1,0,0,1,1,3,2
+No Education,Student,Glo,Prefer not to say,6-12 months,Prepaid,1,0,1,0,2,3,1
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,1-2 years,Postpaid,1,0,1,1,4,2,3
+High school graduate,Employed full-time,MTN,Prefer not to say,3-4 years,Prepaid,1,0,1,1,7,4,5
+Postgraduate,Student,AirtelTigo,Pricing,Less than 6 months,Both,1,1,0,0,5,2,2
+Primary School,Self-employed,MTN,Customer Service,5 or more years,Postpaid,1,0,1,1,6,3,4
+Undergraduate,Employed part-time,MTN,Coverage,Less than 6 months,Postpaid,0,0,0,0,7,2,5
+Prefer not to say,Retired,MTN,Prefer not to say,Less than 6 months,Postpaid,1,0,0,1,4,4,4
+Primary School,Student,MTN,Customer Service,3-4 years,Both,1,0,1,0,4,1,3
+Postgraduate,Employed full-time,MTN,Pricing,6-12 months,Prepaid,0,1,0,0,4,3,2
+Postgraduate,Self-employed,MTN,Prefer not to say,1-2 years,Postpaid,1,0,1,1,1,2,2
+High school graduate,Student,MTN,Pricing,5 or more years,Postpaid,0,0,0,1,1,2,5
+Primary School,Unemployed,Glo,Coverage,1-2 years,Both,0,1,0,1,1,2,5
+No Education,Unemployed,MTN,Customer Service,1-2 years,Both,1,0,1,1, ,4,3
+Postgraduate,Retired,AirtelTigo,Pricing,3-4 years,Both,1,1,0,1,5,2,5
+Undergraduate,Retired,Vodafone,Prefer not to say,1-2 years,Both,1,0,1,0,5,1,4
+Primary School,Student,MTN,Customer Service,3-4 years,Both,1,0,1,0,2,1,4
+High school graduate,Self-employed,AirtelTigo,Coverage,5 or more years,Both,1,0,1,1,3,2,2
+No Education,Retired,MTN,Customer Service,6-12 months,Prepaid,0,0,0,1,1,2,3
+No Education,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Postpaid,1,0,0,1,2,2,3
+Undergraduate,Employed part-time,AirtelTigo,Customer Service,5 or more years,Both,0,0,0,1,2,1,5
+Primary School,Unemployed,MTN,Prefer not to say,1-2 years,Both,0,1,0,1,4,1,1
+Primary School,Unemployed,MTN,Prefer not to say,5 or more years,Prepaid,1,0,0,0,4,2,5
+Postgraduate,Unemployed,MTN,Prefer not to say,Less than 6 months,Postpaid,0,0,0,1,7,3,1
+No Education,Employed part-time,MTN,Customer Service,3-4 years,Postpaid,1,0,1,1, ,4,2
+Primary School,Self-employed,Vodafone,Customer Service,1-2 years,Both,0,1,0,0,4,2,5
+Postgraduate,Employed part-time,Vodafone,Prefer not to say,3-4 years,Prepaid,0,1,0,0,1,2,1
+No Education,Retired,MTN,Prefer not to say,5 or more years,Prepaid,1,1,0,1,5,1,4
+High school graduate,Employed part-time,Vodafone,Customer Service,1-2 years,Postpaid,0,0,1,0,6,2,1
+Prefer not to say,Retired,Glo,Coverage,5 or more years,Both,0,1,1,0,3,1,3
+Undergraduate,Unemployed,Vodafone,Customer Service,6-12 months,Both,1,1,1,1, ,4,4
+Primary School,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,0,1,5,1,2
+Postgraduate,Unemployed,MTN,Prefer not to say,5 or more years,Postpaid,1,1,1,1, ,3,3
+High school graduate,Student,AirtelTigo,Pricing,3-4 years,Prepaid,0,0,0,0, ,3,1
+Undergraduate,Student,MTN,Prefer not to say,Less than 6 months,Both,1,0,1,1,4,1,1
+Undergraduate,Retired,MTN,Customer Service,5 or more years,Postpaid,1,0,1,1,4,2,2
+Undergraduate,Employed full-time,Vodafone,Coverage,6-12 months,Postpaid,1,1,0,0,7,2,2
+Prefer not to say,Employed full-time,MTN,Prefer not to say,1-2 years,Prepaid,0,0,0,1, ,1,5
+Postgraduate,Unemployed,Glo,Coverage,5 or more years,Both,0,1,1,0,6,1,4
+Undergraduate,Employed full-time,MTN,Pricing,6-12 months,Prepaid,1,1,0,1,4,3,3
+High school graduate,Self-employed,Vodafone,Customer Service,3-4 years,Prepaid,0,1,1,0,4,2,5
+Undergraduate,Unemployed,MTN,Prefer not to say,1-2 years,Postpaid,1,0,0,0,4,2,1
+Undergraduate,Unemployed,Glo,Prefer not to say,3-4 years,Both,0,0,0,1,7,3,3
+Undergraduate,Employed full-time,MTN,Coverage,3-4 years,Postpaid,0,1,1,0,3,4,1
+Undergraduate,Self-employed,AirtelTigo,Coverage,5 or more years,Prepaid,1,1,0,1,5,2,4
+Postgraduate,Self-employed,Glo,Coverage,6-12 months,Postpaid,1,1,0,1,7,4,3
+Undergraduate,Employed full-time,Vodafone,Coverage,6-12 months,Prepaid,1,0,0,1,4,4,2
+No Education,Self-employed,MTN,Pricing,6-12 months,Prepaid,1,0,1,0,5,2,2
+Postgraduate,Unemployed,Glo,Coverage,1-2 years,Prepaid,1,0,0,1,1,4,4
+Undergraduate,Student,AirtelTigo,Pricing,5 or more years,Both,0,0,1,1,4,2,5
+Prefer not to say,Student,Glo,Customer Service,Less than 6 months,Both,0,0,1,1,6,1,5
+Postgraduate,Employed full-time,AirtelTigo,Pricing,3-4 years,Both,0,0,1,0,3,2,1
+High school graduate,Self-employed,AirtelTigo,Pricing,3-4 years,Prepaid,0,0,1,0,3,4,5
+No Education,Retired,AirtelTigo,Prefer not to say,5 or more years,Prepaid,1,1,0,0,3,1,2
+Postgraduate,Employed part-time,MTN,Coverage,3-4 years,Prepaid,0,0,0,0,4,4,2
+No Education,Employed full-time,Vodafone,Prefer not to say,6-12 months,Postpaid,0,1,0,1,3,3,1
+Undergraduate,Employed part-time,MTN,Coverage,1-2 years,Both,0,0,0,1,6,3,3
+High school graduate,Student,AirtelTigo,Prefer not to say,Less than 6 months,Prepaid,0,0,1,1,2,3,1
+No Education,Employed full-time,MTN,Pricing,Less than 6 months,Postpaid,0,0,1,1,4,4,2
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Prepaid,1,0,0,1,7,1,2
+High school graduate,Employed full-time,MTN,Pricing,6-12 months,Prepaid,1,0,0,1,3,2,1
+Prefer not to say,Employed full-time,MTN,Coverage,6-12 months,Both,0,1,0,1,7,4,2
+Postgraduate,Student,Glo,Prefer not to say,5 or more years,Prepaid,1,0,0,0,1,3,4
+Postgraduate,Employed full-time,MTN,Pricing,6-12 months,Both,1,0,1,1,3,4,3
+No Education,Student,Vodafone,Customer Service,5 or more years,Both,1,1,1,1,2,4,5
+No Education,Student,MTN,Pricing,6-12 months,Prepaid,0,0,0,1, ,2,1
+No Education,Unemployed,Vodafone,Prefer not to say,1-2 years,Postpaid,0,1,0,0,2,2,4
+Undergraduate,Employed full-time,AirtelTigo,Coverage,6-12 months,Prepaid,0,0,0,1,4,4,1
+Undergraduate,Employed full-time,MTN,Customer Service,6-12 months,Prepaid,0,0,0,0, ,3,5
+Prefer not to say,Self-employed,Glo,Customer Service,3-4 years,Postpaid,0,0,0,1,3,1,5
+Prefer not to say,Self-employed,Glo,Coverage,Less than 6 months,Prepaid,1,0,0,0, ,3,3
+Postgraduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Both,0,1,0,0,1,1,1
+Primary School,Self-employed,AirtelTigo,Coverage,5 or more years,Prepaid,1,1,1,0,5,1,4
+Postgraduate,Student,MTN,Coverage,Less than 6 months,Prepaid,0,1,0,0,3,2,1
+Postgraduate,Unemployed,AirtelTigo,Coverage,6-12 months,Both,0,0,1,0,4,2,3
+No Education,Student,Vodafone,Customer Service,5 or more years,Postpaid,1,1,1,0, ,2,3
+Prefer not to say,Employed full-time,MTN,Coverage,Less than 6 months,Postpaid,1,0,1,1,6,4,1
+High school graduate,Retired,Vodafone,Coverage,3-4 years,Both,0,1,0,1,7,4,4
+Prefer not to say,Self-employed,AirtelTigo,Coverage,Less than 6 months,Postpaid,0,1,0,1,4,2,3
+Postgraduate,Unemployed,Glo,Coverage,5 or more years,Prepaid,0,1,1,0,5,1,4
+High school graduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Postpaid,1,0,1,0,1,4,5
+Primary School,Employed part-time,MTN,Coverage,5 or more years,Prepaid,1,1,1,1, ,2,5
+Primary School,Employed full-time,MTN,Customer Service,5 or more years,Prepaid,0,1,1,0,7,1,5
+High school graduate,Student,MTN,Pricing,5 or more years,Postpaid,0,0,0,1, ,2,5
+High school graduate,Retired,MTN,Customer Service,Less than 6 months,Postpaid,0,0,0,0,5,2,5
+Prefer not to say,Student,Glo,Pricing,5 or more years,Postpaid,0,1,0,0,5,4,4
+Undergraduate,Student,MTN,Pricing,1-2 years,Postpaid,0,1,1,1,6,2,5
+No Education,Student,AirtelTigo,Customer Service,Less than 6 months,Prepaid,0,0,1,0,3,3,5
+Postgraduate,Student,Vodafone,Prefer not to say,1-2 years,Prepaid,1,1,1,1,7,3,3
+Postgraduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Postpaid,1,0,1,1,2,1,4
+Postgraduate,Retired,MTN,Pricing,1-2 years,Postpaid,1,0,1,0,4,1,5
+Prefer not to say,Retired,MTN,Pricing,3-4 years,Postpaid,0,1,0,0,4,1,2
+High school graduate,Retired,MTN,Customer Service,Less than 6 months,Postpaid,0,0,0,0,4,2,5
+Primary School,Retired,Vodafone,Customer Service,Less than 6 months,Postpaid,0,0,1,0,2,2,1
+Undergraduate,Employed part-time,AirtelTigo,Prefer not to say,Less than 6 months,Postpaid,0,0,1,1,4,4,5
+Postgraduate,Self-employed,Glo,Coverage,3-4 years,Prepaid,1,1,0,0,3,2,3
+Primary School,Employed part-time,AirtelTigo,Prefer not to say,Less than 6 months,Prepaid,1,0,0,0,5,2,4
+Undergraduate,Self-employed,Vodafone,Pricing,3-4 years,Prepaid,0,1,1,1,5,2,3
+Undergraduate,Employed full-time,AirtelTigo,Prefer not to say,1-2 years,Prepaid,1,1,0,0,2,1,3
+Primary School,Employed part-time,MTN,Prefer not to say,Less than 6 months,Postpaid,1,0,1,1, ,4,1
+High school graduate,Employed part-time,MTN,Customer Service,3-4 years,Prepaid,1,0,0,1,1,3,1
+No Education,Employed part-time,AirtelTigo,Pricing,1-2 years,Both,0,0,0,1,7,3,4
+High school graduate,Employed part-time,MTN,Coverage,5 or more years,Both,1,0,1,0,1,2,5
+Primary School,Retired,Vodafone,Customer Service,Less than 6 months,Postpaid,0,0,1,1,1,2,4
+Primary School,Student,MTN,Customer Service,3-4 years,Prepaid,0,0,0,1,1,1,1
+High school graduate,Employed part-time,Vodafone,Pricing,3-4 years,Both,0,0,1,0,1,1,2
+Primary School,Self-employed,MTN,Pricing,Less than 6 months,Postpaid,0,0,0,0, ,3,1
+Prefer not to say,Self-employed,Vodafone,Coverage,1-2 years,Both,1,1,0,1,4,4,1
+Postgraduate,Employed part-time,MTN,Customer Service,6-12 months,Both,1,1,1,1,4,1,4
+No Education,Student,Vodafone,Coverage,6-12 months,Prepaid,1,1,0,0,1,3,5
+High school graduate,Self-employed,Glo,Prefer not to say,6-12 months,Prepaid,1,0,1,1,2,1,3
+Prefer not to say,Self-employed,MTN,Coverage,5 or more years,Postpaid,0,0,1,1,4,2,3
+Postgraduate,Student,MTN,Prefer not to say,6-12 months,Postpaid,0,1,0,0,1,4,3
+Primary School,Self-employed,MTN,Pricing,3-4 years,Postpaid,1,1,0,1,4,2,4
+Postgraduate,Employed full-time,MTN,Coverage,3-4 years,Both,0,0,0,0,4,4,3
+Primary School,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,0,5,3,1
+Primary School,Employed full-time,AirtelTigo,Customer Service,3-4 years,Prepaid,1,0,1,1,6,3,1
+Prefer not to say,Employed part-time,Glo,Prefer not to say,Less than 6 months,Prepaid,0,0,1,1,2,3,1
+High school graduate,Student,MTN,Customer Service,3-4 years,Postpaid,0,1,0,0,5,3,1
+Prefer not to say,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Both,0,0,0,0,7,4,4
+High school graduate,Self-employed,AirtelTigo,Pricing,1-2 years,Both,0,1,1,1,3,2,1
+Postgraduate,Retired,AirtelTigo,Customer Service,5 or more years,Prepaid,1,1,1,0,2,4,3
+Postgraduate,Self-employed,AirtelTigo,Pricing,3-4 years,Both,0,0,0,1,7,3,1
+Primary School,Unemployed,Glo,Pricing,6-12 months,Both,1,0,1,1,6,2,3
+Postgraduate,Employed part-time,Vodafone,Customer Service,6-12 months,Both,1,0,1,0,5,2,1
+Primary School,Student,MTN,Customer Service,3-4 years,Prepaid,1,0,1,0,7,1,4
+Postgraduate,Retired,MTN,Customer Service,3-4 years,Both,0,1,1,1,5,4,5
+Postgraduate,Retired,Glo,Pricing,1-2 years,Postpaid,0,1,0,1,2,2,3
+Prefer not to say,Unemployed,Glo,Customer Service,5 or more years,Both,1,0,1,1,2,1,3
+Prefer not to say,Student,MTN,Prefer not to say,6-12 months,Both,0,0,1,1,5,2,5
+Undergraduate,Retired,Vodafone,Prefer not to say,1-2 years,Prepaid,1,0,1,0,3,1,4
+Postgraduate,Retired,AirtelTigo,Prefer not to say,1-2 years,Prepaid,0,0,0,0,4,3,2
+Undergraduate,Retired,MTN,Prefer not to say,6-12 months,Postpaid,0,0,1,0,5,2,1
+Prefer not to say,Retired,MTN,Pricing,6-12 months,Postpaid,1,0,1,1,5,4,3
+Undergraduate,Employed full-time,Glo,Prefer not to say,5 or more years,Postpaid,1,0,0,1,1,2,2
+Postgraduate,Employed full-time,MTN,Customer Service,5 or more years,Postpaid,0,0,1,1,6,1,2
+High school graduate,Self-employed,Glo,Prefer not to say,1-2 years,Both,0,1,0,0,4,2,3
+Undergraduate,Employed part-time,Glo,Pricing,3-4 years,Prepaid,1,0,1,1,7,1,4
+Primary School,Self-employed,AirtelTigo,Pricing,5 or more years,Postpaid,1,1,0,1,4,2,4
+Postgraduate,Student,MTN,Customer Service,Less than 6 months,Prepaid,0,0,0,1,2,3,1
+Prefer not to say,Employed full-time,Glo,Prefer not to say,Less than 6 months,Prepaid,1,1,0,0,2,4,1
+Undergraduate,Employed part-time,AirtelTigo,Pricing,5 or more years,Both,1,1,1,0,1,3,3
+Undergraduate,Retired,MTN,Pricing,5 or more years,Postpaid,0,0,1,1,3,4,1
+Undergraduate,Self-employed,Glo,Customer Service,5 or more years,Postpaid,0,1,1,0,6,3,1
+No Education,Employed part-time,AirtelTigo,Coverage,5 or more years,Prepaid,0,1,0,1,7,3,5
+Undergraduate,Retired,MTN,Customer Service,6-12 months,Prepaid,0,0,1,1,2,1,4
+No Education,Unemployed,MTN,Coverage,3-4 years,Prepaid,0,0,1,1,5,1,4
+Postgraduate,Employed full-time,MTN,Pricing,3-4 years,Prepaid,1,1,1,1,7,2,1
+Undergraduate,Retired,MTN,Pricing,5 or more years,Postpaid,0,1,0,0,3,2,2
+Undergraduate,Retired,Glo,Prefer not to say,5 or more years,Postpaid,1,0,0,0,5,4,2
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,1,1,1,1,4,1,1
+Prefer not to say,Self-employed,Vodafone,Customer Service,3-4 years,Prepaid,1,0,0,1,4,1,2
+Primary School,Employed full-time,MTN,Pricing,Less than 6 months,Prepaid,1,0,0,1, ,4,1
+Undergraduate,Self-employed,MTN,Coverage,6-12 months,Postpaid,1,1,1,0,2,2,2
+Postgraduate,Self-employed,Glo,Coverage,6-12 months,Postpaid,1,1,0,1,4,4,3
+Prefer not to say,Self-employed,AirtelTigo,Customer Service,3-4 years,Postpaid,1,1,0,0,4,2,5
+Postgraduate,Unemployed,MTN,Prefer not to say,Less than 6 months,Both,0,0,0,1,1,3,1
+Primary School,Unemployed,AirtelTigo,Customer Service,Less than 6 months,Both,0,0,0,0,6,2,3
+Undergraduate,Employed part-time,Glo,Pricing,3-4 years,Postpaid,1,0,1,1,5,1,4
+Primary School,Employed full-time,AirtelTigo,Pricing,Less than 6 months,Postpaid,0,0,0,1,4,4,2
+Postgraduate,Retired,MTN,Prefer not to say,5 or more years,Postpaid,1,1,1,0,4,1,5
+Undergraduate,Employed part-time,AirtelTigo,Customer Service,5 or more years,Both,0,0,0,1,5,1,5
+Undergraduate,Self-employed,MTN,Pricing,1-2 years,Prepaid,1,1,0,1, ,4,5
+No Education,Unemployed,MTN,Pricing,1-2 years,Postpaid,0,1,1,1,1,3,1
+Primary School,Retired,AirtelTigo,Prefer not to say,5 or more years,Both,0,1,0,0, ,4,4
+Undergraduate,Retired,Glo,Pricing,3-4 years,Prepaid,1,0,1,0,1,2,2
+High school graduate,Employed full-time,MTN,Coverage,3-4 years,Postpaid,1,0,0,1,7,2,4
+Postgraduate,Unemployed,Glo,Coverage,1-2 years,Prepaid,1,0,0,1, ,4,4
+Undergraduate,Unemployed,Vodafone,Customer Service,3-4 years,Both,0,0,0,0,5,1,5
+Primary School,Self-employed,Glo,Customer Service,5 or more years,Postpaid,0,0,0,0,7,1,4
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Prepaid,0,1,0,1, ,3,5
+Primary School,Unemployed,Glo,Pricing,6-12 months,Both,1,0,1,1,4,2,3
+Primary School,Unemployed,AirtelTigo,Coverage,5 or more years,Postpaid,0,0,1,1,6,3,5
+Postgraduate,Retired,Glo,Pricing,Less than 6 months,Prepaid,0,1,1,0,4,3,2
+Postgraduate,Employed full-time,MTN,Pricing,6-12 months,Both,0,1,0,0,7,3,2
+Prefer not to say,Retired,Glo,Customer Service,Less than 6 months,Prepaid,1,0,1,1,4,1,1
+High school graduate,Self-employed,MTN,Pricing,1-2 years,Prepaid,0,1,0,1,3,3,3
+Undergraduate,Student,Vodafone,Coverage,3-4 years,Postpaid,0,1,0,1,6,1,5
+No Education,Self-employed,Vodafone,Prefer not to say,5 or more years,Both,1,1,0,1,5,4,2
+High school graduate,Employed full-time,Glo,Customer Service,6-12 months,Postpaid,1,1,0,1,4,4,1
+Undergraduate,Employed full-time,MTN,Pricing,6-12 months,Both,0,1,1,0,6,2,2
+Prefer not to say,Employed part-time,MTN,Prefer not to say,Less than 6 months,Both,1,1,0,1,6,3,5
+No Education,Employed full-time,AirtelTigo,Customer Service,Less than 6 months,Prepaid,1,0,0,1,5,3,2
+Postgraduate,Student,AirtelTigo,Pricing,Less than 6 months,Both,1,1,0,0, ,2,2
+Undergraduate,Retired,AirtelTigo,Customer Service,5 or more years,Prepaid,1,1,0,0,1,4,2
+Primary School,Employed part-time,MTN,Coverage,5 or more years,Both,1,1,1,1,2,2,5
+Postgraduate,Retired,MTN,Coverage,6-12 months,Postpaid,0,1,0,0,1,2,1
+High school graduate,Employed full-time,MTN,Customer Service,1-2 years,Both,1,1,1,1,1,4,2
+Primary School,Unemployed,Glo,Pricing,5 or more years,Prepaid,0,1,1,1,1,3,1
+Prefer not to say,Student,Glo,Pricing,5 or more years,Prepaid,0,1,0,0,4,4,4
+Primary School,Self-employed,MTN,Coverage,1-2 years,Postpaid,0,1,1,0,6,3,1
+No Education,Retired,MTN,Pricing,6-12 months,Both,0,1,0,0,5,1,2
+Postgraduate,Unemployed,MTN,Pricing,6-12 months,Both,0,0,1,0,5,1,1
+High school graduate,Student,AirtelTigo,Pricing,3-4 years,Both,0,0,0,0,4,3,1
+Undergraduate,Employed part-time,Vodafone,Pricing,1-2 years,Both,0,0,0,0,7,1,1
+High school graduate,Employed full-time,Glo,Customer Service,1-2 years,Postpaid,0,1,1,1, ,2,3
+Postgraduate,Employed part-time,MTN,Coverage,3-4 years,Prepaid,0,0,0,0,1,4,2
+Postgraduate,Employed part-time,MTN,Prefer not to say,3-4 years,Postpaid,1,0,1,0,4,3,3
+Prefer not to say,Self-employed,MTN,Coverage,5 or more years,Prepaid,0,1,1,1,7,2,1
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Postpaid,0,1,0,0,5,1,5
+Undergraduate,Unemployed,Vodafone,Prefer not to say,Less than 6 months,Prepaid,1,1,1,0,6,2,4
+Postgraduate,Student,Glo,Prefer not to say,5 or more years,Prepaid,1,0,0,0,4,3,4
+Undergraduate,Employed full-time,AirtelTigo,Prefer not to say,3-4 years,Both,1,0,1,1,1,4,4
+Prefer not to say,Student,MTN,Customer Service,5 or more years,Both,0,1,1,1,4,2,4
+Postgraduate,Employed full-time,MTN,Prefer not to say,5 or more years,Postpaid,0,0,1,0,4,2,5
+Primary School,Employed full-time,AirtelTigo,Pricing,6-12 months,Prepaid,1,0,0,0,5,1,5
+Undergraduate,Self-employed,MTN,Coverage,6-12 months,Postpaid,1,1,1,0,7,2,2
+Primary School,Employed full-time,MTN,Pricing,6-12 months,Postpaid,0,1,0,0,6,1,5
+Undergraduate,Employed full-time,Vodafone,Coverage,6-12 months,Prepaid,1,1,0,0,7,2,2
+Undergraduate,Self-employed,MTN,Pricing,1-2 years,Prepaid,1,1,0,1,5,4,5
+Prefer not to say,Retired,MTN,Pricing,6-12 months,Both,1,0,1,1,6,4,3
+Postgraduate,Employed part-time,Vodafone,Customer Service,6-12 months,Prepaid,1,0,1,0,7,2,1
+Primary School,Student,MTN,Customer Service,5 or more years,Both,0,0,1,0,3,2,4
+Prefer not to say,Student,MTN,Customer Service,1-2 years,Prepaid,1,1,1,0,6,1,1
+Prefer not to say,Student,Glo,Customer Service,3-4 years,Postpaid,0,0,0,1,1,4,3
+No Education,Employed part-time,MTN,Pricing,6-12 months,Both,1,0,1,0,7,2,4
+Postgraduate,Student,MTN,Coverage,6-12 months,Postpaid,0,1,1,0, ,2,5
+Primary School,Unemployed,AirtelTigo,Customer Service,Less than 6 months,Postpaid,1,1,1,0,3,4,1
+Undergraduate,Employed part-time,MTN,Pricing,3-4 years,Prepaid,1,0,0,0,2,2,4
+High school graduate,Retired,MTN,Coverage,Less than 6 months,Both,0,0,1,0,1,1,1
+Undergraduate,Retired,Vodafone,Pricing,1-2 years,Both,1,0,0,1,1,4,4
+Prefer not to say,Employed full-time,MTN,Pricing,6-12 months,Both,0,1,1,0,1,2,3
+Undergraduate,Self-employed,AirtelTigo,Coverage,5 or more years,Both,1,1,0,1,2,2,4
+Primary School,Employed full-time,MTN,Coverage,6-12 months,Postpaid,0,0,1,1,3,1,1
+High school graduate,Unemployed,MTN,Customer Service,Less than 6 months,Both,0,1,1,1,2,4,5
+Prefer not to say,Self-employed,Glo,Customer Service,3-4 years,Both,0,0,0,1, ,1,5
+Postgraduate,Unemployed,MTN,Prefer not to say,5 or more years,Prepaid,1,1,1,1,2,3,3
+Primary School,Student,MTN,Customer Service,3-4 years,Postpaid,1,0,1,0,5,1,3
+No Education,Employed part-time,Glo,Coverage,Less than 6 months,Prepaid,0,0,0,1,5,1,3
+Primary School,Unemployed,Glo,Coverage,3-4 years,Both,1,1,0,1,6,3,2
+No Education,Self-employed,Glo,Pricing,3-4 years,Postpaid,0,0,1,1,2,3,1
+No Education,Employed part-time,MTN,Prefer not to say,1-2 years,Both,1,0,1,0,6,4,1
+Postgraduate,Unemployed,MTN,Coverage,Less than 6 months,Prepaid,0,1,0,1,2,4,3
+Undergraduate,Student,MTN,Pricing,5 or more years,Prepaid,1,0,1,0, ,4,1
+Undergraduate,Retired,Vodafone,Prefer not to say,1-2 years,Both,1,0,1,0,7,1,4
+Prefer not to say,Unemployed,Glo,Prefer not to say,6-12 months,Prepaid,0,1,1,1,4,1,3
+High school graduate,Employed full-time,Vodafone,Coverage,3-4 years,Prepaid,1,0,1,0,4,3,3
+Prefer not to say,Employed part-time,MTN,Prefer not to say,1-2 years,Postpaid,0,1,0,1,7,3,2
+High school graduate,Unemployed,Glo,Customer Service,3-4 years,Both,0,0,1,1,6,3,3
+Undergraduate,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,0,0,1,6,4,5
+Primary School,Unemployed,AirtelTigo,Pricing,3-4 years,Postpaid,0,0,0,0,4,3,5
+No Education,Student,AirtelTigo,Coverage,1-2 years,Postpaid,0,1,1,1,5,1,4
+High school graduate,Self-employed,MTN,Pricing,1-2 years,Prepaid,1,1,1,0,1,1,5
+Prefer not to say,Unemployed,AirtelTigo,Prefer not to say,1-2 years,Postpaid,0,0,0,0,7,1,1
+Undergraduate,Self-employed,MTN,Prefer not to say,3-4 years,Both,1,0,1,1,4,1,5
+No Education,Unemployed,Vodafone,Prefer not to say,Less than 6 months,Both,0,1,1,0,7,2,5
+High school graduate,Retired,AirtelTigo,Customer Service,1-2 years,Postpaid,0,1,1,1,7,3,5
+Postgraduate,Self-employed,MTN,Pricing,Less than 6 months,Prepaid,1,0,1,1,1,4,3
+Undergraduate,Unemployed,MTN,Prefer not to say,1-2 years,Both,1,0,1,1,4,2,3
+Prefer not to say,Self-employed,Vodafone,Customer Service,1-2 years,Prepaid,0,0,1,1,7,1,1
+High school graduate,Self-employed,Vodafone,Customer Service,3-4 years,Postpaid,1,0,0,0,3,4,4
+Undergraduate,Employed part-time,Glo,Pricing,6-12 months,Both,0,0,1,1,7,2,3
+Undergraduate,Self-employed,Vodafone,Customer Service,1-2 years,Prepaid,0,1,0,1, ,3,4
+Undergraduate,Retired,Glo,Customer Service,1-2 years,Postpaid,0,0,0,1,1,1,2
+Primary School,Unemployed,Glo,Coverage,3-4 years,Prepaid,1,1,0,1,5,3,2
+Postgraduate,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Both,0,0,1,1, ,3,4
+Prefer not to say,Employed full-time,MTN,Prefer not to say,5 or more years,Prepaid,0,0,1,1,4,3,1
+Primary School,Unemployed,Glo,Customer Service,6-12 months,Both,0,1,1,1,2,4,1
+High school graduate,Unemployed,Vodafone,Prefer not to say,5 or more years,Postpaid,0,1,0,1,5,1,4
+Prefer not to say,Employed part-time,Vodafone,Prefer not to say,6-12 months,Postpaid,1,1,1,1, ,4,3
+Undergraduate,Employed full-time,MTN,Pricing,6-12 months,Postpaid,1,1,0,1,4,3,3
+Prefer not to say,Retired,Glo,Prefer not to say,6-12 months,Prepaid,0,0,1,0,2,4,2
+Postgraduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,1,6,3,1
+Prefer not to say,Self-employed,MTN,Prefer not to say,1-2 years,Postpaid,0,0,0,0,5,4,1
+High school graduate,Employed part-time,MTN,Prefer not to say,6-12 months,Postpaid,1,0,0,0, ,1,1
+No Education,Employed full-time,Vodafone,Prefer not to say,6-12 months,Postpaid,0,0,0,1,4,4,3
+Prefer not to say,Self-employed,AirtelTigo,Coverage,5 or more years,Prepaid,0,1,1,0,2,1,2
+Prefer not to say,Self-employed,Vodafone,Coverage,1-2 years,Postpaid,1,1,0,1,7,4,1
+Prefer not to say,Employed part-time,AirtelTigo,Coverage,1-2 years,Postpaid,0,1,1,1,2,2,3
+High school graduate,Employed part-time,Vodafone,Customer Service,1-2 years,Prepaid,0,0,1,0,7,2,1
+Primary School,Student,MTN,Coverage,3-4 years,Postpaid,0,0,0,0,4,4,2
+Primary School,Employed full-time,AirtelTigo,Coverage,6-12 months,Both,0,0,1,1,4,3,2
+Postgraduate,Unemployed,MTN,Pricing,1-2 years,Prepaid,0,1,1,1,4,4,2
+No Education,Student,Glo,Prefer not to say,6-12 months,Postpaid,1,0,1,0,7,3,1
+Primary School,Unemployed,Vodafone,Customer Service,1-2 years,Postpaid,1,0,0,1,2,4,2
+Prefer not to say,Student,MTN,Prefer not to say,6-12 months,Prepaid,0,0,1,1,4,2,5
+Primary School,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,1,4,4,1
+Primary School,Self-employed,AirtelTigo,Coverage,5 or more years,Both,1,1,1,0,2,1,4
+High school graduate,Employed part-time,MTN,Coverage,3-4 years,Prepaid,1,1,0,1,5,4,3
+Primary School,Retired,MTN,Customer Service,3-4 years,Prepaid,1,0,0,0,4,1,3
+High school graduate,Retired,AirtelTigo,Customer Service,1-2 years,Prepaid,0,1,1,1,3,3,5
+Postgraduate,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Both,1,0,1,0,4,3,2
+Undergraduate,Unemployed,MTN,Pricing,5 or more years,Prepaid,0,0,1,1,5,2,2
+Postgraduate,Student,MTN,Prefer not to say,6-12 months,Prepaid,0,1,1,1,1,2,5
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Postpaid,0,1,0,1,5,3,5
+No Education,Employed full-time,Vodafone,Customer Service,6-12 months,Postpaid,1,1,0,1,7,1,5
+Prefer not to say,Retired,MTN,Pricing,3-4 years,Both,0,1,0,0,2,1,2
+Prefer not to say,Student,MTN,Prefer not to say,3-4 years,Prepaid,1,1,1,1,4,2,3
+No Education,Employed part-time,MTN,Customer Service,3-4 years,Postpaid,1,0,1,1,1,4,2
+Primary School,Student,MTN,Pricing,6-12 months,Postpaid,1,0,1,0,3,2,1
+High school graduate,Student,AirtelTigo,Customer Service,Less than 6 months,Both,0,0,0,0,1,4,4
+No Education,Employed part-time,Glo,Prefer not to say,6-12 months,Postpaid,0,1,0,0,4,2,5
+Postgraduate,Employed part-time,Glo,Prefer not to say,5 or more years,Postpaid,1,0,0,0,4,4,5
+Undergraduate,Employed part-time,Glo,Pricing,3-4 years,Prepaid,1,0,1,1,1,1,4
+No Education,Retired,Vodafone,Customer Service,3-4 years,Both,1,1,1,1,7,1,5
+Primary School,Self-employed,AirtelTigo,Coverage,6-12 months,Postpaid,1,1,1,1,4,4,4
+Undergraduate,Retired,AirtelTigo,Prefer not to say,6-12 months,Both,1,1,0,1,6,3,3
+Undergraduate,Employed part-time,Glo,Pricing,5 or more years,Postpaid,0,1,1,1,1,4,2
+High school graduate,Unemployed,Vodafone,Customer Service,3-4 years,Postpaid,0,0,1,1,4,4,1
+Undergraduate,Self-employed,Glo,Prefer not to say,1-2 years,Postpaid,1,0,0,0,3,1,1
+Primary School,Unemployed,MTN,Pricing,Less than 6 months,Both,0,0,1,1,4,1,1
+Primary School,Retired,Glo,Coverage,3-4 years,Postpaid,0,1,0,0,5,4,5
+Undergraduate,Retired,AirtelTigo,Prefer not to say,6-12 months,Postpaid,0,0,0,0,2,3,5
+Postgraduate,Student,MTN,Pricing,6-12 months,Both,1,1,1,1,6,3,4
+No Education,Self-employed,MTN,Coverage,3-4 years,Postpaid,0,1,1,1,6,1,1
+High school graduate,Employed part-time,MTN,Customer Service,3-4 years,Prepaid,1,0,0,1, ,3,1
+No Education,Employed full-time,MTN,Coverage,3-4 years,Postpaid,0,1,1,0,2,3,4
+Primary School,Retired,MTN,Customer Service,5 or more years,Postpaid,0,0,0,1,5,3,5
+Prefer not to say,Student,MTN,Customer Service,Less than 6 months,Postpaid,1,1,0,1,4,2,2
+Prefer not to say,Unemployed,MTN,Customer Service,3-4 years,Both,1,0,1,1,6,4,3
+Primary School,Self-employed,MTN,Coverage,1-2 years,Postpaid,1,0,0,0,6,1,1
+No Education,Retired,MTN,Coverage,1-2 years,Both,0,0,1,0,4,4,3
+No Education,Retired,MTN,Prefer not to say,5 or more years,Both,0,1,0,1,4,1,5
+Prefer not to say,Student,AirtelTigo,Coverage,Less than 6 months,Postpaid,0,1,0,1,5,1,1
+Primary School,Retired,Vodafone,Prefer not to say,6-12 months,Both,0,0,1,0,7,1,1
+No Education,Self-employed,MTN,Coverage,6-12 months,Both,1,1,1,1,5,3,4
+No Education,Employed part-time,Vodafone,Prefer not to say,Less than 6 months,Prepaid,0,0,0,0,6,4,4
+Postgraduate,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Postpaid,0,0,1,1,3,3,4
+No Education,Unemployed,Vodafone,Customer Service,3-4 years,Postpaid,0,1,0,1,4,3,4
+No Education,Self-employed,MTN,Prefer not to say,1-2 years,Prepaid,0,1,0,1,4,3,5
+Prefer not to say,Retired,MTN,Prefer not to say,6-12 months,Postpaid,0,1,0,0,3,1,2
+Postgraduate,Retired,Vodafone,Customer Service,1-2 years,Prepaid,0,1,0,0,5,4,5
+Primary School,Employed part-time,Vodafone,Prefer not to say,3-4 years,Both,0,0,1,1,6,1,1
+Primary School,Employed full-time,MTN,Prefer not to say,6-12 months,Prepaid,0,1,0,1,6,1,4
+High school graduate,Employed full-time,MTN,Coverage,3-4 years,Both,1,0,0,1,5,2,4
+Prefer not to say,Student,Glo,Customer Service,5 or more years,Prepaid,1,0,1,1,2,1,2
+Postgraduate,Self-employed,MTN,Prefer not to say,Less than 6 months,Both,0,1,0,1,4,3,5
+Postgraduate,Student,Vodafone,Prefer not to say,1-2 years,Prepaid,1,1,1,1,1,3,3
+Primary School,Student,MTN,Customer Service,3-4 years,Postpaid,1,0,1,0, ,1,3
+Undergraduate,Self-employed,MTN,Pricing,5 or more years,Both,0,1,0,1,1,4,3
+High school graduate,Unemployed,Vodafone,Customer Service,3-4 years,Postpaid,0,1,1,1,7,3,5
+Prefer not to say,Self-employed,AirtelTigo,Prefer not to say,3-4 years,Prepaid,0,0,0,0, ,4,4
+Undergraduate,Employed full-time,AirtelTigo,Pricing,1-2 years,Both,1,0,0,0,7,4,1
+Undergraduate,Employed full-time,Glo,Coverage,3-4 years,Prepaid,1,0,0,1,1,2,5
+Undergraduate,Employed full-time,MTN,Prefer not to say,Less than 6 months,Both,1,0,0,1,7,4,1
+Undergraduate,Student,AirtelTigo,Pricing,3-4 years,Postpaid,0,0,1,1,4,4,2
+Postgraduate,Employed full-time,Vodafone,Pricing,1-2 years,Postpaid,1,0,0,0,3,1,5
+Undergraduate,Retired,MTN,Prefer not to say,3-4 years,Prepaid,1,1,1,1,2,1,4
+No Education,Unemployed,MTN,Coverage,3-4 years,Postpaid,0,0,1,1,1,1,4
+High school graduate,Unemployed,Glo,Customer Service,3-4 years,Prepaid,0,0,1,1,5,3,3
+Prefer not to say,Employed full-time,MTN,Coverage,Less than 6 months,Prepaid,1,1,0,1,5,1,2
+Prefer not to say,Unemployed,Glo,Prefer not to say,6-12 months,Postpaid,0,1,1,0,7,1,2
+High school graduate,Self-employed,Glo,Prefer not to say,6-12 months,Postpaid,1,0,1,1, ,1,3
+No Education,Unemployed,Vodafone,Customer Service,6-12 months,Both,0,1,1,0,4,2,4
+High school graduate,Employed part-time,Vodafone,Prefer not to say,6-12 months,Postpaid,1,0,1,1,4,1,4
+Undergraduate,Student,AirtelTigo,Customer Service,3-4 years,Both,0,0,0,1,4,2,4
+Undergraduate,Retired,AirtelTigo,Prefer not to say,6-12 months,Prepaid,0,0,0,0,4,3,5
+Undergraduate,Employed full-time,AirtelTigo,Coverage,3-4 years,Postpaid,1,0,1,1,4,1,3
+No Education,Retired,MTN,Customer Service,Less than 6 months,Both,1,0,1,1, ,4,5
+Prefer not to say,Student,AirtelTigo,Pricing,3-4 years,Postpaid,1,1,0,0, ,4,2
+Primary School,Unemployed,MTN,Pricing,5 or more years,Both,1,0,0,1,3,4,5
+High school graduate,Unemployed,Vodafone,Prefer not to say,5 or more years,Prepaid,0,0,1,0,4,3,1
+Primary School,Employed full-time,Vodafone,Customer Service,6-12 months,Prepaid,1,0,1,0,5,4,4
+Undergraduate,Self-employed,Vodafone,Pricing,3-4 years,Postpaid,0,1,1,1, ,2,3
+No Education,Retired,AirtelTigo,Pricing,5 or more years,Postpaid,1,0,0,0,6,1,4
+Primary School,Employed part-time,AirtelTigo,Coverage,1-2 years,Postpaid,0,0,1,1,6,3,5
+High school graduate,Employed full-time,AirtelTigo,Coverage,3-4 years,Both,1,0,1,1, ,1,1
+High school graduate,Student,MTN,Coverage,1-2 years,Prepaid,0,1,1,0,1,4,1
+Postgraduate,Employed part-time,MTN,Prefer not to say,Less than 6 months,Prepaid,1,0,1,1,4,1,4
+Undergraduate,Retired,Vodafone,Prefer not to say,5 or more years,Prepaid,1,0,0,0,1,1,2
+Postgraduate,Unemployed,Glo,Pricing,5 or more years,Both,1,0,0,1,2,2,4
+High school graduate,Self-employed,MTN,Pricing,1-2 years,Both,1,1,1,0, ,1,5
+Primary School,Retired,Vodafone,Customer Service,Less than 6 months,Both,0,0,1,1, ,2,4
+Postgraduate,Unemployed,MTN,Prefer not to say,6-12 months,Prepaid,1,1,0,1,6,2,2
+Primary School,Self-employed,AirtelTigo,Pricing,5 or more years,Both,1,1,0,1,5,2,4
