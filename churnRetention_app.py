@@ -40,3 +40,5 @@ with tab2:
         predictions = model.predict(batch_df)
         batch_df["Prediction"] = ["Churn" if p == 1 else "Stay" for p in predictions]
         st.write(batch_df)
+import joblib
+model = joblib.load("churn_model.pkl")
